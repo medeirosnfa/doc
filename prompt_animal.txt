@@ -1,0 +1,123 @@
+
+Animation Story Creation Framework
+-----
+Section 1: 
+Customizable Parameters
+-----
+{Common_Animal}: lion
+{Scientific_Animal}: Panthera leo
+{Country}: Tanzânia
+{Typical_Dish}: Ugali, Traditional corn dough
+{Clothing}:  He wears a crisp, double-breasted white chef's uniform with silver buttons, the {Country} flag stitched on the sleeve, and a white chef's hat that fits snugly on his head.
+{Animal_Details}: He is a tall, muscular, and powerful anthropomorphic, {Common_Animal} ({Scientific_Animal}), exuding authority and strength. His golden fur is meticulously groomed, with a thick, flowing mane framing his face. His facial features are sharp and majestic, with piercing golden eyes, one of which is cybernetic and emits a faint mechanical glow. His bionic enhancements extend to his left arm, both of his sharp-clawed hands being bionic, featuring sleek metallic plating and intricate mechanical joints. {Clothing}. His claws are sharp, adding an edgy, warlike touch. His confident stance and glowing eyes create an intense, imposing presence.
+-----
+Section 2: 
+Essential Guidelines
+-----
+- Develop a storyline for animation.
+- Narration Scripts Prompt Structure: Provide clear narration for each scene, using tone and words suitable for the target audience.
+- Consistent Design: Camera framing body up to the knees with different angles and maintain consistency in character or animal design, consistency Clothing design, Maintain a coherent and recognizable appearance for the character throughout the animation, Anthropomorphic hybrid creature, muscular and powerful warrior animal.
+- Vivid Details: Use bright and colorful visuals with emotionally resonant facial expressions to captivate the audience, effects and camera movement different angles.
+- Animation Prompt Structure: For each scene create an animation prompt related to the image prompt, include camera movement and visual effects.
+- Image Prompt Structure: Camera framing body up to the knees with different angles and maintain consistency in character or animal design, consistency Clothing design, Maintain a coherent and recognizable appearance for the character throughout the animation, Anthropomorphic hybrid creature, muscular and powerful warrior animal.
+For each scene create an animation prompt related to the image prompt, include camera movement and visual effects.
+-----
+Lighting: Use strong contrasts with deep shadows and highlights to enhance the cinematic feel.
+Textures: Focus on the details of the scales, bionic features, musculature, and rustic elements of the kitchen.
+Fantasy elements: Incorporate subtle magical features such as floating ingredients, glowing spices, or enchanted objects into the kitchen.
+Color palette: Use rich, warm tones to create a cozy atmosphere in the kitchen, contrasting with the warrior’s intense colors.
+Composition: Center the warrior in the scene from different angles, ensuring that background elements complement the main action without overwhelming the image.
+-----
+Prompt Presenting:
+Create a ultra-realistic image, {Animal_Details}.
+The Animal is facing the camera sharpening the knife and the background is out of focus. Set in a cozy, rustic kitchen filled with {Country} details such as an enchanted antique stove, wooden shelves, and various kitchen furniture and decor items unique to its {Country}.
+Use dramatic, moody lighting to emphasize textures and deep shadows for a ultra-realistic look. 
+Add subtle fantasy elements, floating, steam, or an enchanted cooking fire, to create an immersive to enhance the magical, fairytale feel.
+-----
+Prompt Prepare the ingredients:
+Create a ultra-realistic image, {Animal_Details}.
+The scene shows the warrior chopping vegetables in a cozy, rustic kitchen, filled with {Country} details such as an enchanted antique stove, wooden shelves, and various kitchen furniture and décor items unique to his {Country}. 
+Use dramatic, moody lighting to emphasize textures and deep shadows, bringing out a ultra-realistic quality. 
+Add subtle fantasy elements, such as floating spices, steam, or an enchanted cooking fire, to create an immersive fairytale atmosphere.
+-----
+Prompt Cooking the Dish:
+Create a ultra-realistic image, {Animal_Details}.
+Is stirring a large pot of {Typical_Dish}, tense and rushed atmosphere, pots on the fire and the chef cooking attentively,
+in a cozy, rustic kitchen, filled with {Country} details such as an enchanted antique stove, wooden shelves, and various kitchen furniture and décor items unique to his {Country}. 
+Use dramatic, moody lighting to highlight textures and deep shadows, enhancing the ultra-realistic look. 
+Add subtle fantasy elements, floating, steam, or an enchanted cooking fire, to create an immersive to enhance the magical, fairytale feel.
+-----
+Prompt Finish the Dish:
+Create a ultra-realistic image, {Animal_Details}.
+The hybrid is finishing the presentation of {Typical_Dish}, chef with care and delicacy, leaving the finished dish with chef's touches to deliver to serve, in a cozy, rustic kitchen, filled with {Country} details such as an enchanted antique stove, wooden shelves, and various kitchen furniture and décor items unique to his {Country}.
+Use dramatic, moody lighting to emphasize textures and deep shadows for a ultra-realistic look. 
+Add subtle fantasy elements, floating, steam, or an enchanted cooking fire, to create an immersive to enhance the magical, fairytale feel.
+-----
+Prompt Presenting the dish:
+Create a ultra-realistic image, {Animal_Details}.
+The Animal stands with its arms crossed facing the camera in the background and is out of focus. In the center of the image on the table, the {Typical_Dish} plate is in focus on the table. Set in a cozy, rustic kitchen filled with {Country} details, such as an enchanted antique stove, wooden shelves, and various kitchen furniture and decor items unique to your {Country}.
+Use dramatic, moody lighting to emphasize textures and deep shadows for a ultra-realistic look. 
+Add subtle fantasy elements, floating, steam, or an enchanted cooking fire, to create an immersive to enhance the magical, fairytale feel.
+-----
+Prompt Personagem:
+Create a ultra-realistic image, {Animal_Details}.
+White background.
+-----
+Answer all prompts in Portuguese and English.
+Do not use cache or memory, create this prompt entirely new, with the guideline settings.
+-----
+
+
+
+https://glif.app/@fab1an/glifs/clfcfp9lm0000mh08c0pescnh
+
+
+
+Use dramatic, moody lighting to highlight deep textures and shadows, enhancing the hyper-realistic look. 
+Incorporate fantasy touches, such as small explosions of color, related objects floating in the background, and magic, to enhance the magical, fairytale feel.
+
+
+
+
+Pixar 3D animation style,
+A young adult man in his 30s with slicked-back light blond hair, fair skin, and a well-groomed appearance is wearing a high-quality black suit with visible texture, a fitted white shirt, and a shiny black silk tie. He stands in the center of an octagon, holding a gray metallic tablet with rounded edges and visible buttons, but looking directly at the camera as he announces the next fight. The setting is a modern auditorium with a high ceiling and circular spotlights that create dramatic lighting, highlighting him on the stage. Behind him, a large audience seated in bleachers watches intently. The scene conveys formality and professionalism, with rich detail, including reflections on the suit, tablet, and hair, and an imposing and vibrant atmosphere. He stands in the center of an octagon announcing the next fight, Pixar 3D animation style,
+
+
+
+MSSEZAM
+
+
+
+The setting is a cozy kitchen with wooden accents, and the scene conveys pure joy and messiness in an adorable moment of food play.
+
+In the background, the chef stands gently with his arms crossed out of focus, a tall, muscular anthropomorphic lion standing 7 feet tall, exuding authority and strength. His golden fur is meticulously blended, with a thick, flowing mane framing his face. His facial features are sharp and regal, with piercing golden eyes, one of which is cybernetic and emits a faint mechanical glow. His bionic enhancements extend to his left arm, featuring sleek metallic plating and complex mechanical joints. He wears a pristine, double-breasted white chef’s uniform with silver buttons, the Tanzanian flag stitched on the left sleeve, and a fitted white chef’s hat. 
+
+,a tall, muscular, and powerful anthropomorphic jaguar with golden fur patterned with black rosettes. This fierce-looking warrior has a feline face with a pronounced snout, long black whiskers, sharp teeth, and triangular ears. His glowing golden eyes are intense, with one cybernetic eye emitting a faint mechanical light. His right arm is fully bionic, with elegant metallic details contrasting with his natural fur. Tattoos cover parts of his arms and chest, adding an edgy vibe. He wears a crisp white chef's uniform, including a double-breasted jacket with silver buttons and the Brazilian flag stitched on the left sleeve. A fitted white chef's hat sits perfectly on his head. 
+
+In the center of the image, a huge pasta plate filled with spaghetti topped with bright red sauce and large, juicy meatballs sits in the center of a rustic table. Around the plate, two one-year-olds sit with their hands full of noodles, laughing and having fun. Their faces, mouths, and arms are completely covered in red sauce, and a few strands of noodles hang from their clothes and hair.
+
+Incorporate fantasy touches like small bursts of color, related objects floating in the background, and magic to add to the magical, fairytale feel.
+
+
+
+
+
+
+
+
+
+
+
+The setting is a cozy kitchen with wooden details, and the scene conveys pure joy and mess in an adorable moment of play with food.
+
+In the background, the two chiefs stand back to back, arms crossed gently out of focus,
+(a tall, muscular anthropomorphic lion standing 7 feet tall, exuding authority and strength. His golden fur is meticulously blended, with a thick, flowing mane framing his face. His facial features are sharp and majestic, with piercing golden eyes, one of which is cybernetic and emits a faint mechanical glow. His bionic enhancements extend to his left arm, featuring sleek metallic plating and complex mechanical joints. He wears a pristine, double-breasted white chef's uniform with silver buttons, the Tanzanian flag stitched onto the left sleeve, and a fitted white chef's hat.)
+(a tall, muscular, and powerful anthropomorphic jaguar with golden fur patterned with black rosettes. This fierce-looking warrior has a feline face with a pronounced snout, long black whiskers, sharp teeth, and triangular ears. His glowing golden eyes are intense, with one cybernetic eye emitting a faint mechanical light. His right arm is fully bionic, with sleek metallic accents contrasting with his natural fur. Tattoos cover portions of his arms and chest, adding an edgy vibe. He wears a crisp white chef’s uniform, including a double-breasted jacket with silver buttons and the Brazilian flag stitched onto the left sleeve. A fitted white chef’s hat sits perfectly on his head.)
+In the center of the image, a huge pasta plate filled with spaghetti covered in bright red sauce and large, juicy meatballs sits in the center of a rustic table. Around the plate, two one-year-olds sit with their hands full of pasta, laughing and having fun. Their faces, mouths, and arms are completely covered in red sauce, and a few strands of pasta hang from their clothes and hair.
+
+Incorporate fantasy touches such as small bursts of color, related objects floating in the background, and magic to give a magical, fairytale feel.
+
+
+
+
+Estão prontos para batalha de hoje, de acordo com sorteio de hoje representando o Brasil, nossa querida Onça-Pintada, e seu adversário direto da Tanzania, será representada por temido Leão, e ai quem vence essa disputa, já escolheu sua torcida?

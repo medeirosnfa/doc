@@ -1,0 +1,98 @@
+
+-----
+Animation Story Creation Framework
+-----
+Section 1: 
+	Customizable Parameters
+-----
+{Common_Animal}: lion
+{Scientific_Animal}: Panthera leo
+{Country}: Tanzânia
+{Typical_Dish}: Ugali, Traditional corn dough
+{Clothing}: He wears a crisp, double-breasted white chef's uniform with silver buttons, the {Country} flag stitched on the sleeve and a chef's hat that his head.
+{Facial_Features}: 
+Right Hand Bionic: The right hand augmented by cutting-edge bionics, showcasing a design that prioritizes deadly precision. Each finger is meticulously engineered to enhance dexterity and control, allowing for swift, accurate movements that can be both graceful and lethal. This harmonious blend of organic and mechanical elements highlights the seamless integration of technology into his very being, making him a formidable presence.
+Left Arm Bionic: His entire left arm is a stunning masterpiece of bionic engineering, enveloped in a sleek layer of polished metal that gleams with a futuristic sheen. The arm is designed with intricate joints that allow for remarkable flexibility and fluidity of movement, enabling him to perform complex tasks with ease. Sharp claws extend from his fingertips, each crafted with a menacing point, contrasting sharply with the raw power of his natural musculature, symbolizing the perfect fusion of human strength and advanced technology.
+Glowing Eyes: Features piercing golden eyes, with one subtly glowing from within, showcasing a cybernetic light that hints at the sophisticated technology embedded in its design. This illumination not only emphasizes its advanced capabilities but also conveys an intense, almost sentient awareness, suggesting a powerful artificial intelligence at work.
+His confident stance and all the enhancement details, such as Bionic Right Hand, Bionic Left Arm and Glowing Eyes, create a unique imposing presence, blending all the technological characteristics of each enhancement, muscular raw physical power and precision of cybernetic enhancements.
+{Animal_Details}: a tall, anthropomorphic hybrid creature, a muscular and powerful warrior-animal, {Common_Animal} ({Scientific_Animal}) exudes authority and strength. Its golden fur, impeccably groomed, is crowned by a thick, flowing mane that frames a sharp, majestic face. {Facial_Features}. 
+{Character}: He is {Animal_Details}. {Clothing}.
+-----
+Section 2: 
+	Describe Essential Guidelines
+-----
+- Develop a storyline for animation.
+- Consistent: Maintain consistency in Character, consistency Animal Details, consistency Facial Features, consistency Clothing, maintain a coherent and recognizable appearance for the Character, Animal Details, Facial Features and Clothing throughout the Story.
+- Vivid Details: Use bright and colorful visuals with emotionally resonant facial expressions to captivate the audience, effects and camera movement.
+- Image Prompt Structure: Maintain consistency in Character, consistency Animal Details, consistency Facial Features, consistency Clothing, maintain a coherent and recognizable appearance for the Character, Animal Details, Facial Features and Clothing throughout the Story.
+- Narration: Provide clear narration for each scene, using tone and words suitable for the target audience.
+- Animation: For each scene create an animation related to the image prompt, include camera movement and visual effects.
+-----
+Lighting: Use strong contrasts with deep shadows and highlights to enhance the cinematic, high-contrast, natural-light, highly-detailed feel.
+Textures: Focus on the Facial Features of scales, skin, fur, bionic features, cybernetic enhancements, musculature, and rustic elements of the kitchen.
+Fantasy elements: Incorporate subtle magical features, such as floating ingredients or objects, enchanted objects in the kitchen, or sparks or fire, to create a magical yet realistic atmosphere, fairytale ambiance.
+Color palette: Use rich, warm tones to create a cozy atmosphere in the kitchen, contrasting with the intense colors of the warrior.
+Composition: Center the warrior in the scene from different angles, ensuring that the background elements complement the main action without overwhelming the image.
+-----
+Scene 1: 
+	Modeling
+Image Prompt:
+	Create a ultra-realistic image. {Character}. White background. 
+-----
+Scene 2: 
+Introducing the Head Chef
+Image Prompt:
+Create an ultra-realistic image. {Character}. The camera captures the warrior chef in a wide shot, standing in the center of the kitchen, from head to knees, as he faces the camera and strikes the two shiny, gleaming knives pointing vertically upwards — an extension of each bionic hand — together, sharpening them with precise, powerful strokes that exude skill and confidence as he holds them, while presenting to the audience.
+The softly blurred background shows a cozy, rustic kitchen filled with {Country}-inspired details.
+Warm, dramatic lighting highlights the textures of the wood furniture, the intricate details of the metallic sheen of the knives. Subtle fantasy elements, like the gently floating sparks of the knives, and many effects create a magical yet realistic atmosphere. {Facial_Features}.
+Narration:
+Animation:
+-----
+Scene 3: 
+	Prepare the ingredients
+Image Prompt:
+	Create a ultra-realistic image. {Character}. The scene captures the warrior fully immersed in his craft, his sharp, focused gaze fixed intently on the vibrant ingredients as he skillfully chops vegetables on a well-worn wooden countertop. The camera hovers slightly above and in front of his head, offering a dynamic, drone-like perspective that emphasizes both his meticulous concentration and the captivating details of the setting. The cozy, rustic kitchen is enriched with {Country}-inspired elements, including an enchanted antique stove radiating a soft magical glow, intricately carved wooden shelves displaying traditional utensils, and furniture that showcases unique regional craftsmanship. Warm, ambient lighting highlights the rich textures of the wood, stone, and kitchen surfaces, while the freshly chopped vegetables provide bursts of color against the earthy tones. His cybernetic arm, a masterpiece of engineering with sleek metallic plating and glowing circuits, operates with flawless precision. Each mechanical joint moves smoothly, allowing the enhanced claws to slice through the vegetables effortlessly. The bionic arm's integrated sensors scan the ingredients for quality, while subtle energy pulses interact with the cutting board, guiding the vegetables into perfectly organized piles. {Facial_Features}.
+Narration:
+Animation:
+-----
+Scene 4: 
+	Cooking the Dish
+Image Prompt:
+	Create a ultra-realistic image. {Character}. The camera, positioned at pot level with a wide-angle fisheye lens, captures the warrior chef intensely stirring a bubbling pot of {Typical_Dish}, its glowing contents swirling with an almost magical energy. His cybernetic arm gleams under the warm ambient light, every mechanical joint and glowing circuit visible as it moves with flawless precision. Sparks of energy ripple through the arm, syncing with the enchanted pot and the faintly pulsating magical fire beneath it. The cozy, rustic kitchen surrounds him, adorned with {Country}-inspired elements like an antique enchanted stove and intricately carved wooden shelves holding traditional utensils and vibrant ingredients, while the glowing spices float gently in the air. The wide-angle frame showcases the bustling atmosphere of the kitchen, where multiple pots bubble and steam rises like living tendrils, creating a sense of urgency. The rhythmic motion of the ladle sends ripples of light across the pot, illuminating the chef’s focused expression as he expertly balances technology, magic, and culinary artistry. Subtle fantasy elements—floating spices, glowing steam, and enchanted tools—merge seamlessly with the rustic charm of the setting, crafting a visually dynamic and immersive fairytale ambiance.
+	{Facial_Features}.
+Narration:
+Animation:
+-----
+Scene 5: 
+	Finish the Dish
+Image Prompt:
+	Create a ultra-realistic image. {Character}.
+	The warrior chef stands at the center of a cozy, rustic kitchen, carefully finishing the presentation of {Typical_Dish} with meticulous precision and a touch of artistry. His cybernetic arm moves fluidly, its glowing circuits softly pulsating as it places the final garnishes with delicate care. The warm, magical glow of an enchanted antique stove illuminates the scene, highlighting the intricate details of wooden shelves filled with {Country}-inspired utensils and décor. Vibrant spices and ingredients are neatly arranged on the countertops, adding splashes of color to the earthy tones of the furniture and stone surfaces.
+	Dramatic, moody lighting emphasizes deep shadows and textures, creating an ultra-realistic atmosphere. Subtle fantasy elements enhance the fairytale setting: glowing steam gently rises from the dish, swirling as if alive, while faint sparks of magical fire flicker in the background. The chef's intense focus and deliberate movements convey the weight of the moment, as the camera lingers on the dish, capturing its beauty and the chef’s unique blend of technology, magic, and culinary mastery. The scene feels alive, brimming with charm and a touch of wonder.
+	{Facial_Features}.
+Narration:
+Animation:
+-----
+Scene 6: 
+	Presenting the dish
+Image Prompt:
+	Create a ultra-realistic image. The camera focuses sharply on the centerpiece of the scene: the exquisitely plated {Typical_Dish} resting on a rustic wooden table. The vibrant dish radiates freshness and artistry, illuminated by warm, dramatic lighting that highlights its rich textures and intricate details. Surrounding the table, the cozy kitchen is adorned with {Country}-inspired elements, including an enchanted antique stove emitting a soft magical glow, intricately carved wooden shelves stocked with traditional utensils, and furniture reflecting regional craftsmanship. Subtle fantasy elements bring the scene to life—delicate, glowing steam rises gracefully from the dish, while faint sparks of enchanted fire flicker in the background, casting dynamic shadows across the space.
+	In the background, slightly out of focus, the warrior chef stands with arms crossed, exuding confidence and satisfaction. {Character}, imposing figure is silhouetted against the warm, ambient light, and the faint glow of his cybernetic enhancements adds a futuristic touch to the traditional setting. The scene's composition draws attention to the dish while subtly blending the magical and technological elements of the chef and his environment, creating an immersive and cinematic atmosphere.
+	{Facial_Features}.
+Narration:
+Animation:
+-----
+-----
+Important and remember:
+-----
+Answer in English.
+Create your answer by adjusting all prompts by updating the parameters or variables, adding the parameters or variables that were generated.
+Replace the generated parameters or variables in the texts or prompts.
+Do not use cache or memory, create this prompt entirely new, with the settings from Section 2 - Describe Essential Guidelines.
+-----
+Be careful and correct to ensure that all prompts do not create artifacts, do not use separate code range or plain text, add the generated variables to the prompts, maintain consistency in Character, consistency in Animal Details, consistency in Facial Features, consistency in Clothing.
+Validate between prompts if you find errors or inconsistencies of the Character and its Facial Features and Details, compare all scenes with the prompts and ask if it is to be corrected.
+-----
+Create the image prompts to use the "Flux Pro v1.1" template with consistency and details in plain text format.
+Create the animation prompts one topic to create videos using "minimax" scene is 5 seconds long, another with "kling 1.6" scene is 10 seconds long.
+-----

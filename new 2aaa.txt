@@ -1,0 +1,42 @@
+Estrutura Geral do Prompt
+Variáveis a Serem Substituídas:
+
+{Animal_Comum}: Onça-Pintada
+{Animal_Científico}: Panthera onca
+{País}: Brasil
+{Prato_Típico}: Sobá, Macarrão típico japonês com caldo especial
+
+crie os tres prompts com as variaveis acima, e adicione,
+Iluminação: Utilize contrastes fortes com sombras profundas e destaques para realçar a sensação cinematográfica.
+Texturas: Foque nos detalhes das escamas, na musculatura poderosa e nos elementos rústicos da cozinha.
+Elementos de Fantasia: Incorpore características mágicas sutis, como ingredientes flutuantes, especiarias brilhantes ou objetos encantados na cozinha.
+Paleta de Cores: Use tons ricos e quentes para criar uma atmosfera acolhedora na cozinha, contrastando com as cores intensas do/a guerreiro/a.
+Composição: Centralize o/a guerreiro/a na cena, garantindo que os elementos de fundo complementem a ação principal sem sobrecarregar a imagem.
+
+Prompt 1: Preparar os Ingredientes
+Crie uma imagem cinematográfica hiper-realista de uma criatura híbrida antropomórfica inspirada no/a {Animal_Comum} ({Animal_Científico}) com uma fisicalidade humana musculosa e poderosa. Este/a guerreiro/a de aparência feroz possui uma tatuagem de gangue de rua, expressão ameaçadora e perigosa, garras afiadas e um olho ciborgue. Partes sutis de seu/a pele escamosa mostram sinais de um robô ciborgue. Está vestido/a com traje de chef adornado com a bandeira de {País} em algum detalhe de sua roupa. A cena mostra o/a guerreiro/a cortando vegetais em uma cozinha rústica e acolhedora, rica em detalhes como um fogão antigo encantado, prateleiras de madeira e diversos utensílios de cozinha. Utilize uma iluminação dramática e sombria para enfatizar texturas e sombras profundas, realçando a qualidade hiper-realista. Adicione elementos de fantasia sutis, como especiarias flutuantes e bonecos de cozinha encantados, para criar uma atmosfera de conto de fadas envolvente.
+
+Prompt 2: Cozinhar o Prato
+Ilustre uma imagem cinematográfica hiper-realista de uma criatura híbrida antropomórfica inspirada no/a {Animal_Comum} ({Animal_Científico}) com uma fisicalidade humana musculosa e poderosa. Este/a guerreiro/a de aparência vingativa possui uma tatuagem de gangue de rua, expressão perigosa, garras afiadas e um olho ciborgue. Partes sutis de sua pele escamosa mostram sinais de um robô ciborgue. Vestido/a com traje de chef adornado com a bandeira de {País}, o/a guerreiro/a está mexendo uma grande panela de {Prato_Típico} em uma cozinha rústica e acolhedora. A cozinha apresenta um fogão antigo encantado, prateleiras de madeira, panelas, talheres, facas, vapor e fogo. Utilize uma iluminação dramática e sombria para destacar texturas e sombras profundas, realçando a aparência hiper-realista. Incorpore toques de fantasia como ingredientes suaves e especiarias flutuantes para aprimorar a sensação mágica e de conto de fadas.
+
+Prompt 3: Finalizar o Prato
+Gere uma imagem cinematográfica hiper-realista de uma criatura híbrida antropomórfica inspirada no/a {Animal_Comum} ({Animal_Científico}) com uma fisicalidade humana musculosa e poderosa. Este/a guerreiro/a intimidador/a possui uma tatuagem de gangue de rua, expressão ameaçadora e perigosa, garras afiadas e um olho ciborgue. Partes sutis de sua pele escamosa mostram sinais de um robô ciborgue. Vestido/a com traje de chef adornado com a bandeira de {País}, o/a híbrido/a está finalizando a apresentação de {Prato_Típico} em uma cozinha rústica e acolhedora. O fundo apresenta um fogão antigo encantado, prateleiras de madeira, diversos utensílios de cozinha, panelas, talheres, facas, vapor e fogo, todos detalhadamente. Utilize uma iluminação dramática e sombria para enfatizar texturas e sombras profundas, garantindo uma aparência hiper-realista. Adicione elementos de fantasia sutis, como bonecos de cozinha encantados e especiarias flutuantes, para criar uma atmosfera calorosa e de conto de fadas enquanto o/a guerreiro/a finaliza o prato.
+
+
+
+Exemplo de Substituição das Variáveis
+Variáveis Substituídas:
+
+{Animal_Comum}: Lobo
+{Animal_Científico}: Canis lupus
+{País}: Itália
+{Prato_Típico}: Risoto de Funghi: Risoto italiano cremoso com cogumelos especiais.
+Prompt 1 Exemplo: Preparar os Ingredientes
+Crie uma imagem cinematográfica hiper-realista de uma criatura híbrida antropomórfica inspirada no/a Lobo (Canis lupus) com uma fisicalidade humana musculosa e poderosa. Este/a guerreiro/a de aparência feroz possui uma tatuagem de gangue de rua, expressão ameaçadora e perigosa, garras afiadas e um olho ciborgue. Partes sutis de seu/a pele escamosa mostram sinais de um robô ciborgue. Está vestido/a com traje de chef adornado com a bandeira da Itália em algum detalhe de sua roupa. A cena mostra o/a guerreiro/a cortando vegetais em uma cozinha rústica e acolhedora, rica em detalhes como um fogão antigo encantado, prateleiras de madeira e diversos utensílios de cozinha. Utilize uma iluminação dramática e sombria para enfatizar texturas e sombras profundas, realçando a qualidade hiper-realista. Adicione elementos de fantasia sutis, como especiarias flutuantes e bonecos de cozinha encantados, para criar uma atmosfera de conto de fadas envolvente.
+
+Dicas Adicionais para Geração de Imagens:
+Iluminação: Utilize contrastes fortes com sombras profundas e destaques para realçar a sensação cinematográfica.
+Texturas: Foque nos detalhes das escamas, na musculatura poderosa e nos elementos rústicos da cozinha.
+Elementos de Fantasia: Incorpore características mágicas sutis, como ingredientes flutuantes, especiarias brilhantes ou objetos encantados na cozinha.
+Paleta de Cores: Use tons ricos e quentes para criar uma atmosfera acolhedora na cozinha, contrastando com as cores intensas do/a guerreiro/a.
+Composição: Centralize o/a guerreiro/a na cena, garantindo que os elementos de fundo complementem a ação principal sem sobrecarregar a imagem.

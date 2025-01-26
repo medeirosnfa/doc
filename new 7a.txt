@@ -1,0 +1,36 @@
+Common Animal: Jaguar  
+Scientific Animal: Panthera onca  
+Country: Brazil  
+Typical Dish: Soba, a Japanese noodle dish with a special broth  
+
+Create three unique prompts incorporating the details above, with a focus on personalization and creativity. Each prompt should include the following elements:
+Essential Guidelines
+-----
+- Storyline Development: Craft an engaging storyline where the character actively highlights problems and inspires action.
+- Narration Scripts: Provide clear narration for each scene, using tone and words suitable for the target audience.
+- Consistent Design: Maintain a coherent and recognizable appearance for the character throughout the animation, Anthropomorphic hybrid creature, muscular and powerful warrior animal, bionic parts..
+- Vivid Details: Use bright and colorful visuals with emotionally resonant facial expressions to captivate the audience, effects and camera movement.
+- Image Prompt Structure: clarity and precision.
+
+Lighting: Use strong contrasts with deep shadows and highlights to enhance the cinematic feel.  
+Textures: Focus on the details of the scales, bionic features, musculature, and rustic elements of the kitchen.  
+Fantasy Elements: Incorporate subtle magical features such as floating ingredients, glowing spices, or enchanted objects into the kitchen.  
+Color Palette: Use rich, warm tones to create a cozy atmosphere in the kitchen, contrasting with the warrior’s intense colors.  
+Composition: Center the warrior in the scene from different angles, ensuring that the background elements complement the main action without overwhelming the image.  
+
+Prompt 1: Prepare the Ingredients  
+Create a hyper-realistic cinematic image of an anthropomorphic hybrid creature inspired by Jaguar (Panthera onca) 
+He is a tall, muscular, and powerful anthropomorphic jaguar with golden fur patterned with black rosettes. This fierce-looking warrior has a feline face with a pronounced snout, long black whiskers, sharp teeth, and triangular ears. His glowing golden eyes are intense, with one cybernetic eye emitting a faint mechanical light. His right arm is fully bionic, with elegant metallic details contrasting with his natural fur. Tattoos cover parts of his arms and chest, adding an edgy vibe. He wears a crisp white chef's uniform, including a double-breasted jacket with silver buttons and the Brazilian flag stitched on the left sleeve. A fitted white chef's hat sits perfectly on his head. Standing 6 feet 7 inches tall, his confident stance exudes authority. His sharp claws are carefully maintained, used with precision and care.
+The scene shows the warrior chopping vegetables in a cozy, rustic kitchen filled with details such as an enchanted antique stove, wooden shelves, and various kitchen furniture. Use dramatic and moody lighting to emphasize textures and deep shadows, enhancing a hyper-realistic quality. Add subtle fantasy elements, such as floating spices and enchanted cooking steam, to create an immersive fairytale atmosphere.
+
+Prompt 2: Cooking the Dish  
+Create a hyper-realistic cinematic image of an anthropomorphic hybrid creature inspired by Jaguar (Panthera onca) 
+He is a tall, muscular, and powerful anthropomorphic jaguar with golden fur patterned with black rosettes. This fierce-looking warrior has a feline face with a pronounced snout, long black whiskers, sharp teeth, and triangular ears. His glowing golden eyes are intense, with one cybernetic eye emitting a faint mechanical light. His right arm is fully bionic, with elegant metallic details contrasting with his natural fur. Tattoos cover parts of his arms and chest, adding an edgy vibe. He wears a crisp white chef's uniform, including a double-breasted jacket with silver buttons and the Brazilian flag stitched on the left sleeve. A fitted white chef's hat sits perfectly on his head. Standing 6 feet 7 inches tall, his confident stance exudes authority. His sharp claws are carefully maintained, used with precision and care.
+The warrior is stirring a large pot of Soba in a cozy, rustic kitchen. The kitchen features an enchanted antique stove, wooden shelves, pots, cutlery, knives, steam, and fire. Use dramatic and moody lighting to highlight textures and deep shadows, enhancing the hyper-realistic look. Incorporate fantasy touches, such as soft ingredients and floating spices, to enhance the magical, fairytale feel.
+
+Prompt 3: Finish the Dish  
+Create a hyper-realistic cinematic image of an anthropomorphic hybrid creature inspired by Jaguar (Panthera onca) 
+He is a tall, muscular, and powerful anthropomorphic jaguar with golden fur patterned with black rosettes. This fierce-looking warrior has a feline face with a pronounced snout, long black whiskers, sharp teeth, and triangular ears. His glowing golden eyes are intense, with one cybernetic eye emitting a faint mechanical light. His right arm is fully bionic, with elegant metallic details contrasting with his natural fur. Tattoos cover parts of his arms and chest, adding an edgy vibe. He wears a crisp white chef's uniform, including a double-breasted jacket with silver buttons and the Brazilian flag stitched on the left sleeve. A fitted white chef's hat sits perfectly on his head. Standing 6 feet 7 inches tall, his confident stance exudes authority. His sharp claws are carefully maintained, used with precision and care.
+The hybrid is finishing the presentation of Soba in a cozy, rustic kitchen. The background features an enchanted antique stove, wooden shelves, various cooking utensils, pots, cutlery, knives, steam, and fire, all in intricate detail. Use dramatic and moody lighting to emphasize textures and deep shadows for a hyper-realistic look. Add subtle fantasy elements, such as enchanted kitchen dolls and floating spices, to create a warm, fairytale atmosphere as the warrior completes the dish.
+
+responda em ingles

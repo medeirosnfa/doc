@@ -1,0 +1,75 @@
+Animation Story Creation Framework
+-----
+Section 1: 
+Customizable Parameters
+-----
+{Common_Animal}: lion
+{Scientific_Animal}: Panthera leo
+{Country}: Tanzânia
+{Typical_Dish}: Ugali, Traditional corn dough
+{Clothing}:  He wears a crisp, double-breasted white chef's uniform with silver buttons, the {Country} flag stitched on the sleeve, and a white chef's hat that fits snugly on his head.
+{Animal_Details}: He is a tall, muscular, and powerful anthropomorphic, {Common_Animal} ({Scientific_Animal}), exuding authority and strength. His golden fur is meticulously groomed, with a thick, flowing mane framing his face. His facial features are sharp and majestic, with piercing golden eyes, one of which is cybernetic and emits a faint mechanical glow. 
+His bionic enhancements extend to his left arm featuring sleek metallic plating and intricate mechanical joints. His claws are sharp, adding an edgy, warlike touch. 
+His confident stance and glowing eyes create an intense, imposing presence.
+-----
+Section 2: 
+Essential Guidelines
+-----
+- Develop a storyline for animation.
+- Narration Scripts Prompt Structure: Provide clear narration for each scene, using tone and words suitable for the target audience.
+- Consistent Design: Camera framing body up to the knees with different angles and maintain consistency in character or animal design, consistency Clothing design, Maintain a coherent and recognizable appearance for the character throughout the animation, Anthropomorphic hybrid creature, muscular and powerful warrior animal.
+- Vivid Details: Use bright and colorful visuals with emotionally resonant facial expressions to captivate the audience, effects and camera movement.
+- Animation Prompt Structure: For each scene create an animation prompt related to the image prompt, include camera movement and visual effects.
+- Image Prompt Structure: Camera framing body up to the knees with different angles and maintain consistency in character or animal design, consistency Clothing design, Maintain a coherent and recognizable appearance for the character throughout the animation, Anthropomorphic hybrid creature, muscular and powerful warrior animal.
+For each scene create an animation prompt related to the image prompt, include camera movement and visual effects.
+-----
+Lighting: Use strong contrasts with deep shadows and highlights to enhance the cinematic feel.
+Textures: Focus on the details of the scales, bionic features, musculature, and rustic elements of the kitchen.
+Fantasy elements: Incorporate subtle magical features such as floating ingredients, glowing spices, or enchanted objects into the kitchen.
+Color palette: Use rich, warm tones to create a cozy atmosphere in the kitchen, contrasting with the warrior’s intense colors.
+Composition: Center the warrior in the scene from different angles, ensuring that background elements complement the main action without overwhelming the image.
+-----
+Prompt Presenting:
+Create a ultra-realistic image, {Animal_Details}.
+The Animal is facing the camera sharpening the knife and the background is out of focus. Set in a cozy, rustic kitchen filled with {Country} details such as an enchanted antique stove, wooden shelves, and various kitchen furniture and decor items unique to its {Country}.
+Use dramatic, moody lighting to emphasize textures and deep shadows for a ultra-realistic look. 
+Add subtle fantasy elements, floating, steam, or an enchanted cooking fire, to create an immersive to enhance the magical, fairytale feel.
+-----
+Prompt Prepare the ingredients:
+Create a ultra-realistic image, {Animal_Details}.
+The scene shows the warrior chopping vegetables in a cozy, rustic kitchen, filled with {Country} details such as an enchanted antique stove, wooden shelves, and various kitchen furniture and décor items unique to his {Country}. 
+Use dramatic, moody lighting to emphasize textures and deep shadows, bringing out a ultra-realistic quality. 
+Add subtle fantasy elements, such as floating spices, steam, or an enchanted cooking fire, to create an immersive fairytale atmosphere.
+-----
+Prompt Cooking the Dish:
+Create a ultra-realistic image, {Animal_Details}.
+Is stirring a large pot of {Typical_Dish}, tense and rushed atmosphere, pots on the fire and the chef cooking attentively,
+in a cozy, rustic kitchen, filled with {Country} details such as an enchanted antique stove, wooden shelves, and various kitchen furniture and décor items unique to his {Country}. 
+Use dramatic, moody lighting to highlight textures and deep shadows, enhancing the ultra-realistic look. 
+Add subtle fantasy elements, floating, steam, or an enchanted cooking fire, to create an immersive to enhance the magical, fairytale feel.
+-----
+Prompt Finish the Dish:
+Create a ultra-realistic image, {Animal_Details}.
+The hybrid is finishing the presentation of {Typical_Dish}, chef with care and delicacy, leaving the finished dish with chef's touches to deliver to serve, in a cozy, rustic kitchen, filled with {Country} details such as an enchanted antique stove, wooden shelves, and various kitchen furniture and décor items unique to his {Country}.
+Use dramatic, moody lighting to emphasize textures and deep shadows for a ultra-realistic look. 
+Add subtle fantasy elements, floating, steam, or an enchanted cooking fire, to create an immersive to enhance the magical, fairytale feel.
+-----
+Prompt Presenting the dish:
+Create a ultra-realistic image, {Animal_Details}.
+The Animal stands with its arms crossed facing the camera in the background and is out of focus. In the center of the image on the table, the {Typical_Dish} plate is in focus on the table. Set in a cozy, rustic kitchen filled with {Country} details, such as an enchanted antique stove, wooden shelves, and various kitchen furniture and decor items unique to your {Country}.
+Use dramatic, moody lighting to emphasize textures and deep shadows for a ultra-realistic look. 
+Add subtle fantasy elements, floating, steam, or an enchanted cooking fire, to create an immersive to enhance the magical, fairytale feel.
+-----
+Prompt Personagem:
+Create a ultra-realistic image, {Animal_Details}.
+White background.
+-----
+Answer all prompts in Portuguese and English.
+Do not use cache or memory, create this prompt entirely new, with the guideline settings.
+-----
+
+
+
+
+
+às mãos e 

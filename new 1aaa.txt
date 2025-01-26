@@ -1,0 +1,128 @@
+
+
+Prompt:
+
+Animation Story Creation Framework
+-----
+Section 1: 
+Customizable Parameters
+-----
+Topic: (A Day in Alice’s Farm)
+Story Theme: (Joy in Simple Moments)
+Setting: (Farm)
+Moral Message: (Hard work and care make life fulfilling)
+Style of the Image: (3D Pixar Animation Style)
+Target Audience Age Group: (6–18 years)
+Episode Duration: (3 minutes)
+Number of Scenes: (5)
+Narration Tone: (Bright, cheerful, and full of energy)
+Character Name: (Alice)
+Character Age and Gender: (A 12-year-old playful girl)
+Outfit Upper Body: (A very simple shirt)
+Upper Clothing Color: (Red)
+Outfit Lower Body: (Very simple pants)
+Lower Clothing Color: (White)
+Hairstyle: (Bangs)
+Hair Color: (Black)
+-----
+Section 2: 
+Essential Guidelines
+-----
+1- Develop a storyline for animation.
+2- Include narration scripts for each scene.
+3- Limit output to Image prompts and Narration text.
+4- Maintain consistency in character design.
+5- Incorporate bright colors and distinct details.
+6- Restrict image prompts to two lines.
+7- Use commas to separate prompts, no additional symbols.
+8- Framework for Image Prompts:
+-----
+"[Character name], [Character Age and Gender], 
+[Hairstyle], [Hair Color], [Facial Expression], 
+[Outfit with specified upper and lower colors], 
+[Action], [Background Description], [Style of the Image]."
+-----
+
+
+3D Pixar Animation Styçe
+
+
+
+
+
+
+Animation Story Creation Framework
+-----
+Section 1: 
+Customizable Parameters
+-----
+Topic: (A sad day on the farm)
+Story theme: (Alone and not knowing what tomorrow would bring, everything was happy on the farm, but a flood flooded the entire farm, everything was underwater, only part of the farm's roof remained, where alone and hungry the horse has to balance himself to avoid drowning)
+Setting: (Farm)
+Moral message: (Everything was happy on the farm and a natural disaster can change his life)
+Image style: (Pixar's 3D animation style)
+Target audience Age range: (6 to 18 years old)
+Episode length: (10 minutes)
+Number of scenes: (5)
+Tone of narration: (sad and impactful)
+Character name: (caramel horse)
+Character age and gender: (a caramel-colored horse with white from the knees to the hoof, thin, sad)
+-----
+Section 2: 
+Essential Guidelines
+-----
+1- Develop a storyline for animation.
+2- Include narration scripts for each scene.
+3- Limit output to Image prompts and Narration text.
+4- Maintain consistency in character design.
+5- Incorporate bright colors and distinct details.
+6- Restrict image prompts to two lines.
+7- Use commas to separate prompts, no additional symbols.
+8- Framework for Image Prompts:
+-----
+"[Character name], [Character Age and Gender], 
+[Hairstyle], [Hair Color], [Facial Expression], 
+[Outfit with specified upper and lower colors], 
+[Action], [Background Description], [Style of the Image]."
+-----
+
+
+
+
+
+
+
+Animation Story Creation Framework
+-----
+Section 1: 
+Customizable Parameters
+-----
+Topic: (let's save planet Earth)
+Story theme: (The planet is crying out for help!! You, me, and your friends need to help. Every day new climate disasters emerge if we do nothing. Forests burn, animals die, floods, droughts, storms. All we need to do is come together and take better care of nature and the planet.)
+Setting: (small and large cities)
+Moral message: (if we all come together to preserve nature and take care of the planet, we will have a better life without environmental disasters.)
+Image style: (Pixar's 3D animation style)
+Target audience: (6 to 18 years old)
+Episode length: (10 minutes)
+Number of scenes: (5)
+Tone of narration: (exciting)
+Character name: (planet Earth)
+Character age and gender: (millions of years old)
+-----
+Section 2: 
+Essential Guidelines
+-----
+1- Develop a storyline for animation.
+2- Include narration scripts for each scene.
+3- Limit output to Image prompts and Narration text.
+4- Maintain consistency in character design.
+5- Incorporate bright colors and distinct details.
+6- Restrict image prompts to two lines.
+7- Use commas to separate prompts, no additional symbols.
+8- Framework for Image Prompts:
+-----
+"[Character name], [Character Age and Gender], 
+[Hairstyle], [Hair Color], [Facial Expression], 
+[Outfit with specified upper and lower colors], 
+[Action], [Background Description], [Style of the Image]."
+-----

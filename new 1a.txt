@@ -1,0 +1,32 @@
+A muscular and intimidating anthropomorphic lion (Panthera leo) warrior, combining animalistic and futuristic elements. The character has majestic golden fur, a fierce expression, and sharp claws and teeth, with biomechanical details like scaled robotic skin. He wears a chef's uniform with the Tanzanian flag embroidered on the chest or tattooed on his arm. Tribal tattoos enhance his commanding presence. In the background, Tanzania's flag is stylized and waving subtly. The scene is set in a war-themed, dark kitchen adorned with Tanzanian cultural elements, such as carved wooden utensils and woven mats. The lion chef is captured from head to knees, mid-action, focused on preparing "Ugali," traditional corn dough. Dramatic lighting highlights his cybernetic features, textures, and the steaming dish, creating an ultra-realistic atmosphere.
+
+Modify:
+the animal: "Panthera leo - Lion",
+the country: "Tanzania",
+the dish: "Ugali: Traditional corn dough",
+the kitchen with details of your country, 
+the camera shows the character from head to knees and the dish being prepared.
+keep with maximum 900 characters em inglês.
+
+
+Prompt to generate image in flux 1.1:
+A muscular and intimidating anthropomorphic lion (Panthera leo) warrior, combining animalistic and futuristic elements. The character has majestic golden fur, a fierce expression, and sharp claws and teeth, with biomechanical details like scaled robotic skin. He wears a chef's uniform with the Tanzanian flag embroidered on the chest or tattooed on his arm. Tribal tattoos enhance his commanding presence. In the background, Tanzania's flag is stylized and waving subtly. The scene is set in a war-themed, dark kitchen adorned with Tanzanian cultural elements, such as carved wooden utensils and woven mats. The lion chef is captured from head to knees, mid-action, focused on preparing "Ugali," traditional corn dough. Dramatic lighting highlights his cybernetic features, textures, and the steaming dish, creating an ultra-realistic atmosphere.
+Modify:
+place the character far away with the image a little out of focus, keep the environment, with the focus on a table with some ingredients and the ready dish as the highlight.
+keep with 900 characters em inglês.
+
+A muscular and intimidating anthropomorphic lion (Panthera leo) warrior, combining animalistic and futuristic elements. The character has majestic golden fur, a fierce expression, and sharp claws and teeth, with biomechanical details like scaled robotic skin. He wears a chef's uniform with the Tanzanian flag embroidered on the chest or tattooed on his arm. Tribal tattoos enhance his commanding presence. In the background, Tanzania's flag is stylized and waving subtly. The scene is set in a war-themed, dark kitchen adorned with Tanzanian cultural elements, such as carved wooden utensils and woven mats. The lion chef is captured from head to knees, mid-action, focused on preparing "Ugali," traditional corn dough. Dramatic lighting highlights his cybernetic features, textures, and the steaming dish, creating an ultra-realistic atmosphere.
+Modify:
+keep the environment, the animal away from the blurred dish, on a table with some ingredients next to the ready dish as the highlight and main focus of the scene.
+keep with 900 characters em inglês.
+
+
+08b98041c914433e9307bd29353071c3
+
+
+
+
+
+A muscular and intimidating anthropomorphic lion (Panthera leo) warrior, combining animalistic and futuristic elements. The character has majestic golden fur, a fierce expression, and sharp claws and teeth, with biomechanical details like scaled robotic skin. He wears a chef's uniform with the Tanzanian flag embroidered on the chest or tattooed on his arm. Tribal tattoos enhance his commanding presence. In the background, Tanzania's flag is stylized and waving subtly. The scene is set in a war-themed, dark kitchen adorned with Tanzanian cultural elements, such as carved wooden utensils and woven mats. The lion chef is captured from head to knees, mid-action, focused on preparing "Ugali," traditional corn dough. Dramatic lighting highlights his cybernetic features, textures, and the steaming dish, creating an ultra-realistic atmosphere.
+
+

@@ -1,0 +1,42 @@
+
+
+
+- ANIMALS
+
+Gere prompt para criar imagens cinematográfica hiper-realista de animal antropomórfico, com nome e personalidade únicos, cozinhando tipos específicos de comida em cozinhas rústicas e aconchegantes com elementos sutis de fantasia. Cada imagem deve apresentar um personagem animal, separe em três prompts etapas: 1 - preparando os igredientes, 2 - cozinhando, e 3 - finalizando o empratando. Está vestido com trajes de chef, ativamente envolvido em uma ação culinária (como mexer uma panela, grelhar carnes ou cortar legumes). 
+o animal é "Panthera onca (Onça-Pintada)" 
+que se parecem com personagens animal como guerreiro, Não use palavras complicadas ou ofensivas, seja fiel ao animal, Adicione características de cada animal no personagem, guerreiro musculoso e mal encarado, com tatuagem de gangue de rua e expressão ameaçadora e perigoso, com um dos olhos de ciborgue, e alguma parte do corpo que não seja mãos e cabeças, alguma parte corpo sutil na pele escamada que demostram traços de biônico robô. Ele possui em algum detalhe da roupa a bandeira do seu pais 
+"Brasil", 
+ele está preparando a comida é um "prato típico" de seu pais, 
+"Sobá: Macarrão típico japonês com caldo especial". 
+O fundo deve lembrar uma cozinha aconchegante e rústica, com detalhes ricos como um fogão antigo e encantado, prateleiras de madeira e diversos utensílios de cozinha, panelas, talheres, vapor, fogo. A cena deve ter iluminação dramática e temperamental que enfatize texturas, sombras profundas e detalhes vívidos para aprimorar a qualidade hiper-realista. Adicione toques de fantasia, como ingredientes suavemente brilhantes, temperos flutuantes ou utensílios de cozinha encantados, para criar uma atmosfera cativante de livro de histórias.
+
+
+
+o animal é "Panthera onca (Onça-Pintada)" 
+que se parecem com personagens animal como guerreiro, Não use palavras complicadas ou ofensivas, seja fiel ao animal, Adicione características de cada animal no personagem, guerreiro musculoso e mal encarado, com tatuagem de gangue de rua e expressão ameaçadora e perigoso, com um dos olhos de ciborgue, e alguma parte do corpo que não seja mãos e cabeças, alguma parte corpo sutil na pele escamada que demostram traços de biônico robô. Ele possui em algum detalhe da roupa a bandeira do seu pais 
+"Brasil", 
+ele está preparando a comida é um "prato típico" de seu pais, 
+"Sobá: Macarrão típico japonês com caldo especial". 
+
+
+
+
+
+Deve estar no ambiente em uma cozinha de guerra com detalhes e referencias do seu pais, panelas, talheres, vapor, fogo, ele está cozinhando a comida mostrando ser perigoso pronto pra lutar a qualquer momento, o ambiente de uma cozinha profissional realista com bem iluminada mas com destaque no personagem e no preparo da comida. 
+Acrescente informações se necessario para deixar a imagem mais realista e qualidade possivel, exemplo: "Ultra HDR, 3D intricate details, vibrant colors, realistic lighting, Dramatic Lighting, Enhanced Clarity, Brilliant Highlights, Hyperrealistic Detailing, cinematic."
+tamanho 9:16
+Ao final se preocupe em garantir que exemplo "Exclude deformed hands, unnatural anatomy, or any physical anomalies. Avoid blurry or low-quality visuals. Ensure sharp, realistic details, especially in textures and proportions. Maintain proper lighting and high-resolution rendering. Exclude errors in symmetry, proportions, or biomechanical features. Focus on precision, cleanliness, and consistency in design and execution."
+
+responda em portugues quais as diferencas entre cada prompt como: Estilo, Destaque, Ambiente, Finalidade.
+
+
+https://civitai.green/user/opnionbrin264
+
+
+
+
+Hyper-realistic cinematic portrait of an anthropomorphic Jaguar chef, muscular build, wearing a white chef's coat with Brazilian flag patch, one cybernetic glowing golden eye, tribal tattoos on neck, bionic scales showing through fur on forearms. Standing in a rustic kitchen with wooden counters, preparing ingredients for Sobá. Dramatic side lighting through window, steam rising, ancient copper pots hanging overhead. The Jaguar is precisely slicing green onions with expert precision, floating spices and herbs in background, vintage Japanese cooking tools scattered around. Moody atmosphere, ray of light illuminating his focused expression, 8k quality, photorealistic details
+
+
+Hyper-realistic cinematic portrait of a muscular anthropomorphic Jaguar, natural species-accurate spots, glowing golden cybernetic eye, tribal gang tattoos covering neck. Wearing white chef uniform with Brazilian flag patch. Subtle metallic plates visible through fur on ribs. In a candlelit rustic kitchen, cutting vegetables for Sobá with military precision. Traditional Japanese knives arranged on counter, spices floating in air. Dramatic side lighting, mystic steam rising, ancient copper pots hanging. Threatening and focused expression, ultra-realistic quality. 8k resolution, photorealistic textures, moody atmosphere with deep shadows.

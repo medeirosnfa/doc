@@ -1,0 +1,63 @@
+
+
+His bionic enhancements extend to his left arm featuring sleek metallic plating and intricate mechanical joints. His claws are sharp, adding an edgy, warlike touch. 
+
+
+His bionic enhancements extend to his left arm and his bionic hands and sharp claws, featuring sleek metallic technology and intricate mechanical joints, adding a bold and warlike touch.
+
+
+
+Add subtle fantasy elements, floating, steam, or an enchanted cooking fire, to create an immersive to enhance the magical, fairytale feel.
+
+
+
+
+A tall, anthropomorphic hybrid creature, a muscular and powerful warrior-animal, {Common_Animal} ({Scientific_Animal}) radiates authority and strength. Its golden fur is impeccably groomed, with a thick, flowing mane framing its sharp, majestic face. Its piercing golden eyes exude intensity, with one of them cybernetic and glowing faintly with a mechanical aura, hinting at its advanced technological nature. Its left arm is fully bionic, covered in a sleek metallic plating that contrasts with its natural musculature, intricate mechanical joints, and sharp claws extend from its fingers, each tipped with small, menacing spikes that gleam menacingly. Its bionic hand, a masterpiece of engineering, effortlessly matches its powerful frame, displaying a perfect fusion of strength and technology. Its other hand, also bionic, reflects this advanced design, with razor-sharp claws extending from both hands. His confident stance, glowing eyes, and two bionic hands create an imposing presence, blending raw physical power with the precision of cybernetic enhancements.
+
+
+
+A tall, anthropomorphic hybrid creature, a muscular and powerful warrior-animal, {Common_Animal} ({Scientific_Animal}) exudes authority and strength. Its golden fur is impeccably groomed, with a thick, flowing mane framing its sharp, majestic face. Its piercing golden eyes exude intensity, with one of them cybernetic and glowing faintly with a mechanical aura, hinting at its advanced technological nature. Its left arm is fully bionic, covered in a sleek metallic plating that contrasts with its natural musculature, intricate mechanical joints, and sharp claws extending from its fingers, each tipped with small, menacing spikes that gleam menacingly. Its right hand, also bionic, reflects this advanced design, with razor-sharp claws. Its confident stance, glowing eyes, and each bionic hand create an imposing presence, blending raw physical power with the precision of cybernetic enhancements.
+
+
+Narration:
+Animation:
+
+Analyze and add in prompts 3, 4 and 5, different angles of the previous scene, explore more about the character's cybernetic enhancements and adjust by showing how they help in the kitchen.
+
+
+- Narration: Provide clear narration for each scene, using tone and words suitable for the target audience.
+- Animation: For each scene create an animation related to the image prompt, include camera movement and visual effects.
+
+
+
+
+
+{Animal_Details}: a tall, anthropomorphic hybrid creature, a muscular and powerful warrior-animal, {Common_Animal} ({Scientific_Animal}) exudes authority and strength. Its golden fur is impeccably groomed, with a thick, flowing mane framing its sharp, majestic face. Its piercing golden eyes exude intensity, with one of them cybernetic and glowing faintly with a mechanical aura, hinting at its advanced technological nature. Its left arm is fully bionic, covered in a sleek metallic plating that contrasts with its natural musculature, intricate mechanical joints, and sharp claws extending from its fingers, each tipped with small, menacing spikes that gleam menacingly. Its right hand, also bionic, reflects this advanced design, with razor-sharp claws. Its confident stance, glowing eyes, and each bionic hand create an imposing presence, blending raw physical power with the precision of cybernetic enhancements.
+
+
+
+{Animal_Details}: a tall, anthropomorphic hybrid creature, a muscular and powerful warrior-animal, {Common_Animal} ({Scientific_Animal}) exudes authority and strength. Its golden fur, impeccably groomed, is crowned by a thick, flowing mane that frames a sharp, majestic face. Piercing golden eyes, one subtly glowing with cybernetic light, hint at the advanced technology within. Its left arm, a masterpiece of bionics, is sheathed in sleek metal plating. Intricate joints and razor-sharp claws, each tipped with a menacing spike, contrast with the raw power of its natural musculature. The right hand, equally augmented, boasts similar, deadly precision.  Every confident stance, every glint of its eyes, speaks of a being that blends primal strength with the cutting edge of cybernetics.
+
+
+
+Piercing golden eyes, one subtly glowing with cybernetic light, hint at the advanced technology within. His entire left arm, a masterpiece of bionics, is sheathed in sleek metal plating. Intricate joints and razor-sharp claws, each tipped with a menacing spike, contrast with the raw power of its natural musculature. His right hand, equally bionic-augmented, boasts similarly deadly precision.
+
+
+
+
+
+Right Hand: His right hand is augmented by cutting-edge bionics, displaying a design that prioritizes deadly precision. Each finger is meticulously designed to enhance dexterity and control, allowing for swift, precise, naval-like movements that can be both graceful and lethal. This harmonious blend of organic and mechanical elements highlights the seamless integration of technology into your very being, making you a formidable presence.
+
+
+
+Add cybernetic enhancements: Right Hand, Eyes, and Left Arm.
+
+Eyes: Features piercing golden eyes, with one subtly glowing from within, showcasing a cybernetic light that hints at the sophisticated technology embedded in its design. This illumination not only emphasizes its advanced capabilities but also conveys an intense, almost sentient awareness, suggesting a powerful artificial intelligence at work.
+Left Arm: His entire left arm is a stunning masterpiece of bionic engineering, enveloped in a sleek layer of polished metal that gleams with a futuristic sheen. The arm is designed with intricate joints that allow for remarkable flexibility and fluidity of movement, enabling him to perform complex tasks with ease. Sharp claws extend from his fingertips, each crafted with a menacing point, contrasting sharply with the raw power of his natural musculature, symbolizing the perfect fusion of human strength and advanced technology.
+Right Hand: The right hand augmented by cutting-edge bionics, showcasing a design that prioritizes deadly precision. Each finger is meticulously engineered to enhance dexterity and control, allowing for swift, accurate movements that can be both graceful and lethal. This harmonious blend of organic and mechanical elements highlights the seamless integration of technology into his very being, making him a formidable presence.
+
+
+glowing eyes
+
+
+Create the image prompts to use the "Flux Pro v1.1" template with consistency and details in plain text format.

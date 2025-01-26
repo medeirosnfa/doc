@@ -1,0 +1,65 @@
+
+
+
+
+Crie uma lista com 30 animais típicos de cidades do Brasil com o "nome correto completo" e um "bioma especifico e local espeficico"
+que representam maior perigo aos seres humanos. Esses animais devem ser:
+Os mais Agressivos, mais ferozes, mais perigosos, mais venenosos, somente animais nocivos ao ser humano. 
+Provenientes de diferentes biomas. Para cada animal com "nome completo especifico - nome popular" e numerados, 
+mostre a tabela com a lista: referencia ordenação, nome, bioma, cidade, 2 tipos de prato tipico: "culinaria especifica desta cidade, local e bioma, não relacionado a carne ou utilizando este animal no preparo do prato, culinaria única com descricao do prato"
+Guarde essa lista numerada como "ANIMAIS BRASILEIROS"
+
+qual nome do animal ref 8 de "ANIMAIS BRASILEIROS"
+
+
+agora com os mesmos dados da lista como "ANIMAIS BRASILEIROS", Crie uma lista buscando mesma quantidade animais típicos de cidades em paises do Mundo, com o "nome correto completo - nome popular" e um "bioma especifico e local espeficico" busque pela sua agressividade, perigosos, ferozes ou venenosos encontrado em paises pelo mundo. 
+mostre a tabela com a lista: referencia ordenação, nome, bioma, cidade, 2 tipos de prato tipico: "culinaria especifica desta cidade, local e bioma, não relacionado a carne ou utilizando este animal no preparo do prato, culinaria única com descricao do prato"
+Guarde essa lista numerada como "ANIMAIS ADVERSARIOS"
+
+qual nome do animal ref 24 de "ANIMAIS ADVERSARIOS"
+
+
+agora faça um sorteio escolhendo uma ref da lista "ANIMAIS BRASILEIROS" versos uma ref da lista "ANIMAIS ADVERSARIOS", sem repetir, até completar toda lista com 30.
+cria uma tabela com o resultado:
+"ANIMAIS BRASILEIROS" coluna ref, nome, VS, "ANIMAIS ADVERSARIOS" coluna ref, nome
+Guarde essa lista como "ANIMAIS SORTEADOS"
+
+
+
+
+crie um Prompt de geração de imagem com detalhes: 
+Panthera onca (Onça-Pintada) que se parecem com personagens animal como guerreiro, Não use palavras complicadas ou ofensivas, seja fiel ao animal, Adicione características de cada animal no personagem, guerreiro musculoso e mal encarado, com tatuagem e expressão ameaçadora, com um olho de ciborgue do futuro, e parte do corpo aleatória tem a pele escamada mostrando traços de biônico robô, com garras ou dentes afiados. Ele deve ser chefe de cozinha, vestido com seu uniforme típico de chef de cozinha com bordado no uniforme pequena bandeira do BRASIL ou está tatuada no seu braço, ao fundo no canto superior a bandeira da cidade de "Campo Grande (MS)" estilizada ao vento, ele está preparando um prato típico de seu pais, "Chipa: Pão de queijo tradicional sul-mato-grossense". Deve estar em uma cozinha de guerra, ele está cozinhando e mostrando suas garras ou dentes afiados pronto pra lutar a qualquer momento, o ambiente escuro e realista com a iluminação dramatica destacada no personagem e no prato sendo preparado. 
+
+
+responda sempre em portugues, guarde esta informação na memória
+
+https://anakin.ai/?r=eq1Z8CTV
+
+eq1Z8CTV
+
+https://www.glbgpt.com/?inviter=0x32022813ef7b19ced78f44330785883a747925c5
+
+0x32022813ef7b19ced78f44330785883a747925c5
+
+
+
+"A muscular and intimidating anthropomorphic jaguar (Panthera onca) warrior, combining animalistic and futuristic elements. The character has a jaguar's iconic spotted fur, a threatening expression, and sharp claws and teeth. One eye is a futuristic glowing red cybernetic implant, and parts of his body feature biomechanical details with scaled, robotic skin. He is depicted as a head chef, wearing a traditional chef's uniform with a small embroidered Brazilian flag on the chest or tattooed on his muscular arm. He has visible tribal-inspired tattoos across his body, adding to his menacing and powerful appearance. In the background, the flag of Campo Grande (MS) is stylized and waving subtly in the upper corner. The scene takes place in a war-themed kitchen, dark and gritty, with dramatic lighting that highlights the jaguar's textures, his cybernetic enhancements, and the traditional Brazilian dish he is preparing: 'Chipa', a pão de queijo from Mato Grosso do Sul. The jaguar chef is posed mid-action, showing his claws or sharp teeth as if ready to fight while intensely focused on cooking. The environment is ultra-realistic, with dramatic shadows and warm, focused lighting emphasizing both the character and the steaming dish being prepared."
+
+
+1000
+A muscular and intimidating anthropomorphic jaguar (Panthera onca) warrior, combining animalistic and futuristic elements. The character has iconic spotted fur, a threatening expression, and sharp claws and teeth. One eye is a glowing red cybernetic implant, with biomechanical details like scaled robotic skin. He wears a chef's uniform with a Brazilian flag embroidered on the chest or tattooed on his arm. Tribal tattoos enhance his powerful appearance. In the background, Campo Grande's flag is stylized and waving subtly. The scene is set in a war-themed, dark kitchen with dramatic lighting highlighting textures, cybernetics, and a Brazilian dish: 'Chipa,' a pão de queijo from Mato Grosso do Sul. The jaguar chef is mid-action, showing claws or teeth while focused on cooking. The environment is ultra-realistic, with shadows and lighting emphasizing the jaguar and the steaming dish.
+
+
+Um guerreiro antropomórfico (Panthera onca) musculoso e intimidador, combinando elementos animalescos e futuristas. O personagem tem pelo manchado icônico, uma expressão ameaçadora e garras e dentes afiados. 
+Um olho é um implante cibernético vermelho brilhante, 
+com detalhes biomecânicos como pele robótica escamosa. Ele usa um uniforme de chef com uma bandeira 
+brasileira 
+bordada no peito ou tatuada no braço. Tatuagens tribais realçam sua aparência poderosa. No fundo, a bandeira de 
+Campo Grande
+é estilizada e balança sutilmente. A cena se passa em uma cozinha profissional com tema de guerra, com iluminação dramática destacando texturas, cibernética e um prato 
+brasileiro: "Chipa", um pão de queijo do Mato Grosso do Sul. 
+O chef 
+jaguar 
+está no meio da ação, mostrando garras ou dentes enquanto se concentra na cozinha. O ambiente é ultrarrealista, com sombras e iluminação enfatizando a 
+onça
+e o prato fumegante.
