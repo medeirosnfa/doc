@@ -1,0 +1,126 @@
+
+
+Create the image prompts to use the model Flux Pro v1.1 with consistency and details in plain text format.
+Create the animation prompts, one topic to create videos using "minimax", each scene has a single animation and a duration of 5 seconds, another 
+-----
+Be careful and correct to ensure that all prompts do not create artifacts, do not use separate code range or plain text, maintain consistency in Character, consistency in Animal Details, consistency in Facial Features, consistency in Clothing.
+Validate between prompts if you find errors or inconsistencies of the Character and its Facial Features and Details, compare all scenes with the prompts and ask if it is to be corrected.
+
+
+
+High Contrast, Realistic, Natural Light, Highly Detailed.
+
+
+Keep the same face, gaze, mouth, eyes, enhance the sharpness.
+
+(Aumente a nitidez), (Manter mesmo rosto, manter olhar, manter boca, manter olhos).
+
+(Portrait), (8K), (High Contrast), (Highly Detailed), (Increase sharpness), (Keep same face, keep gaze, keep mouth, keep eyes).
+
+@Site2025
+@Site987321000
+F@bio@2025
+MSSEZAM
+
+
+----- 
+Improve the prompt for Scene 1, Modeling. This prompt describes the character.
+Use the improved prompt to add to future scenes to ensure the character is consistent across scenes, such as clothing details, accessories, character traits, physical characteristics, shapes, etc.
+Also review and improve the other prompts for each scene, ensuring the text makes sense, repeating all character details, all character traits, and always adding magical touches to activities and scenes.
+
+
+https://mydesigns.io?referral=eyJ1c2VySWQiOjEyODg4MCwic2FsdCI6NjU5NjU2OTQ1fQ%3d%3d
+
+
+Improve the prompt for Scene 1, Modeling. This prompt describes the character.
+
+Use the improved prompt to add future scenes to ensure the character is consistent across all scenes, such as clothing details, accessories, character traits, physical characteristics, shapes, etc.
+
+Also review and improve the other scenes, the other prompts by ensuring the text makes sense, and always adding magic touches to the activities and scenes.
+
+
+Each prompt must have a maximum of 800 characters, including spaces and letters. Check that all prompts have a maximum of 800 letters and blank spaces, maintaining the characteristics, details, accessories, features, physical and basic shapes.
+
+
+I will give you the information to create: Animation Story Creation Framework, do not create, wait for my guidance to start creating, for now I will only give you the structure information.
+
+ollama run deepseek-r1:14b
+
+The camera focuses sharply on the exquisitely plated Ugali, resting proudly in the center of a rustic wooden table. The vibrant dish radiates freshness and artistry, illuminated by warm, dramatic lighting that highlights its intricate textures and vibrant colors, other elements such as a wine glass, cutlery and arranged ingredients, help in the final presentation of the dish. Around the table, the cozy kitchen is enriched with Tanzanian-inspired elements, including an enchanted antique stove that emits a magical glow, intricately carved wooden shelves stocked with traditional utensils, and furniture displaying regional crafts. Fantasy elements—glowing steam rising from the cooking surface and faint sparks of enchanted fire flickering in the air—enhance the magical ambiance.
+
+In the background, the chef stands out of focus, an anthropomorphic hybrid creature, a muscular and powerful warrior animal sporting bionic features, the lion (Panthera leo). His imposing figure exudes authority and strength, with his impeccably groomed golden coat crowned by a thick, flowing mane that frames his sharp, majestic face. He wears a crisp, double-breasted white chef’s uniform with silver buttons, the Tanzanian flag stitched on the sleeve, and a chef’s hat perched atop his head. Bionic arms, a testament to advanced cybernetics, glow faintly in the warm light, their polished metal surfaces and intricate circuitry. Every detail speaks of a fusion of raw power and technological prowess, the confident stance of a chef in the background.
+
+
+
+
+
+The camera focuses sharply on the beautifully plated Ugali, displayed in the center of a rustic wooden table. The dish exudes artistry and freshness, its textures and vibrant colors highlighted by warm, dramatic lighting. Surrounding the plate, elements such as a wine glass, cutlery, and neatly arranged ingredients contribute to the refined presentation.
+
+The setting features a cozy kitchen inspired by Tanzanian design, with a vintage stove emitting a gentle glow, intricately carved wooden shelves stocked with traditional utensils, and furniture decorated with regional crafts. A magical atmosphere is created by glowing steam rising from the stove and faint, ethereal sparks floating through the air.
+
+In the background, slightly blurred, stands an anthropomorphic lion figure (Panthera leo) with a proud and commanding presence. His golden mane and fur are impeccably groomed, and he wears a crisp, white chef's uniform adorned with silver buttons. A patch of the Tanzanian flag is visible on his sleeve, and a chef’s hat completes his professional appearance. His advanced bionic arms, with intricate metallic designs and a soft glow, add a futuristic touch, perfectly balancing tradition and innovation. His stance radiates confidence and mastery, blending seamlessly into the magical, culturally rich ambiance.
+
+
+
+
+
+A photo of a rustic wooden table with a plate of Ugali, a Tanzanian dish made from maize flour. The dish is served with a side of vegetables. There is also a glass of wine, cutlery and ingredients arranged on the table. The background reveals a cozy kitchen with Tanzanian-inspired elements such as an enchanted antique stove that emits a magical glow, intricately carved wooden shelves stocked with traditional utensils and furniture displaying regional crafts. The chef, a muscular and powerful warrior lion. His advanced bionic arms, with intricate metallic designs and a soft glow, add a futuristic touch, stands in the background, slightly blurred, wearing a white double-breasted chef’s uniform and a chef’s hat.
+A magical atmosphere is created by glowing steam rising from the stove and faint, ethereal sparks floating through the air.
+
+
+
+
+
+A photo of a rustic wooden table with a plate of Ugali, a Tanzanian dish made from maize flour. The dish is served with a side of vegetables. There is also a glass of wine, cutlery and ingredients arranged on the table. The background reveals a cozy kitchen with Tanzanian-inspired elements such as an enchanted antique stove that emits a magical glow, intricately carved wooden shelves stocked with traditional utensils and furniture displaying regional crafts. A magical atmosphere is created by glowing steam rising from the stove and faint, ethereal sparks floating through the air.
+
+
+
+
+A photo of a rustic wooden table with a plate of Ugali, a Tanzanian dish made from maize flour. The dish is served with a side of vegetables. There is also a glass of wine, cutlery and ingredients arranged on the table. The background reveals a cozy kitchen with Tanzanian-inspired elements such as an enchanted antique stove that emits a magical glow, intricately carved wooden shelves stocked with traditional utensils and furniture displaying regional crafts. 
+The chef, an anthropomorphic hybrid creature, a muscular and powerful warrior animal lion. His advanced bionic arms, with intricate metallic designs and a soft glow, their polished metal surfaces and intricate circuitry. Add a futuristic touch. He stands in the background, slightly out of focus, with his arms crossed, wearing a white double-breasted chef's uniform and a chef's hat.
+A magical atmosphere is created by the glowing steam rising from the plate and faint, ethereal sparks floating in the air.
+
+
+
+
+
+
+The warrior chef, an anthropomorphic hybrid creature, a muscular and powerful lion (Panthera leo), exudes authority and strength. His golden fur, impeccably groomed, is crowned by a thick, flowing mane that frames a sharp, majestic face. He wears a crisp, double-breasted white chef's uniform with silver buttons, the Tanzanian flag stitched on the sleeve, and a chef's hat perched on his head. His piercing golden eyes, with one subtly glowing from within, showcase a cybernetic light that hints at the sophisticated technology embedded in its design. His right hand, a bionic masterpiece with cutting-edge precision, and his left arm, a sleek, polished metallic structure with sharp, claw-like fingertips, blend seamlessly with his muscular physique. His confident stance and imposing presence blend the raw power of his natural musculature with the precision of his cybernetic enhancements.
+The warrior chef faces the camera, holding two knives that emit sparks and flames, creating a dynamic and intense atmosphere. The knives, extensions of his bionic hands, are sharpened with precise and powerful strokes, exuding his skill and confidence. The softly blurred background reveals a cozy, rustic kitchen filled with Tanzanian-inspired details, such as intricately carved wooden shelves, traditional utensils, and vibrant regional décor. Warm, dramatic lighting highlights the textures of the wooden furniture and the metallic shine of the knives. Floating sparks and glowing embers add a magical yet realistic touch to the scene.
+
+
+
+The scene is shot from above and in front of his head, offering a dynamic, drone-like perspective of the warrior chef fully immersed in his craft, his sharp, focused gaze fixed intently on vibrant vegetables as he expertly chops them on a well-worn wooden countertop. The cozy, rustic kitchen is enriched with Tanzanian-inspired elements, including an enchanted antique stove that radiates a soft, magical glow, intricately carved wooden shelves displaying traditional utensils, and furniture showcasing unique regional craftsmanship. Warm, ambient lighting highlights the rich textures of the kitchen’s wood, stone, and surfaces. His cybernetic left arm and sharp, claw-like fingertips operate with impeccable precision, their glowing circuits scanning the ingredients for quality while subtle pulses of energy guide the vegetables into perfectly organized piles.
+
+together.ai
+huggingface
+enhanceai
+
+MSSEZAM
+
+
+opnionbrin@gmail.com
+
+
+
+a dynamic 360 degree shot as he sharpens them with fluid, practiced movements. Subtle magical effects such as floating embers and bright sparks add to the intensity of the scene.
+
+he imposes the knives by executing them with fluid, practiced movements. Shiny bionic parts, magical effects such as floating embers and bright sparks, magical blue fire add to the intensity of the scene.
+
+dynamic 360 degree shot as he sharpens them with fluid, practiced movements. Shiny bionic parts, magical effects such as floating embers and bright sparks, magical blue fire add to the intensity of the scene.
+
+
+
+
+
+
+%temp%
+temp
+Prefetch
+recent
+
+Background Intelligent Transfer Service
+Auto Time Zone Updater
+windows Update
+
+ana priscyla gomes costa ferreira

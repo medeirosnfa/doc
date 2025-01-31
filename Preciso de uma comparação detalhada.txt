@@ -1,0 +1,15 @@
+Preciso de uma comparação detalhada entre em uma lista de 3 de animais típicos do Brasil, aleatórios que representam perigo para os seres humanos, sendo agressivos, ferozes ou venenosos. Cada animal deve ser proveniente de diferentes biomas e regiões do mundo, com ênfase na periculosidade de cada um para o ser humano, comparar uma lista aleatória de países (menos conhecidos ao mais conhecidos) e o animal típico do pais mais agressivo e ferozes ou venenosos, não repetir os animais;
+
+coloque na tabela formatada somente com os dados nomes: nome animal, prato típico do bioma ou do pais, animal adversário e pais, prato típico do pais adversário, porcentagem estimativa de vitória animal, porcentagem estimativa  como no exemplo abaixo:
+1 - Onça-pintada (Panthera onca) VS Tigre (Panthera tigris)(Índia)
+2 - Jararaca (Bothrops jararaca) VS Taipan do Interior (Oxyuranus microlepidotus)(Austrália)
+
+adicione prato típico de seu pais, informe qual prato
+
+
+-----
+coloque o nome dos animais de cada linha dentro de um texto prompt de imagem criar com detalhes e características, com dois subitens versão em português e tradução em ingles: Com os dois animais em confronto que se se parecem com personagens mini mascote de pelúcia são fofos. Não use palavras complicadas ou ofensivas, seja fiel ao animal, Eles devem ser chefes de cozinha, vestidos com uniformes típicos de chef. Ao fundo de cada personagem a bandeira do pais estilizada ao vento, eles estão dentro de uma arena reaslista de luta um octógono, sem plateia, com fundo de ambiente escuro realista com a iluminação holofote destacada em cada um dos personagens, no centro da imagem utilize "vs". 
+
+
+
+https://www.tiktok.com/@ai_fusionmaster/video/7422114436996992298

@@ -94,4 +94,4 @@ Validate between prompts if you find errors or inconsistencies of the Character 
 -----
 Create the image prompts to use the model Flux Pro v1.1 with consistency and details in plain text format.
 Create the animation prompts, one topic to create videos using "minimax", each scene has a single animation and a duration of 5 seconds, another with "kling 1.6", the scene has a single animation and a duration of 10 seconds.
------
+----- 

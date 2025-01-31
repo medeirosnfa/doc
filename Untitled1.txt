@@ -1,0 +1,25 @@
+
+
+Para aumentar a riqueza de informações, seria interessante explorar mais sobre o comportamento de caça de cada animal.
+Adicionar referências culturais ou simbólicas para cada animal, ligando-os a lendas ou mitos locais.
+Incorporar dados sobre o impacto desses animais no ecossistema e suas interações com outras espécies pode enriquecer a análise.
+
+Preciso de 2 sobre animais são típicos do brasil, em diferentes biomas e região, prioridade mais agressivos, feroz, veneno, somente os que oferecem perigo ao ser humano, informe o bioma e seu ataque, características.
+
+Preciso de 2 países aleatórios menos conhecidos aos mais conhecidos. sobre animais são típicos de cada pais como símbolo, prioridade mais agressivos, feroz, veneno, somente os que oferecem perigo ao ser humano, informe o pais, o bioma, seu ataque, características.
+
+Selecione um aleatório sem repetir os animais brasileiros e um de cada pais sem repetir, cada tópico numere com uma disputa ou possível confronto em cada tópico com os dois animais selecionados ate completar a lista, e faça uma analise qual sairia vitorioso em uma disputa mortal entre os dois animais, analise pelo critério de agressividade, força, veneno, característica, e coloque uma porcentagem de vitória, informe os animais "vs", com o pais e o nome do animal.
+informe Análise do confronto, em seguida cria um prompt para criar imagem com os dados da analise do confronto.
+indique o percentual de vitória.
+
+
+
+escreva um prompt em português e traduzido em ingles para criação de uma imagem, incluir "criar imagem:" trata-se de uma batalha de guerreiros animais, dentro de uma arena de luta octógono fundo de ambiente escuro realista com a iluminação destacada no personagem, pouca luz e escuridão. disputa entre dois países, represente ao lado esquerdo características de primeiro pais e ao lado direito segundo pais, com a bandeira estilizada ao vento e rasgada  em cada lado, no centro utilize "vs" utilize como personagem miniatura em pelúcia como mascote. A linguagem deve ser super simples, não floreada ou enfadonha. Não use palavras complicadas, ofensivas, UFC. Seja fiel ao animal referencia do pais, cada mascote esta uniformizado com a profissão, 
+CHEFE DE COZINHA. 
+Disputa entre os países: 
+Brasil animal tamandua bandeira
+versus
+EUA animal canguru
+
+
+Preciso de 10 sobre animais são típicos do brasil, em diferentes biomas e região, prioridade mais agressivos e feroz, até o de pequeno porte no final, prompts curtos e relacionáveis ​​que se parecem com personagens guerreiros animais. Eles devem ser formatados em uma tabela numerada, dividida em primeira parte é o nome do animal e a segunda parte prompt para gerar imagens em portugues abaixo traducao para ingles. A linguagem deve ser super simples, não floreada ou enfadonha. Não use palavras complicadas, seja fiel ao animal, inclua detalhes e características na segunda parte animais com expressão de guerreiro, muito musculosos, mal encarados, amedronta, tatuados, gangue de rua ou armaduras, na segunda parte incluir uma atividade que todos estão realizando, SÂO CHEFE DE COZINHA, estão preparando prato típico do seu próprio do brasil.

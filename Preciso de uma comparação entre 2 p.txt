@@ -1,0 +1,17 @@
+Preciso de uma comparação entre 2 pares de animais típicos do Brasil e de outros países menos conhecidos e mais conhecidos. A prioridade deve ser dada a animais que representem perigo para os seres humanos, sendo agressivos, ferozes ou venenosos. Cada animal deve ser proveniente de diferentes biomas e regiões do mundo.
+Para cada animal, inclua:
+
+O bioma em que vive.
+Suas características físicas e comportamento de caça, incluindo estratégias que utilizam para capturar suas presas ou se defender de predadores.
+Tipo de ataque que utiliza, detalhando o mecanismo (força física, veneno, emboscadas, etc.).
+Agressividade e capacidade de causar danos ao ser humano.
+Impacto no ecossistema local e sua interação com outras espécies, destacando sua importância no equilíbrio natural do bioma.
+Um prompt para criar imagem com relacionáveis aos itens ​​que se parecem com personagens guerreiros animais, A linguagem deve ser super simples, não floreada ou enfadonha. Não use palavras complicadas ou ofensivas, seja fiel ao animal, com expressão de guerreiro, muito musculosos, mal encarados, amedronta, tatuados, gangue de rua, incluir uma atividade ou profissão vestuário ou uniforme que todos estão relacionados, SÂO CHEFE DE COZINHA, estão preparando prato típico da sua origem, pais ou bioma.
+
+Além disso, para tornar a análise ainda mais rica:
+Relacione cada animal com referências culturais, mitos ou lendas da região de origem.
+Realize uma simulação hipotética de um confronto mortal entre dois animais de diferentes países, sempre com análise dos critérios de força, agressividade, veneno e comportamento.
+A análise do confronto deve incluir uma estimativa de percentual de vitória para cada animal, justificando qual sairia vitorioso.
+No final, sugira melhorias possíveis no confronto baseado nas características de cada um, e como isso poderia impactar o resultado.
+por ultimo crie um prompt de criação de imagem que represente a "analise de confronto", A linguagem deve ser super simples, não floreada ou enfadonha. Não use palavras complicadas ou ofensivas.
+

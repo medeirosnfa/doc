@@ -1,0 +1,88 @@
+Preciso de uma comparação detalhada entre em uma lista de 3 de animais típicos do Brasil, aleatórios que representam perigo para os seres humanos, sendo agressivos, ferozes ou venenosos. Cada animal deve ser proveniente de diferentes biomas e regiões do mundo, com ênfase na periculosidade de cada um para o ser humano, comparar uma lista aleatória de países (menos conhecidos ao mais conhecidos) e o animal típico do pais mais agressivo e ferozes ou venenosos. 
+
+Primeira coisa mostra uma tabela com as escolhas que será gerado:
+colunas: numeração, nome do animal brasileiro, nome do animal adversário e pais, qual animal vitorioso porcentagem estimativa.
+
+
+Detalhes do animal:
+- Bioma onde o animal habita (como floresta tropical, savana, deserto, etc.), pais origem.
+- Características físicas detalhadas, incluindo tamanho, coloração e habilidades que destacam o animal na natureza.
+- Comportamento de caça e estratégias utilizadas para capturar suas presas ou se defender de predadores.
+- Tipo de ataque que utiliza (como força física, veneno, emboscadas, etc.), detalhando como o ataque é executado, informe em uma escala de zero a dez o nível do ataque.
+- Agressividade e capacidade de causar danos ao ser humano, destacando ataques conhecidos e a reação do animal em situações de ameaça, informe em uma escala de zero a dez o nível de agressividade.
+- Impacto no ecossistema local, explicando o papel vital do animal em seu habitat e sua interação com outras espécies. Inclua sua importância no equilíbrio ecológico do bioma.
+- Referências culturais, mitos ou lendas associadas ao animal em sua região de origem, mostrando como ele é visto nas culturas locais.
+- "Prompt de imagem com detalhes com dois subitem versão em português e tradução em ingles: que se parecem com personagens animal como guerreiro, Não use palavras complicadas ou ofensivas, seja fiel ao animal, Adicione características de cada animal no personagem e detalhes ao fundo que lembra origem do seu bioma, guerreiro musculoso e mal encarado, com tatuagem e expressão ameaçadora, com um olho de ciborgue do futuro, e parte do corpo aleatória a pele escamada mostrando traços de biônico robô, com garras ou dentes afiados. Ele deve ser chefe de cozinha, vestido com uniforme típico de chef com bordado no peito a bandeira ou tatuada no corpo, ele está preparando um prato típico de seu pais, informe qual prato. Deve estar em uma cozinha de guerra, pendurado ao canto no fundo uma bandeira do seu pais estilizada com rasgos aparente, ele está cozinhando e mostrando suas garras ou dentes afiados pronto pra lutar, o ambiente escuro realista com a iluminação destacada no personagem." 
+
+segundo tópico:
+
+Detalhes do animal adversário:
+- Bioma onde o animal habita (como floresta tropical, savana, deserto, etc.), pais origem.
+- Características físicas detalhadas, incluindo tamanho, coloração e habilidades que destacam o animal na natureza.
+- Comportamento de caça e estratégias utilizadas para capturar suas presas ou se defender de predadores.
+- Tipo de ataque que utiliza (como força física, veneno, emboscadas, etc.), detalhando como o ataque é executado, informe em uma escala de zero a dez o nível do ataque.
+- Agressividade e capacidade de causar danos ao ser humano, destacando ataques conhecidos e a reação do animal em situações de ameaça, informe em uma escala de zero a dez o nível de agressividade.
+- Impacto no ecossistema local, explicando o papel vital do animal em seu habitat e sua interação com outras espécies. Inclua sua importância no equilíbrio ecológico do bioma.
+- Referências culturais, mitos ou lendas associadas ao animal em sua região de origem, mostrando como ele é visto nas culturas locais.
+- "Prompt de imagem rica em detalhes e características, com dois subitem versão em português e tradução em ingles: que se parecem com personagens animal como guerreiro, Não use palavras complicadas ou ofensivas, seja fiel ao animal, Adicione características de cada animal no personagem e detalhes ao fundo que lembra origem do seu bioma, guerreiro musculoso e mal encarado, com tatuagem e expressão ameaçadora, com um olho de ciborgue do futuro, e parte do corpo aleatória a pele escamada mostrando traços de biônico robô, com garras ou dentes afiados. Ele deve ser chefe de cozinha, vestido com uniforme típico de chef com bordado no peito a bandeira ou tatuada no corpo, ele está preparando um prato típico de seu pais, informe qual prato. Deve estar em uma cozinha de guerra, pendurado ao canto no fundo uma bandeira do seu pais estilizada com rasgos aparente, ele está cozinhando e mostrando suas garras ou dentes afiados pronto pra lutar, o ambiente escuro realista com a iluminação destacada no personagem." 
+
+terceiro topico:
+
+Realize uma simulação hipotética de um confronto mortal com base em suas características de força, agressividade, veneno e comportamento de caça. Para isso, analise os seguintes aspectos:
+- Força física e capacidade de ataque.
+- Agressividade, como o animal reage a ameaças.
+- Veneno, como o animal usa o veneno ou toxinas para incapacitar sua presa.
+- Comportamento de caça, e como ele utiliza o ambiente ao seu favor em um confronto.
+- "prompt de imagem rica em detalhes e características, com dois subitem versão em português e tradução em ingles: 
+que se se parecem com personagens mini pelúcia como mascote. Não use palavras complicadas ou ofensivas, seja fiel ao animal, Eles devem ser chefes de cozinha, vestidos com uniformes típicos de chef." ao fundo a bandeira de cada pais do animal estilizada ao vento com rasgo aparente, eles estão dentro de uma arena de luta octógono, com fundo de ambiente escuro realista com a iluminação destacada em cada personagem, no centro da imagem utilize "vs". 
+
+quarto tópico:
+
+Crie uma estimativa de vitória: Dê uma percentagem de para cada animal no confronto, justificando de forma clara o vencedor baseado nas características de cada um.
+
+
+
+
+
+
+
+
+
+Para cada linha da tabela:
+
+Forneça de cada animal, os seguintes detalhes organizados:
+- Bioma onde o animal habita (como floresta tropical, savana, deserto, etc.), pais origem.
+- Características físicas detalhadas, incluindo tamanho, coloração e habilidades que destacam o animal na natureza.
+- Comportamento de caça e estratégias utilizadas para capturar suas presas ou se defender de predadores.
+- Tipo de ataque que utiliza (como força física, veneno, emboscadas, etc.), detalhando como o ataque é executado, informe em uma escala de zero a dez o nível do ataque.
+- Agressividade e capacidade de causar danos ao ser humano, destacando ataques conhecidos e a reação do animal em situações de ameaça, informe em uma escala de zero a dez o nível de agressividade.
+- Impacto no ecossistema local, explicando o papel vital do animal em seu habitat e sua interação com outras espécies. Inclua sua importância no equilíbrio ecológico do bioma.
+- Referências culturais, mitos ou lendas associadas ao animal em sua região de origem, mostrando como ele é visto nas culturas locais.
+- "Prompt de imagem com detalhes com dois subitem versão em português e tradução em ingles: que se parecem com personagens animal como guerreiro, Não use palavras complicadas ou ofensivas, seja fiel ao animal, Adicione características de cada animal no personagem e detalhes ao fundo que lembra origem do seu bioma, guerreiro musculoso e mal encarado, com tatuagem e expressão ameaçadora, com um olho de ciborgue do futuro, e parte do corpo aleatória a pele escamada mostrando traços de biônico robô, com garras ou dentes afiados. Ele deve ser chefe de cozinha, vestido com uniforme típico de chef com bordado no peito a bandeira ou tatuada no corpo, ele está preparando um prato típico de seu pais, informe qual prato. Deve estar em uma cozinha de guerra, pendurado ao canto no fundo uma bandeira do seu pais estilizada com rasgos aparente, ele está cozinhando e mostrando suas garras ou dentes afiados pronto pra lutar, o ambiente escuro realista com a iluminação destacada no personagem." 
+
+Antes de seguir para próxima linha da tabela:
+Realize uma simulação hipotética de um confronto mortal entre os dois animais desta linha, com base em suas características de força, agressividade, veneno e comportamento de caça. Para isso, analise os seguintes aspectos:
+- Força física e capacidade de ataque.
+- Agressividade, como o animal reage a ameaças.
+- Veneno, como o animal usa o veneno ou toxinas para incapacitar sua presa.
+- Comportamento de caça, e como ele utiliza o ambiente ao seu favor em um confronto.
+- "prompt de imagem com detalhes, com dois subitem versão em português e tradução em ingles: 
+que se se parecem com personagens mini pelúcia como mascote. Não use palavras complicadas ou ofensivas, seja fiel ao animal, Eles devem ser chefes de cozinha, vestidos com uniformes típicos de chef." ao fundo a bandeira de cada pais do animal estilizada ao vento com rasgo aparente, eles estão dentro de uma arena de luta octógono, com fundo de ambiente escuro realista com a iluminação destacada em cada personagem, no centro da imagem utilize "vs". 
+
+Crie uma estimativa de vitória: Dê uma percentagem de para cada animal no confronto, justificando de forma clara o vencedor baseado nas características de cada um.
+
+
+
+
+
+
+
+
+
+
+
+
+ "A muscular warrior, the [Polvo-de-Anéis-Azuis (Austrália)], with skin tattoos and a threatening expression, a futuristic cyborg eye, and part of the body showing bionic traits. He is a chef, dressed in a typical chef uniform, preparing a dish typical of his biome. He is in a war kitchen, with knives and cooking utensils in the background, while the flag of his country flutters in the wind, torn. Dark environment with light focused on the character."
+
+"Two muscular and menacing warriors, the [Brazilian animal name] and the [opponent animal name], both with tattoos and threatening expressions, a futuristic cyborg eye, and bionic traits. They are chefs, dressed in typical uniforms, ready to cook and fight, in war kitchens, with knives and cooking utensils. In the center, 'vs' highlighted, dark environment with spotlighted lighting and tattered flags in the background."
+
