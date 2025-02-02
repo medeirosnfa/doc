@@ -41,10 +41,15 @@ Also review and improve the other scenes, the other prompts by ensuring the text
 
 Each prompt must have a maximum of 800 characters, including spaces and letters. Check that all prompts have a maximum of 800 letters and blank spaces, maintaining the characteristics, details, accessories, features, physical and basic shapes.
 
+Each prompt must have a maximum of 800 characters, including spaces and letters. Check that all prompts have a maximum of 800 letters and blank spaces, maintaining the characteristics, details, accessories, features, physical and basic shapes.
+Replace the parameters in the prompts.
+
 
 I will give you the information to create: Animation Story Creation Framework, do not create, wait for my guidance to start creating, for now I will only give you the structure information.
 
+conda --version
 ollama run deepseek-r1:14b
+pip install -r requirements.txt
 
 The camera focuses sharply on the exquisitely plated Ugali, resting proudly in the center of a rustic wooden table. The vibrant dish radiates freshness and artistry, illuminated by warm, dramatic lighting that highlights its intricate textures and vibrant colors, other elements such as a wine glass, cutlery and arranged ingredients, help in the final presentation of the dish. Around the table, the cozy kitchen is enriched with Tanzanian-inspired elements, including an enchanted antique stove that emits a magical glow, intricately carved wooden shelves stocked with traditional utensils, and furniture displaying regional crafts. Fantasy elements—glowing steam rising from the cooking surface and faint sparks of enchanted fire flickering in the air—enhance the magical ambiance.
 
@@ -124,3 +129,10 @@ Auto Time Zone Updater
 windows Update
 
 ana priscyla gomes costa ferreira
+
+
+
+Before you start creating, analyze your answer and apply improvements. Especially Scene 1, Modeling, as this scene describes the character.
+Apply the improvement to add in the following scenes and ensure that the character has consistency in all scenes, such as clothing details, accessories, character traits, physical characteristics, shapes, features, details, etc.
+Also analyze and apply improvements to the other scenes 2,3,4,5, the prompts ensuring that the text makes sense, repeating {Character} and always adding magical touches to the activities and scenes.
+Replace the parameters in the prompts.
