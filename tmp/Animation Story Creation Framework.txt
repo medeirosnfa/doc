@@ -1,0 +1,99 @@
+Animation Story Creation Framework
+
+Story Overview
+Na vibrante Tanzânia, um talentoso chef guerreiro antropomórfico deve preparar um prato tradicional enquanto equilibra sua identidade como um guerreiro biónico. Sua cozinha mágica é cheia de ingredientes encantados, utensílios animados e desafios imprevisíveis. Cada cena explora sua destreza culinária, com efeitos visuais cinematográficos e um toque de fantasia.
+
+Section 1: Customizable Parameters
+
+{Common_Animal}: Lion
+{Scientific_Animal}: Panthera leo
+{Country}: Tanzânia
+{Typical_Dish}: Ugali, Traditional corn dough
+{Clothing}: He wears a crisp, double-breasted white chef's uniform with silver buttons, the {Country} flag stitched on the sleeve, a chef's hat that fits snugly on his head.
+{Facial_Features}: 
+- Right Hand Bionic: Cutting-edge cybernetic hand with sharp, retractable claws, enhancing dexterity and precision.
+- Left Arm Bionic: Polished metallic arm glowing with blue energy, highly flexible with intricate joints for advanced movement.
+- Glowing Eyes: Piercing golden eyes, one of which glows with an inner cybernetic light, hinting at embedded futuristic technology.
+{Animal_Details}: Anthropomorphic hybrid warrior, a fit and muscular {Common_Animal} ({Scientific_Animal}), with a thick, well-groomed mane and golden fur.
+{Character}: {Animal_Details}, dressed in {Clothing}, featuring {Facial_Features}.
+
+Section 2: Essential Guidelines
+
+- Consistent Design: Maintain a coherent appearance for {Character} across all scenes (Animal Details, Facial Features, Clothing).
+- Vivid Visuals: Use detailed, colorful visuals with strong emotional expressions, dynamic camera angles, and special effects.
+- Image Prompt Structure: Ensure consistency in Character, Animal Details, Facial Features, Clothing throughout the story.
+- Narration Style: Clear storytelling with engaging language, suitable for the target audience.
+- Animation: Each scene includes a 10-second animation, using dynamic camera movement and visual effects.
+
+Additional Enhancements:
+- Character Interaction: Include moments where {Character} interacts with magical kitchen tools or enchanted ingredients.
+- Cinematic Composition: Use a strong contrast lighting scheme, a warm color palette, and detailed textures to enhance immersion.
+- Fantasy Elements: Subtly integrate magical aspects such as floating ingredients, animated fire, and glowing effects.
+- Camera Techniques: Implement sweeping aerial shots, slow-motion close-ups, and dramatic angles to emphasize key moments.
+
+Scene Breakdown
+
+Scene 1: Character Modeling
+Image Prompt:
+{Character} stands in a well-lit studio-like setting, highlighting all facial features, clothing details, and bionic enhancements. The background is neutral, allowing a clear view of his character design.
+
+Narration:
+"Meet {Character}, a warrior chef whose culinary skills rival his battle instincts. His powerful stance and glowing cybernetic enhancements set him apart, blending tradition with futuristic artistry."
+
+Animation:
+Slow camera pan around the character, emphasizing bionic enhancements and attire with a detailed close-up of glowing cybernetic parts.
+
+Scene 2: Introducing the Head Chef
+Image Prompt:
+{Character} stands at the center of his kitchen, holding two raised knives that emit blue magical flames and sparks as he sharpens them. The rustic kitchen, filled with {Country}-inspired elements, is softly blurred in the background. Dramatic lighting highlights the metallic shine of his knives and intricate details of the environment.
+
+Narration:
+"In the heart of {Country}, where tradition meets innovation, a legendary chef prepares for his masterpiece. His cybernetic hands work with precision, bringing both power and artistry to the kitchen."
+
+Animation:
+A 360-degree tracking shot slowly revolves around {Character}, showcasing his poised confidence. Sparks fly dramatically as the knives clash, revealing magical effects and energy pulses.
+
+Scene 3: Preparing the Ingredients
+Image Prompt:
+{Character} is intensely focused as he chops vibrant vegetables with extreme precision on a worn wooden countertop. A floating enchanted stove glows softly in the background, illuminating intricately carved shelves with traditional utensils. His bionic arm scans ingredients, displaying futuristic holographic data.
+
+Narration:
+"Precision, skill, and a touch of magic—each cut is deliberate, each motion effortless. With the guidance of ancient traditions and cutting-edge technology, {Character} breathes life into his ingredients."
+
+Animation:
+Dynamic overhead drone shot showcasing his cybernetic arm movements, close-ups of glowing circuits, and slow-motion chopping sequences.
+
+Scene 4: Cooking the Dish
+Image Prompt:
+{Character} stirs a bubbling golden Ugali mixture, his bionic arm pulsing with synchronized blue energy as floating spices gravitate toward the dish. A rustic kitchen filled with {Country}-inspired décor is illuminated by the soft glow of an enchanted stove.
+
+Narration:
+"Cooking is an art of precision and instinct. As magic swirls into the simmering pot, a legendary dish takes shape, infused with tradition and futuristic brilliance."
+
+Animation:
+Close-up of the dish bubbling with mystical energy, slow-motion of floating spices, and a dramatic zoom-out shot revealing the full kitchen.
+
+Scene 5: Finishing the Dish
+Image Prompt:
+{Character} carefully plates {Typical_Dish}, his bionic arm glowing softly as it moves with surgical precision. Wisps of golden magical steam swirl around the dish, casting a cozy warmth over the rustic kitchen.
+
+Narration:
+"With the final touch, the masterpiece is complete. Every detail, every movement is deliberate—an expression of skill, passion, and magic."
+
+Animation:
+Top-down shot of the dish, a slow pan up to the chef’s determined gaze, and a subtle magical spark effect as the final garnish is placed.
+
+Scene 6: Presenting the Dish
+Image Prompt:
+A rustic wooden table holds a perfectly plated {Typical_Dish}, with cutlery, wine, and ingredients elegantly arranged. In the blurred background, {Character} stands with arms crossed, watching proudly. A faint golden glow emanates from the dish, surrounded by subtle, floating sparks.
+
+Narration:
+"A meal is more than sustenance—it is a story, a legacy passed down through generations. Tonight, a warrior’s feast is served."
+
+Animation:
+Slow cinematic reveal of the dish, soft focus shift to the chef, and a final glowing effect as the dish is ready to be savored.
+
+Final Adjustments & Execution
+✅ Ensure all variables are correctly replaced.
+✅ Verify all scenes contain Image Prompt, Narration, and Animation instructions.
+✅ Image prompts are structured for Ideogram 2.0.

@@ -27,6 +27,10 @@ https://app.writesonic.com/
 chat:
 https://chat.mistral.ai/chat/
 https://poe.com/chat
+https://monica.im/home/chat/
+
+
+Adobe Firefly e Recraft V3
 
 
 

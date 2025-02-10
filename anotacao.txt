@@ -15,13 +15,14 @@ Keep the same face, gaze, mouth, eyes, enhance the sharpness.
 
 (Aumente a nitidez), (Manter mesmo rosto, manter olhar, manter boca, manter olhos).
 
-(Portrait), (8K), (High Contrast), (Highly Detailed), (Increase sharpness), (Keep same face, keep gaze, keep mouth, keep eyes).
+(Portrait), (8K), (High contrast), (Highly detailed), (Increase sharpen), (Keep the same face, keep the gaze, keep the mouth, keep the eyes, keep the skin tone).
 
 @Site2025
 @Site987321000
 F@bio@2025
 MSSEZAM
 
+sharpen, Highly detailed, Increase sharpen, keep the skin tone, sharper 
 
 ----- 
 Improve the prompt for Scene 1, Modeling. This prompt describes the character.
@@ -82,7 +83,7 @@ A photo of a rustic wooden table with a plate of Ugali, a Tanzanian dish made fr
 
 
 A photo of a rustic wooden table with a plate of Ugali, a Tanzanian dish made from maize flour. The dish is served with a side of vegetables. There is also a glass of wine, cutlery and ingredients arranged on the table. The background reveals a cozy kitchen with Tanzanian-inspired elements such as an enchanted antique stove that emits a magical glow, intricately carved wooden shelves stocked with traditional utensils and furniture displaying regional crafts. 
-The chef, an anthropomorphic hybrid creature, a muscular and powerful warrior animal lion. His advanced bionic arms, with intricate metallic designs and a soft glow, their polished metal surfaces and intricate circuitry. Add a futuristic touch. He stands in the background, slightly out of focus, with his arms crossed, wearing a white double-breasted chef's uniform and a chef's hat.
+The chef, an anthropomorphic hybrid creature, a muscular and powerful warrior animal lion. This character has a powerful physique, showcasing well-defined muscles and a strong presence. His advanced bionic arms, with intricate metallic designs and a soft glow, their polished metal surfaces and intricate circuitry. Add a futuristic touch. He stands in the background, slightly out of focus, with his arms crossed, wearing a white double-breasted chef's uniform and a chef's hat.
 A magical atmosphere is created by the glowing steam rising from the plate and faint, ethereal sparks floating in the air.
 
 
@@ -136,3 +137,30 @@ Before you start creating, analyze your answer and apply improvements. Especiall
 Apply the improvement to add in the following scenes and ensure that the character has consistency in all scenes, such as clothing details, accessories, character traits, physical characteristics, shapes, features, details, etc.
 Also analyze and apply improvements to the other scenes 2,3,4,5, the prompts ensuring that the text makes sense, repeating {Character} and always adding magical touches to the activities and scenes.
 Replace the parameters in the prompts.
+
+
+
+
+Apply these suggestions the other prompts:
+Character Interaction: Add a moment where the warrior chef interacts with a magical kitchen tool or ingredient, showcasing his bond with the enchanted elements of his craft.
+Dynamic Camera Angles: Incorporate more dynamic camera movements, such as a sweeping aerial shot of the kitchen or a dramatic close-up of the dish being plated.
+-----
+The scene has a single animation and a duration of 10 seconds.
+image prompt use Ideogram 2.0.
+Check that all scenes have the prompts: Image, Narration, Animation.
+----- 
+
+
+{Character}, in a wide-angle view from head to knees, in a well-lit, studio-style setting, highlighting all facial features, costume details, and bionic enhancements. The dark background allows for a clear view of the character design.
+
+
+answer in english.
+reply in brazilian portuguese
+
+
+
+Adjust this prompt in English to a maximum of 980 characters, including spaces. If the 980-character limit is reached in the middle of a sentence, continue writing until the sentence is complete, ensuring completeness of thought. If completing a sentence exceeds the limit, stop before beginning an incomplete sentence, even if this results in a response shorter than 980 characters. Use specialized character counting tools and generate sample responses to check that each sentence is complete. Allow for dynamic adjustments for exceptional cases where completing a sentence only slightly exceeds the limit.
+Check if the total is shorter than 980 characters?
+
+
+the following prompt so that it does not trigger the NSFW filter, analyze which parts of the prompt may be causing the error and suggest alternatives for each section:

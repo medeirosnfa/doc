@@ -854,3 +854,22 @@ A câmera foca nela, vestida de lingerie vermelha, cercada por cinco trabalhador
 Keep the same face, gaze, mouth, eyes, enhance the sharpness.
 
 Maintain the same expression, eyes, gaze, and mouth, enhance the sharpness.
+
+
+
+
+
+
+Study this documentation on the platform: 
+https://docs.ideogram.ai/using-ideogram/tips-for-prompting-with-ideogram/text-and-typography
+https://docs.ideogram.ai/using-ideogram/getting-started/the-basics-step-by-step
+https://docs.ideogram.ai/using-ideogram/tips-for-prompting-with-ideogram/importance-of-precision
+https://docs.ideogram.ai/using-ideogram/tips-for-prompting-with-ideogram/using-magic-prompt
+https://docs.ideogram.ai/using-ideogram/ideogram-features/magic-prompt
+The scene unfolds in a rustic kitchen alive with a fusion of Tanzanian culture and futuristic flair, where a formidable chef stands as the centerpiece. This unique chef, an anthropomorphic warrior lion (Panthera leo), boasts lustrous golden fur and a commanding, tattoo-covered physique. His muscular form is adorned with a crisp white chef's uniform, accented by silver buttons and topped with a traditional chef's hat.
+
+His piercing golden eyes and an enhanced cybernetic gaze exude an air of authority, matched by the remarkable contrast of a cybernetic right hand and a bright blue bionic left arm. The chef's sharp facial features and thick mane add to his powerful, almost mythical presence. Clutched in his formidable grip are blue Plasma Knives, the blades emanating magical flames and sparks, raised in readiness for culinary combat.
+
+Surrounding him is the charm of a kitchen steeped in Tanzanian influences: an enchanted antique stove, intricately carved wooden shelves, and an array of traditional utensils. The room is filled with vibrant ingredients, the flickering magical fire casting dynamic shadows.
+
+Dramatic lighting enhances the gleam of metallic knives, enveloping the scene in an energy and charm that harmonizes rustic tradition with a futuristic twist. The soft, blurred background adds depth, highlighting the intricate details of this captivating, otherworldly encounter of gastronomy and artistry.
