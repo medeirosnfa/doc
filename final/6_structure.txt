@@ -2,9 +2,10 @@
 
 ---
 
-#### **Section 5: Scene Structure**  
+#### **Section 6: Scene Structure**  
 
 1. **Character Details (Required for All Scenes):**
+   - Use Mandatory Elements Checklist, apply Section 5.
    - In all scenes, regardless of narrative focus (e.g. setting, action, or other elements), the character must be described with their **key attributes**, including:
      - **Physical appearance and build:**
      - Muscular, well-defined body with tattoos and an imposing presence.
@@ -17,6 +18,7 @@
      - A perfectly tailored white chef's uniform with silver buttons and the Tanzanian flag proudly displayed on the sleeve. Chef’s Hat.
 
 2. **Character Consistency:**
+   - Use Mandatory Elements Checklist, apply Section 5.
    - The character should be described with **the same physical and technological details in every scene**, even if the main focus shifts to other elements (e.g., the environment or the action).
    - Always include a brief mention of the **balance between brute force, futuristic technology, and cultural tradition**.
 
