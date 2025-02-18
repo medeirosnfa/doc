@@ -1,0 +1,25 @@
+
+
+---
+
+#### **Section 3: General Guidelines**  
+
+1. **Prompt Structure and Quality**  
+   - Prompts must be a **single paragraph** (simple and direct format).  
+   - Have at least **800 characters (including spaces)**.
+   - Do not exceed **1400 characters (including spaces)**.  
+   - Finish sentences even if slightly exceeding the limit.  
+   - Use the **Magic Prompt** feature to automatically refine visual details.  
+
+2. **Allowed and Prohibited Content**  
+   - **Avoid sensitive terms or anything that triggers NSFW filters** (e.g., explicit anatomy references, graphic violence, or delicate themes).  
+   - Replace sensitive expressions with neutral alternatives while retaining the description's essence.  
+
+3. **Mandatory Components for Each Scene**  
+   Each scene should include:  
+   - **Image:** A detailed description of the setting, lighting, and characters.  
+   - **Narration:** Descriptive text (no dialogue).  
+   - **Animation:** Character and camera movements.  
+   - **Duration:** 10 seconds.  
+
+---

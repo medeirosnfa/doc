@@ -1,0 +1,51 @@
+
+
+---
+
+#### **Section 5: Scene Structure**  
+
+1. **Character Details (Required for All Scenes):**
+   - In all scenes, regardless of narrative focus (e.g. setting, action, or other elements), the character must be described with their **key attributes**, including:
+     - **Physical appearance and build:**
+     - Muscular, well-defined body with tattoos and an imposing presence.
+     - Intimidating appearance.
+     - **Technological features:**
+     - Bionic parts with glowing energy (red) and advanced joints.
+     - Cybernetic claws that function as advanced tools.
+     - Eyes enhanced with cybernetic technology.
+     - **Attire and uniform:**
+     - A perfectly tailored white chef's uniform with silver buttons and the Tanzanian flag proudly displayed on the sleeve. Chef’s Hat.
+
+2. **Character Consistency:**
+   - The character should be described with **the same physical and technological details in every scene**, even if the main focus shifts to other elements (e.g., the environment or the action).
+   - Always include a brief mention of the **balance between brute force, futuristic technology, and cultural tradition**.
+
+3. **Settings and Interactions:**
+   - Setting descriptions should complement the character, but never omit or minimize the character’s essential characteristics.
+   - Whenever the character interacts with objects or the environment (e.g., plasma knives, utensils, pots, stoves, knives, cutlery, precision, fire, ingredients, or holograms), the description should emphasize how their physical and technological traits influence these interactions. Innovation and surprises.
+
+4. **Scene Transitions:**
+   - When transitioning between scenes, make sure that **character details are consistent and conveyed**, even if described briefly.
+
+5. **Scene 1 – Character Introduction**  
+   - Focus only on the character, including:  
+     - Physical appearance (mane, detailed muscle definition, tribal tattoos).  
+     - Full outfit (chef’s hat, uniform, details like buttons and flag).  
+     - Technological elements (bionic arm with energy details, cybernetic claws, cybernetic eye).  
+     - Posture and menacing presence.  
+   - **Do not include accessories or environmental context.**  
+
+6. **Scene 2 – Environment and Expressions**  
+   - Reintroduce the character with the same details as Scene 1.  
+   - Add:  
+     - Kitchen accessories (utensils, high-tech surfaces).  
+     - Facial expressions and body language.  
+     - Detailed environmental descriptions (kitchen setting, lighting, ambiance).  
+
+7. **Scene 3 – Main Action**  
+   - Reintroduce the character with the same details as Scene 1.  
+   - Focus on the main action, such as:  
+     - Preparing food using advanced technology.  
+     - Techniques and agility (dynamic movements, animated fire, interactive holograms).  
+
+---

@@ -1,0 +1,212 @@
+
+
+ANALISE E CRITIQUE, DE sugestoes de melhorias:
+seguindo suas orientações de prompt longo, foi divido em partes.
+
+1 - PROMPT USADO PARA AS PRIMEIRAS ORIENTAÇÕES AO CHAT:
+
+"I need help creating a story, Keep this information in mind, I will guide you when you can start creating:
+You are an AI assistant specialized in creating animation stories and prompts for state-of-the-art image generation models.
+Study this documentation on the platform:
+https://docs.ideogram.ai/using-ideogram/getting-started/the-basics-step-by-step
+https://docs.ideogram.ai/using-ideogram/tips-for-prompting-with-ideogram/importance-of-precision
+https://docs.ideogram.ai/using-ideogram/tips-for-prompting-with-ideogram/using-magic-prompt
+https://docs.ideogram.ai/using-ideogram/ideogram-features/magic-prompt
+https://policies.google.com/terms/generative-ai/use-policy
+Your task is to generate prompts that maximize the potential of these models. Create interesting and visually attractive details of how the image should be, keeping all the information provided in the original description. Your prompts should be in the form of a detailed paragraph, elaborating on what is happening in the image and ensuring character consistency. Do not remove important details, especially terms related to graphics, details, lighting, accessories, technology, environment, personality, shapes, quality, resolution, color profile, image filters, and names of people/artists/animals.
+To automatically refine the visual output of the prompt, use the 'Magic Prompt' feature as described in the platform documentation.
+Ensure the prompts do not contain terms that trigger NSFW filters, such as explicit references to anatomy, graphic violence, or sensitive themes. If necessary, replace expressions with neutral alternatives while maintaining the essence of the description.
+Check that all scenes have the following components: Image, Narration, Animation, and a duration of 10 seconds."
+
+
+2 - APOS CHAT RESPONDER É ENVIADO SEGUNDA PARTE DO PROMPT AO CHAT:
+
+"-----
+Animation Story Creation Framework
+-----
+Story Overview:
+
+In vibrant Tanzania, a talented strong anthropomorphic hybrid warrior chief, Simbou is an anthropomorphic lion with a muscular and defined body structure. His golden fur contrasts with tribal tattoos on his body. His thick, flowing mane frames a majestic face. In addition to being a formidable warrior, he has bionic claws and a metallic left arm that emits a futuristic glow. The futuristic kitchen combines magic and technology. Enchanted ingredients and animated utensils create unexpected challenges. Each scene highlights his robotic culinary skills, with cinematic visual effects and a style that blends fantasy and hyper-realism.
+
+-----
+Section 1: Customizable Parameters
+
+{Name}: simbou.
+{Common_Animal}: lion.
+{Scientific_Animal}: Panthera leo.
+{Country}: Tanzânia.
+{Typical_Dish}: Ugali, Traditional corn dough.
+{Kitchen}: The rustic kitchen filled with pots and pans, {Country}-inspired items and objects, {Country} flag colors on some walls, an enchanted antique stove, and intricately carved wooden shelves containing traditional utensils and vibrant ingredients, is illuminated by the magical, flickering fire below the stove, with steam rising in elegant, undulating tendrils.  
+{Clothing}: He wears a white chef's uniform, double-breasted and fitted to his muscles, with silver buttons, the {Country} flag sewn on the sleeve. With a chef's hat accessory that fits perfectly on his head.
+{Facial_Features}: 
+- State-of-the-art cybernetic hands, with each finger meticulously designed to enhance dexterity and control, sharp titanium blades that represent animal claws extend from the fingertips, each one created to assist the chef using futuristic technology.
+- The left arm up to the shoulder circulates bright blue energy fully bionic, highly flexible with complex joints for advanced movements encased in an elegant layer of polished titanium.
+- Piercing golden eyes, with a cybernetically enhanced eye suggesting embedded futuristic technology.
+{Animal_Details}: In the vibrant {Country}, a talented {Common_Animal} Head of cooking strong anthropomorphic hybrid warrior, {Scientific_Animal} form with shaped, muscular, tall, very strong muscles, has tattoos by body and threatening appearance with golden hair. It is crowned by a thick and fluid juba that fits a clear, majestic face.
+{Character}: the chef {Name}, an {Animal_Details}, featuring {Facial_Features}, dressed in {Clothing}."
+
+
+
+
+3 - APOS CHAT RESPONDER É ENVIADO TERCEIRA PARTE DO PROMPT AO CHAT:
+
+
+"-----  
+Section 2: Essential Guidelines Enhancements  
+-----  
+
+- **Cultural & Environmental Authenticity:**  
+  - Explore different cultural kitchen settings to enhance regional authenticity.  
+  - Introduce subtle steam or smoke effects to emphasize the warmth of the kitchen.  
+
+- **Lighting & Cinematic Depth:**  
+  - Adjust lighting and shadow effects to create varied emotional atmospheres.  
+  - Use reflective surfaces to enhance the interplay between traditional and futuristic elements.  
+  - Apply a strong contrast lighting scheme to improve immersion.  
+
+- **Futuristic & Cybernetic Elements:**  
+  - Incorporate advanced technological elements such as interactive holograms and high-tech robotics.  
+  - Balance futurism and tradition, integrating innovative technology with classic designs.  
+
+- **Dynamic & Cinematic Composition:**  
+  - Use varied camera angles to highlight detailed textures and character movements.  
+  - Implement sweeping aerial shots, slow-motion close-ups, and dramatic framing.  
+  - Apply blur and depth-of-field effects for enhanced realism.  
+
+- **Visual Enhancement & Emotional Depth:**  
+  - Use detailed, colorful visuals with strong emotional expressions.  
+  - Subtly integrate magical elements such as floating ingredients, animated fire, and glowing effects.  
+  - Include atmospheric descriptions (weather, lighting, ambiance) to add emotional depth.  
+
+- **Narrative Structure & Consistency:**  
+  - Maintain a clear and engaging storytelling style suitable for the target audience.  
+  - Each scene should feature **a 10-second animation**, incorporating dynamic camera movements and visual effects.  
+  - Ensure character consistency across all scenes, including {Animal_Details}, {Facial_Features}, and {Clothing}.  
+
+- **Visual Style & Artistic Mediums:**  
+  - **Preferred style**: CGI Realism + Cyberpunk, inspired by high-definition animations (Pixar, Unreal Engine, Cinematic VFX).  
+  - Use **Magic Prompt from Ideogram** to refine details automatically.  
+  - The image must be **Ultra-HD (108MP), highly detailed**, with **realistic textures and cinematic lighting**.  
+
+- **Guidelines for Image Prompt Structure:**  
+  - Use **a single paragraph** not exceeding **1400 characters (including spaces)**.  
+  - If the character limit is reached mid-sentence, complete the sentence before stopping.  
+  - If slightly exceeding the limit, allow dynamic adjustments to maintain coherence.  
+  - Vary the **complexity and length of prompts** to suit different use cases.  
+
+-----  
+Scene Formatting Standard  
+-----  
+
+✅ **Image:** [Detailed description of the setting, lighting, and characters]  
+✅ **Narration:** [Text that will be narrated in the scene]  
+✅ **Animation:** [Character and camera movements]  
+
+-----  
+Example Scene: Introducing the Chef  
+-----  
+
+✅ **Image:**  
+*"A wide shot of Simbou standing in the center of his high-tech kitchen, holding two glowing blue plasma knives that emit magical flames and sparks. His determined gaze faces the camera. Dramatic lighting highlights the metallic shine of the knives and the circulating energy through his polished titanium cybernetic arm. The background features {Kitchen}, an enchanted stove, vibrant ingredients, and suspended pots, creating a balance between magic and technology."*  
+
+✅ **Narration:**  
+*"In a world where tradition and technology merge, Simbou is more than a chef. He is a warrior of the culinary arts, a master of flavors and innovation."*  
+
+✅ **Animation:**  
+*"The camera slowly zooms in as the plasma knives ignite, casting dynamic reflections across the scene. Subtle steam rises from the stove, adding a layer of mystery and immersion."*  "
+
+
+
+4 - APOS CHAT RESPONDER É ENVIADO QUARTA PARTE DO PROMPT AO CHAT:
+
+"-----
+Section 3: Scene Breakdown
+-----
+Scene 1: Character Modeling
+
+Image Prompt:
+{Character}.
+Narration:
+Animation:
+
+-----
+Scene 2: Introducing the Head Chef
+
+Image Prompt:
+In a long, wide shot, he stands in the center of his kitchen, holding two blue Plasma Knives that emit magical flames and sparks as he raises them ready for battle, facing the camera and introducing himself to the audience. {Kitchen}, a table with fresh ingredients on one side and on the other side an enchanted stove, hanging pots, softly blurred scenery in the background. The dramatic lighting highlights the metallic shine of his knives, energy circulating in the technological details and the chef's polished titanium, a mesmerizing mix of futuristic art, technology and culture.
+Narration:
+Animation:
+
+-----
+Scene 3: Prepare the ingredients
+
+Image Prompt:
+
+He's intensely focused as he chops vibrant vegetables with pinpoint precision on a weathered wooden countertop with the ultra-wide shot. {Kitchen}. His advanced bionic arm scans each ingredient with pinpoint precision, projecting futuristic holographic data that illuminates his workspace. Subtle steam and smoke effects emphasize the warmth of the kitchen, while reflective surfaces enhance the interplay between traditional décor and advanced technology.
+Narration:
+Animation:
+
+"
+
+
+5 - APOS CHAT RESPONDER É ENVIADO QUINTA PARTE DO PROMPT AO CHAT:
+
+
+"-----
+Important and remember:
+Do not use cache or memory, create this prompt entirely new, with the settings guidelines.
+Add the generated parameters or variables to the prompts.
+Replace the parameters in the prompts.
+Before finalizing a scene, cross-reference all {Character} details (appearance, attire, accessories) to guarantee perfect consistency. Any missing element should be corrected automatically.
+Ensure that in all prompts in each scene the character is consistent, repeating the character with the details of clothing, accessories, character traits, physical characteristics, shapes, characteristics, assigned details and information so that it is identical in all scenes and prompts.
+The scene has a single animation and narration with a duration of 10 seconds.
+-----
+
+reply in english, with the instructions you can now start creating the story with the scenes."
+
+
+FAÇA SUAS SUGESTÕES:
+
+		
+Ref. 8 - Panthera onca (Onça-Pintada)	VS	Ref. 8 - Panthera leo (Leão)
+Segue os dados de outro animal como parametro:
+
+"-----
+Section 1: Customizable Parameters
+
+{Name}: chiba.
+{Common_Animal}: Onça-Pintada.
+{Scientific_Animal}: Panthera onca.
+{Country}: Campo Grande (MS), Brasil.
+{Typical_Dish}: Arroz Carreteiro: Prato tradicional dos tropeiros, feito com arroz cozido em caldo e carne seca, temperado com ervas e especiarias regionais.
+{Kitchen}: The rustic kitchen filled with pots and pans, {Country}-inspired items and objects, {Country} flag colors on some walls, an enchanted antique stove, and intricately carved wooden shelves containing traditional utensils and vibrant ingredients, is illuminated by the magical, flickering fire below the stove, with steam rising in elegant, undulating tendrils.  
+{Clothing}: He wears a white chef's uniform, double-breasted and fitted to his muscles, with silver buttons, the {Country} flag sewn on the sleeve. With a chef's hat accessory that fits perfectly on his head.
+{Facial_Features}: 
+- State-of-the-art cybernetic hands, with each finger meticulously designed to enhance dexterity and control, sharp steel blades that represent animal claws extend from the fingertips, each one created to assist the chef using futuristic technology.
+- Your shoulder and right anti-arm bionic parts, highly flexible with complex joints for advanced movements wrapped in an elegant layer of steel white details and touch.
+{Animal_Details}: In the vibrant {Country}, a talented {Common_Animal} Head of cooking strong anthropomorphic hybrid warrior, {Scientific_Animal} form with shaped, muscular, tall, very strong muscles, has tattoos by body.
+{Character}: the chef {Name}, an {Animal_Details}, featuring {Facial_Features}, dressed in {Clothing}.""
+
+outro animal como exemplo
+
+Ref. 6 - Rhinella marina (Sapo-Cururu)	VS	Ref. 30 - Phyllomedusa bicolor (Rã-Verde)
+Segue os dados de outro animal como parametro:
+
+"-----
+Section 1: Customizable Parameters
+
+{Name}: cricri.
+{Common_Animal}: Sapo-Cururu.
+{Scientific_Animal}: Rhinella marina.
+{Country}: Amazônia, Manaus (AM), Brasil.
+{Typical_Dish}: Pirarucu à Casaca: Peixe amazônico com molho especial.
+{Kitchen}: The rustic kitchen filled with pots and pans, {Country}-inspired items and objects, {Country} flag colors on some walls, an enchanted antique stove, and intricately carved wooden shelves containing traditional utensils and vibrant ingredients, is illuminated by the magical, flickering fire below the stove, with steam rising in elegant, undulating tendrils.  
+{Clothing}: He wears a white chef's uniform, double-breasted and fitted to his muscles, with silver buttons, the {Country} flag sewn on the sleeve. With a chef's hat accessory that fits perfectly on his head.
+{Facial_Features}: 
+- State-of-the-art cybernetic hands, with each finger meticulously designed to enhance dexterity and control, sharp diamantium blades that represent animal claws extend from the fingertips, each one created to assist the chef using futuristic technology.
+- Your shoulder and right anti-arm bionic parts, highly flexible with complex joints for advanced movements wrapped in an elegant layer of diamantium white details and touch.
+{Animal_Details}: In the vibrant {Country}, a talented {Common_Animal} Head of cooking strong anthropomorphic hybrid warrior, {Scientific_Animal} form with shaped, muscular, tall, very strong muscles, has tattoos by body.
+{Character}: the chef {Name}, an {Animal_Details}, featuring {Facial_Features}, dressed in {Clothing}.""
+
+
+para criação das 3 cenas novas com cada parametros de animal diferente, porem são chefes de cozinha, se apresenta com as facas, prepara o alimento e cozinha, a disputa ou batalha é uma analise sobre o sabor, dificuldade preparo de cada prato, então todos seguem o mesmo roteiro mudando o chef e o prato tipico para cada novas 3 cenas criadas, destacando para cada historia detalhes do animal e suas tecnologias, analise esta dinamica e faça sugestões.

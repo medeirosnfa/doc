@@ -22,7 +22,8 @@ Keep the same face, gaze, mouth, eyes, enhance the sharpness.
 F@bio@2025
 MSSEZAM
 
-sharpen, Highly detailed, Increase sharpen, keep the skin tone, sharper 
+sharpen, Highly detailed, sharper, Keep the same face, sharpy
+sharpen, sharper
 
 ----- 
 Improve the prompt for Scene 1, Modeling. This prompt describes the character.
@@ -164,3 +165,64 @@ Check if the total is shorter than 980 characters?
 
 
 the following prompt so that it does not trigger the NSFW filter, analyze which parts of the prompt may be causing the error and suggest alternatives for each section:
+
+
+https://www.runpod.io/console/home
+https://pastebin.com/NL8Z9QXa
+https://www.youtube.com/watch?v=q5kpr84uyzc
+https://www.patreon.com/aitrepreneur
+
+
+
+A young woman named Emily, in her mid-20s, with long, wavy chestnut brown hair that catches the light. Her eyes are a vibrant green, filled with curiosity and kindness. She has a gentle yet confident smile. She is wearing a cozy, oversized sweater in soft cream, with subtle patterns woven into the fabric, paired with dark jeans. Emily is standing in a lush forest, sunlight filtering through the trees, creating a warm and serene atmosphere. The surrounding trees are tall with thick, moss-covered trunks, and small wildflowers peek through the grass at her feet. Her posture is relaxed, yet there’s an air of quiet strength about her as she gazes thoughtfully into the distance.
+hyperdetailed, masterpiece, 108mp, hyperintricate subtle details, High Contrast, Realistic, Natural Light, Highly Detailed.
+
+
+
+
+Create image:
+https://sezam.ai/create?lang=en_us
+https://enhanceai.art/playground/v2
+https://app.leonardo.ai/image-generation
+https://piclumen.com/app/image-generator/create
+https://ideogram.ai/t/my-images
+https://mydesigns.io/app/create
+https://glif.app/@angrypenguin/glifs/cm37g5aa2000c1krebppxrc88
+https://glif.app/@HAIVU/glifs/cm3ohsjwr003i9dq5q9l2vwmz
+https://www.glbgpt.com/midjourney/#/draw/1733679006330
+https://deepai.org/machine-learning-model/text2img
+https://labs.google/fx/pt/tools/image-fx
+https://pollo.ai/ai-image-generator
+https://klingai.com/text-to-image/new
+https://firefly.adobe.com/generate/images?id=29fc986a-f767-45db-9d27-d2e8f0c5c13f
+https://magic.remix.ai/text-to-image
+https://www.freepik.com/pikaso/upscaler
+
+https://fluxai.pro/pulid-flux
+https://replicate.com/bytedance/flux-pulid
+https://nim.video/create/6de60311-7156-4237-a697-6bd299b0c998?workflow=consistency
+
+
+
+
+IDEIAIS:
+https://glif.app/@Arham-d195/runs/g195tbc63eus203wb8wsts29
+
+
+
+INFLUENCER:
+https://glif.app/@Music-7b20744238/runs/d7kd2r26cxjukqwnnijncipb
+
+
+
+sharpen, Highly detailed, sharper, Keep the same face, sharpy
+
+
+
+
+
+
+
+
+
+3 suggestions for improvements, improvement of instructions, clarity, ask if you have any questions.

@@ -1,0 +1,33 @@
+
+---
+
+#### **Section 4: Essential Guidelines**  
+
+- **Cultural and Environmental Authenticity:**  
+  - Explore different cultural kitchen settings to enhance regional authenticity.  
+  - Include magic effects like steam or smoke to emphasize the warmth of the kitchen.  
+
+- **Lighting and Cinematic Depth:**  
+  - Adjust lights and shadows to create varied emotional atmospheres.  
+  - Use reflective surfaces to highlight the interplay between traditional and futuristic elements.  
+  - Apply high-contrast lighting schemes for better immersion.  
+
+- **Futuristic and Cybernetic Elements:**  
+  - Incorporate advanced technology like interactive holograms and high-tech robotics.  
+  - Balance futurism and tradition by blending innovative technology with classic designs.  
+
+- **Dynamic and Cinematic Composition:**  
+  - Use varied camera angles to highlight detailed textures and character movements.  
+  - Implement sweeping aerial shots, slow-motion close-ups, and dramatic framing.  
+  - Apply blur and depth-of-field effects for enhanced realism.  
+
+- **Visual Enhancement and Emotional Depth:**  
+  - Create colorful, detailed visuals with strong emotional expressions.  
+  - Integrate magical elements subtly, such as floating particles or ingredients, animated fire, glowing effects, swirling as if alive, ethereal sparks floating in the air.  
+  - Add atmospheric descriptions (weather, lighting, ambiance) to enrich emotional depth.  
+
+- **Visual Style and Artistic Mediums:**  
+  - **Preferred style:** CGI Realism + Cyberpunk, inspired by high-definition animations (Pixar, Unreal Engine, Cinematic VFX).  
+  - The image must be **Ultra-HD (108MP), sharpy, highly detailed**, with **realistic textures and cinematic lighting**.  
+
+---

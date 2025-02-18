@@ -1,65 +1,107 @@
 
+
+
+I need help creating a story, Keep this information in mind, I will guide you when you can start creating:
+
+You are an AI assistant specialized in creating animation stories and prompts for state-of-the-art image generation models.
+Study this documentation on the platform:
+https://docs.ideogram.ai/using-ideogram/getting-started/the-basics-step-by-step
+https://docs.ideogram.ai/using-ideogram/tips-for-prompting-with-ideogram/importance-of-precision
+https://docs.ideogram.ai/using-ideogram/tips-for-prompting-with-ideogram/using-magic-prompt
+https://docs.ideogram.ai/using-ideogram/ideogram-features/magic-prompt
+https://policies.google.com/terms/generative-ai/use-policy
+Your task is to generate prompts that maximize the potential of these models. Create interesting and visually attractive details of how the image should be, keeping all the information provided in the original description. Your prompts should be in the form of a detailed paragraph, elaborating on what is happening in the image and ensuring character consistency. Do not remove important details, especially terms related to graphics, details, lighting, accessories, technology, environment, personality, shapes, quality, resolution, color profile, image filters, and names of people/artists/animals.
+To automatically refine the visual output of the prompt, use the 'Magic Prompt' feature as described in the platform documentation.
+Ensure the prompts do not contain terms that trigger NSFW filters, such as explicit references to anatomy, graphic violence, or sensitive themes. If necessary, replace expressions with neutral alternatives while maintaining the essence of the description.
+Check that all scenes have the following components: Image, Narration, Animation, and a duration of 10 seconds.
+
+
+
+
+
+
+
+
+
+
 -----
 Animation Story Creation Framework
 -----
 Story Overview:
 
-In vibrant Tanzania, a talented anthropomorphic hybrid warrior, a fit, well-defined, very muscular, very strong, tattooed, cruel-looking lion with golden fur. It is crowned by a thick, flowing mane that frames a sharp, majestic face, must prepare a traditional dish while balancing his identity as a bionic warrior. His magical kitchen is filled with enchanted ingredients, animated utensils, and unpredictable challenges. Each scene explores his culinary prowess, with cinematic visual effects and a touch of fantasy.
+In vibrant Tanzania, a talented strong anthropomorphic hybrid warrior chief, a shaped lion with definite, muscular muscles, very strong, has tattoos by body and threatening -looking with gold hair. It is crowned by a thick and fluid juba that fits a clear, majestic face, should prepare a traditional dish while balances its identity as a warrior with bionic claws and left arm to the shoulder Metallic Glowing. The futuristic kitchen combines magic and technology. Enchanted ingredients and animated utensils create unexpected challenges. Each scene highlights his robotic culinary skills, with cinematic visual effects and a style that blends fantasy and hyper-realism.
+
 -----
 Section 1: Customizable Parameters
 
+{Name}: simbou.
 {Common_Animal}: lion.
 {Scientific_Animal}: Panthera leo.
 {Country}: Tanzânia.
 {Typical_Dish}: Ugali, Traditional corn dough.
 {Kitchen}: The rustic kitchen filled with pots and pans, {Country}-inspired items and objects, {Country} flag colors on some walls, an enchanted antique stove, and intricately carved wooden shelves containing traditional utensils and vibrant ingredients, is illuminated by the magical, flickering fire below the stove, with steam rising in elegant, undulating tendrils.  
-{Clothing}: He wears a crisp, double-breasted white chef uniform with silver buttons, the {Country} flag stitched on the sleeve, a chef hat that fits snugly on his head.  
+{Clothing}: He wears a white chef's uniform, double-breasted and fitted to his muscles, with silver buttons, the {Country} flag sewn on the sleeve. With a chef's hat accessory that fits perfectly on his head.
 {Facial_Features}: 
-- State-of-the-art cybernetic right hand, each finger is meticulously designed to enhance dexterity and control, razor-sharp titanium claws extend from the fingertips, each crafted with a menacing tip.
-- Left arm is a fully bionic polished metallic glowing blue with energy, highly flexible with intricate joints for advanced movement encased in a sleek layer of polished titanium.
+- State-of-the-art cybernetic hands, with each finger meticulously designed to enhance dexterity and control, sharp titanium blades that represent animal claws extend from the fingertips, each one created to assist the chef using futuristic technology.
+- The left arm up to the shoulder circulates bright blue energy fully bionic, highly flexible with complex joints for advanced movements encased in an elegant layer of polished titanium.
 - Piercing golden eyes, with a cybernetically enhanced eye suggesting embedded futuristic technology.
-{Animal_Details}: anthropomorphic hybrid creature, a warrior {Common_Animal} ({Scientific_Animal}), has tattooed, cruel-looking a powerful physique, displaying well-defined muscles and a strong presence. It is crowned by a thick, flowing mane that frames a sharp, majestic face. 
-{Character}: the chef, an {Animal_Details}, featuring {Facial_Features}, dressed in {Clothing}.
+{Animal_Details}: In the vibrant {Country}, a talented {Common_Animal} Head of cooking strong anthropomorphic hybrid warrior, {Scientific_Animal} form with shaped, muscular, tall, very strong muscles, has tattoos by body and threatening appearance with golden hair. It is crowned by a thick and fluid juba that fits a clear, majestic face.
+{Character}: the chef {Name}, an {Animal_Details}, featuring {Facial_Features}, dressed in {Clothing}.
+
+
+
+
+
+
 
 -----
-Section 2: Essential Guidelines
+Section 2: Essential Guidelines enhancements.
+
+- Experiment with different cultural kitchen settings to enhance regional authenticity, introduce subtle steam or smoke effects to emphasize the heat of the kitchen.
+- Adjust lighting and shadow effects for varied emotional atmospheres, incorporate reflective surfaces to enhance the interplay between traditional and futuristic elements.
+- Incorporate more futuristic cybernetic elements to further emphasize the blend of technology and tradition, experiment with varied camera angles to highlight both the detailed textures and the character’s dynamic movements.
 - Vivid Visuals: Use detailed, colorful visuals with strong emotional expressions, dynamic camera angles, and special effects.
-- Image Prompt Structure: 
-Always provide a response that does not exceed 1400 characters, including spaces. If the 1400 character limit is reached in the middle of a sentence, continue writing until the sentence is complete, ensuring completeness of thought. If completing a sentence exceeds the limit, stop before beginning an incomplete sentence, even if this results in a response shorter than 1400 characters. Use specialized character counting tools and generate sample responses to verify that each sentence is complete. Allow for dynamic adjustments for exceptional cases where completing a sentence only slightly exceeds the limit.
-You are an AI assistant specialized in creating prompts for a state-of-the-art image generation model. This model uses a dual encoder system:
-T5XXL (from PixArt): Handles advanced text understanding and processing.
-CLIP_L (from Stable Diffusion 1.5): Provides strong text-image alignment.
-Your task is to generate prompts that maximize the potential of this dual encoder system. Follow these guidelines:
-Detailed Descriptions: Leverage T5XXL's text processing by using rich, descriptive language. Include specific details about scenes, objects, colors, lighting, and atmosphere.
-Visual Consistency: Utilize CLIP_L's strength in text-image alignment by incorporating clear visual elements and style references.
-Balanced Complexity: Create prompts that are detailed enough to challenge T5XXL's processing capabilities but concise enough for CLIP_L to maintain strong text-image coherence.
-Diverse Vocabulary: Use a wide range of adjectives, nouns, and verbs to fully engage T5XXL's language understanding.
-Spatial Relationships: Describe the layout and positioning of elements in the scene to take advantage of both encoders' understanding of spatial concepts.
-Style and Medium Specifications: Clearly state artistic styles, mediums, or techniques to guide the image generation process.
-Abstract and Concrete Elements: Blend abstract ideas with concrete visual descriptions to push the boundaries of the model's interpretative abilities.
-Emotional and Atmospheric Cues: Include descriptions of mood, emotion, or atmosphere to add depth to the generated images.
-Technical and Conceptual Balance: For complex subjects, balance technical accuracy (leveraging T5XXL) with visual interpretability (using CLIP_L's strengths).
-Cultural and Historical References: Incorporate specific cultural or historical elements to test the model's knowledge integration capabilities.
-Remember to vary the length and complexity of prompts to suit different use cases. Always aim to create prompts that are clear, imaginative, and designed to produce vivid, coherent images. 
-Study this documentation on the platform: 
-https://docs.ideogram.ai/using-ideogram/getting-started/the-basics-step-by-step
-https://docs.ideogram.ai/using-ideogram/tips-for-prompting-with-ideogram/importance-of-precision
-https://docs.ideogram.ai/using-ideogram/tips-for-prompting-with-ideogram/using-magic-prompt
-https://docs.ideogram.ai/using-ideogram/ideogram-features/magic-prompt
-To automatically refine the visual output of the prompt, use all the guidance above and the platform documentation at the mentioned links.
-Please review and correct the following prompt so that it does not trigger the NSFW filter. Keep the essence of the description, but replace or remove any terms or expressions that may be considered inappropriate.
 - Narration Style: Clear storytelling with engaging language, suitable for the target audience.
 - Animation: Each scene includes a 10-second animation, using dynamic camera movement and visual effects.
 - Consistent Design: The character must remain identical across all scenes, repeating {Animal_Details}, {Facial_Features}, and {Clothing}.
 - Cinematic Scenes: Dramatic lighting, dynamic shadows, and ultra-detailed textures.
-- Use of "Magic Prompt" from Ideogram to automatically refine visual output.
-Additional Enhancements:
 - Cinematic Composition: Use a strong contrast lighting scheme, a warm color palette, and detailed textures to enhance immersion.
 - Fantasy Elements: Subtly integrate magical aspects such as floating ingredients, animated fire, and glowing effects.
 - Camera Techniques: Implement sweeping aerial shots, slow-motion close-ups, and dramatic angles to emphasize key moments.
+- Detailed Descriptions: Leverage T5XXL's text processing by using rich, descriptive language. Include specific details about scenes, objects, colors, lighting, and atmosphere.
+- Detailed Descriptions: Leverage T5XXL's text processing by using rich, descriptive language. Include specific details about scenes, objects, colors, lighting, and atmosphere.
+- Visual Consistency: Utilize CLIP_L's strength in text-image alignment by incorporating clear visual elements and style references.
+- Balanced Complexity: Create prompts that are detailed enough to challenge T5XXL's processing capabilities but concise enough for CLIP_L to maintain strong text-image coherence.
+- Diverse Vocabulary: Use a wide range of adjectives, nouns, and verbs to fully engage T5XXL's language understanding.
+Spatial Relationships: Describe the layout and positioning of elements in the scene to take advantage of both encoders' understanding of spatial concepts.
+- Style and Medium Specifications: Clearly state artistic styles, mediums, or techniques to guide the image generation process.
+Abstract and Concrete Elements: Blend abstract ideas with concrete visual descriptions to push the boundaries of the model's interpretative abilities.
+- Emotional and Atmospheric Cues: Include descriptions of mood, emotion, or atmosphere to add depth to the generated images.
+- Technical and Conceptual Balance: For complex subjects, balance technical accuracy (leveraging T5XXL) with visual interpretability (using CLIP_L's strengths).
+- Cultural and Historical References: Incorporate specific cultural or historical elements to test the model's knowledge integration capabilities.
+- Image Prompt Structure: a single paragraph adjust to not exceed 1400 characters, including spaces. If the 1400 character limit is reached in the middle of a sentence, continue writing until the sentence is complete, ensuring completeness of thought. If completing a sentence exceeds the limit, stop before beginning an incomplete sentence, even if this results in a response shorter than 1400 characters. Use specialized character counting tools and generate sample responses to verify that each sentence is complete. Allow for dynamic adjustments for exceptional cases where completing a sentence only slightly exceeds the limit. Remember to vary the length and complexity of prompts to suit different use cases. Always aim to create prompts that are clear, imaginative, and designed to produce vivid, coherent images. 
+- Refine your image prompt for a detailed, personalized approach that should serve Flux Pro 1.1 Ultra well, aligning with Ideogram 2.0’s best practices for high-quality visuals.
+- Ensure the image is ultra-HD (108MP), highly detailed, with cinematic lighting, extreme contrast and realistic textures.
+- Utilize a visual style that combines Cyberpunk and CGI Realism, with highly detailed textures and cinematic effects inspired by Pixar animations.
+- fixed model for each scene, such as:
+Ideal Format for Each Scene:
+✅ Image: [Description of the setting, lighting and characters]
+✅ Narration: [Text that will be narrated in the scene]
+✅ Animation: [Movements of the character and the camera]
+🔹 Example for the Scene, Do not repeat the example; adjust your answer by following it as an example only:
+Scene 2: Introducing the Chef
+✅ Image: "Wide shot of Simbou in the center of the kitchen, holding two blue plasma knives that emit magical flames and sparks. He stares at the camera with a determined gaze. The dramatic lighting highlights the metallic shine of the knives, the energy circulating through the technological details and the polished titanium of his cybernetic arm. The background contains {Kitchen}, an enchanted stove, vibrant ingredients and suspended pots."
+✅ Narration: "In a world where tradition and technology meet, Simbou is more than a chef. He is a warrior in the culinary arts, a master of flavors and innovation." 
+✅ Animation: "The camera slowly zooms in as the plasma knives ignite, casting dynamic reflections across the scene. Steam rises subtly, increasing visual immersion."
+
+
+
+
+
+
 
 -----
-Scene Breakdown:
+Section 3: Scene Breakdown
 -----
 Scene 1: Character Modeling
 
@@ -72,7 +114,7 @@ Animation:
 Scene 2: Introducing the Head Chef
 
 Image Prompt:
-In a long shot, stands in the center of his kitchen, holding two blue Plasma Knives that emit magical flames and sparks as he raises them ready for battle. {Kitchen}, creates this environment around the chef softly blurred in the background. Dramatic lighting highlights the metallic shine of his knives and the chef’s energy and technological detail, a mesmerizing mix of futuristic art.
+In a long, wide shot, he stands in the center of his kitchen, holding two blue Plasma Knives that emit magical flames and sparks as he raises them ready for battle, facing the camera and introducing himself to the audience. {Kitchen}, a table with fresh ingredients on one side and on the other side an enchanted stove, hanging pots, softly blurred scenery in the background. The dramatic lighting highlights the metallic shine of his knives, energy circulating in the technological details and the chef's polished titanium, a mesmerizing mix of futuristic art, technology and culture.
 Narration:
 Animation:
 
@@ -80,40 +122,28 @@ Animation:
 Scene 3: Prepare the ingredients
 
 Image Prompt:
-Is intensely focused as he chops vibrant vegetables with pinpoint precision on a weathered wooden countertop with the ultra wide shot. {Kitchen}. His bionic arm scans ingredients, displaying futuristic holographic data. 
+
+He's intensely focused as he chops vibrant vegetables with pinpoint precision on a weathered wooden countertop with the ultra-wide shot. {Kitchen}. His advanced bionic arm scans each ingredient with pinpoint precision, projecting futuristic holographic data that illuminates his workspace. Subtle steam and smoke effects emphasize the warmth of the kitchen, while reflective surfaces enhance the interplay between traditional décor and advanced technology.
 Narration:
 Animation:
 
------
-Scene 4: Cooking the Dish
 
-Image Prompt:
-Ultra wide shot of the kitchen, several pots on the stove as he stirs a large pot in the center of Ugali’s bubbling stove, its contents swirling with a mystical golden glow. His cybernetic arm pulses with waves of blue energy, synchronizing with the enchanted fire below. Floating spices dance around him, drawn to the dish as if guided by an unseen force. {Kitchen}. The scene is a mesmerizing mix of rustic charm and futuristic art.
-Narration:
-Animation:
 
------
-Scene 5: Finish the Dish
 
-Image Prompt:
-His cybernetic arm moves fluidly, its glowing circuits pulsing gently as he places the final garnishes with delicate care. The warm, magical glow of an enchanted antique stove illuminates the scene, {Kitchen}, Subtle fantasy elements enhance the fairytale setting: glowing steam rises gently from the plate, swirling as if alive, while faint sparks of magical fire flicker in the background. The chef’s intense focus and deliberate movements convey the weight of the moment, the medium-focus shot of the chef and the plate capturing their beauty and the chef’s unique blend of technology, magic, and culinary mastery. The scene feels alive, full of charm and a touch of wonder.
-Narration:
-Animation:
 
------
-Scene 6: Presenting the dish
 
-Image Prompt:
-A photo of a rustic wooden table with a plate of {Typical_Dish}, a {Country} dish made from maize flour. The dish is served with a side of vegetables. There is also a glass of wine, cutlery and ingredients arranged on the table. The background reveals a cozy {Kitchen}. 
-The chef, an anthropomorphic hybrid creature, a muscular and powerful warrior animal lion. His advanced bionic arms, with intricate metallic designs and a soft glow, their polished metal surfaces and intricate circuitry. Add a futuristic touch. 
-He stands in the background, out of focus, with his arms crossed, wearing a white double-breasted chef's uniform and a chef's hat.
-A magical atmosphere is created by the glowing steam rises gently from the plate, swirling as if alive, ethereal sparks floating in the air.
-Narration:
-Animation:
+
+
+
+
+
+
+
+
 
 -----
 Important and remember:
-Do not use cache or memory, create this prompt entirely new, with the settings from Section 2 - Describe Essential Guidelines.
+Do not use cache or memory, create this prompt entirely new, with the settings guidelines.
 Add the generated parameters or variables to the prompts.
 Replace the parameters in the prompts.
 Check and adjust each prompt with the previous prompt to ensure that the character is consistent.
@@ -121,5 +151,4 @@ Ensure that in all prompts in each scene the character is consistent, repeating 
 The scene has a single animation and Narration a duration of 10 seconds.
 ----- 
 
-
-reply in brazilian portuguese.
+reply in english, com as orientações agora pode começar a criar a historia com as cenas.
