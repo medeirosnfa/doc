@@ -4,7 +4,7 @@
 
 #### **Section 3: General Guidelines**  
 
-1. **Prompt Image Structure and Quality**  
+1. **Image Prompt Structure and Quality**  
    - Use the **Magic Prompt** feature to automatically refine visual details.  
    - Prompts should be a **single paragraph** (simple and coherent format).  
    - Have at least **800 characters (including spaces)**.
@@ -18,7 +18,7 @@
 3. **Mandatory Components for Each Scene**  
    - Components must be a **single paragraph** (simple and coherent format).  
    Each scene should include: 
-   - **Image:** A coherent and detailed description of character, action, setting, and lighting.  
+   - **Image Prompt:** A coherent and detailed description of character, action, setting, and lighting.  
    - **Narration:** Descriptive text (no dialogue).  
    - **Animation:** Character and camera movements.  
    - **Duration:** 10 seconds.  
