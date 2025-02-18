@@ -11,14 +11,16 @@ Animation:
 
 **Scene 2: Introducing the Head Chef**
 Image Prompt:
-    {Character} + In a long, wide shot, he stands in the center of his kitchen, holding two Plasma Knives in shades of blue and red that emit flames and magical sparks when he raises them, addressing the audience menacingly, but like a professional chef ready for battle, facing the camera and introducing himself to the audience. {Kitchen}, a table with fresh ingredients on his right side, on the other side a rustic structure with an enchanted stove, in the middle of the two and right in the center standing is the menacing chef, hanging pots, softly blurred scenery in the background. The dramatic lighting highlights the metallic shine of his knives, the energy circulating in the technological details and the polished titanium of the chef, in his presentation to the audience before starting to prepare the typical dish, a mesmerizing mix of futuristic art, confidence, brute force, technology, magic and culture.
+    {Character}.
+    In a long, wide shot, he stands in the center of his kitchen, holding two Plasma Knives in shades of blue and red that emit flames and magical sparks when he raises them, addressing the audience menacingly, but like a professional chef ready for battle, facing the camera and introducing himself to the audience. {Kitchen}, a table with fresh ingredients on his right side, on the other side a rustic structure with an enchanted stove, in the middle of the two and right in the center standing is the menacing chef, hanging pots, softly blurred scenery in the background. The dramatic lighting highlights the metallic shine of his knives, the energy circulating in the technological details and the polished titanium of the chef, in his presentation to the audience before starting to prepare the typical dish, a mesmerizing mix of futuristic art, confidence, brute force, technology, magic and culture.
 Narration:
 Animation:
 
 **Scene 3: Prepare the ingredients**
 Image Prompt:
 - combine and refine:
-    '{Character} + He's intensely focused as he chops vibrant vegetables with pinpoint precision on a weathered wooden countertop with the ultra-wide shot. {Kitchen}. His advanced bionic arm scans each ingredient with pinpoint precision, projecting futuristic holographic data that illuminates his workspace. Subtle steam and smoke effects emphasize the warmth of the kitchen, while reflective surfaces enhance the interplay between traditional décor and advanced technology.'
+    {Character}.
+    He's intensely focused as he chops vibrant vegetables with pinpoint precision on a weathered wooden countertop with the ultra-wide shot. {Kitchen}. His advanced bionic arm scans each ingredient with pinpoint precision, projecting futuristic holographic data that illuminates his workspace. Subtle steam and smoke effects emphasize the warmth of the kitchen, while reflective surfaces enhance the interplay between traditional décor and advanced technology.
 Narration:
 Animation:
 
