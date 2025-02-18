@@ -9,26 +9,29 @@
 
 
 
-
+---
 
 **Instruction:**
+
+- List of links to access:
+    - https://github.com/medeirosnfa/doc/blob/main/final/0_note.txt
+    - https://github.com/medeirosnfa/doc/blob/main/final/1_introduction.txt
+    - https://github.com/medeirosnfa/doc/blob/main/final/2_specialized.txt
+    - https://github.com/medeirosnfa/doc/blob/main/final/3_guidelines.txt
+    - https://github.com/medeirosnfa/doc/blob/main/final/4_essential.txt
+    - https://github.com/medeirosnfa/doc/blob/main/final/5_consistency.txt
+    - https://github.com/medeirosnfa/doc/blob/main/final/6_structure.txt
+    - https://github.com/medeirosnfa/doc/blob/main/final/7_formatting.txt
+    - https://github.com/medeirosnfa/doc/blob/main/final/8_parameters.txt
+    - https://github.com/medeirosnfa/doc/blob/main/final/9_breakdown.txt
+
+
 1. Interpret and process the content of the links below following the order of the list.
 2. Report the log when you finish interpreting and processing the content of each link, displaying the executed response.
-3- Wait **2 seconds** and process the next link.
-4- When all the links are processed, at the end, you can start creating the story with the scenes, following the structure and guidelines.
-5 - **Do not generate images, generate the prompts for the scenes following the guidelines and scene structure**.
-6 - The prompts and content are in English.
+3. Wait **2 seconds** and process the next link.
+4. When all the links are processed, at the end, you can start creating the story with the scenes, following the structure and guidelines.
+5. **Do not generate images, generate the prompts for the scenes following the guidelines and scene structure**.
+6. The prompts and content are in English.
+7. start creating the story with the scenes, following the structure and guidelines.
 
-List of links to access:
-- https://github.com/medeirosnfa/doc/blob/main/final/0_note.txt
-- https://github.com/medeirosnfa/doc/blob/main/final/1_introduction.txt
-- https://github.com/medeirosnfa/doc/blob/main/final/2_specialized.txt
-- https://github.com/medeirosnfa/doc/blob/main/final/3_guidelines.txt
-- https://github.com/medeirosnfa/doc/blob/main/final/4_essential.txt
-- https://github.com/medeirosnfa/doc/blob/main/final/5_consistency.txt
-- https://github.com/medeirosnfa/doc/blob/main/final/6_structure.txt
-- https://github.com/medeirosnfa/doc/blob/main/final/7_formatting.txt
-- https://github.com/medeirosnfa/doc/blob/main/final/8_parameters.txt
-- https://github.com/medeirosnfa/doc/blob/main/final/9_breakdown.txt
-
-At the end, you can start creating the story with the scenes, following the structure and guidelines.
+---
