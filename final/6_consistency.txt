@@ -7,14 +7,19 @@
 
 1. **Consistency Across Scenes:**  
    - Compare each scene with Scene 1 to ensure all mandatory character details are present:  
+     - Strong anthropomorphic hybrid warrior {Common_Animal} ({Scientific_Animal}) a menacing, form with shaped, muscular and defined body structure of an animal warrior, tall, very strong muscles, has tattoos by body.
      - Chef’s Hat.  
+     - {Common_Animal} ({Scientific_Animal}).
      - Full Uniform (buttons, flag, fit).  
      - Tribal Tattoos.  
      - Bionic parts (energy details, flexibility).  
      - Cybernetic Claws.  
      - Cybernetic Eye.  
+     - Strong anthropomorphic hybrid warrior a menacing.
+     - Tall.
      - Mane, posture, and menacing presence.  
      - Detailed muscle definition.  
+     - Muscular and defined body structure.
      - shapes.
      - Characteristics and details of the reference animal.
 

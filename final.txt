@@ -175,6 +175,8 @@ Section 3: Scene Breakdown
 
 -----
 Scene 1: Character Modeling
+- Scene 1 should only introduce the character, without accessories or kitchen context, focusing exclusively on his physical appearance and main characteristics, details, featuring, dressed, muscle definition.
+
 Image Prompt:
 {Character}.
 Narration:

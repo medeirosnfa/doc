@@ -1,0 +1,7 @@
+
+
+**Instruction:**
+1. Process the contents of the **txt** file in the order: file name.
+2. Report the log when each file is finished processing, displaying the response.
+3- Wait **2 seconds** and process the next file.
+4- When all files are processed, to finish, you can start creating the story. Do not generate images, generate the prompts for the scenes following the guidelines and structure of the scene.

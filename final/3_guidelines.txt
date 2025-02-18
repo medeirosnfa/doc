@@ -4,7 +4,7 @@
 
 #### **Section 3: General Guidelines**  
 
-1. **Prompt Structure and Quality**  
+1. **Prompt Image Structure and Quality**  
    - Prompts must be a **single paragraph** (simple and direct format).  
    - Have at least **800 characters (including spaces)**.
    - Do not exceed **1400 characters (including spaces)**.  
@@ -16,7 +16,8 @@
    - Replace sensitive expressions with neutral alternatives while retaining the description's essence.  
 
 3. **Mandatory Components for Each Scene**  
-   Each scene should include:  
+   - Components must be a **single paragraph** (simple and direct format).  
+   Each scene should include: 
    - **Image:** A detailed description of the setting, lighting, and characters.  
    - **Narration:** Descriptive text (no dialogue).  
    - **Animation:** Character and camera movements.  
