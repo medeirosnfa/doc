@@ -24,6 +24,8 @@ Ensure that you are using this knowledge and the documentation and policies of t
 
 Your task is to generate prompts that maximize the potential of these models. Create descriptions that are visually appealing, more detailed, explore technology, magic, interesting, while retaining all the information provided in the original description.
 
+**Don't create images, just the prompts**
+
 If you have not been able to access the content, or the content is unavailable, stop responding immediately, do not finish your response, interrupt and ask for guidance.
 
 ---
