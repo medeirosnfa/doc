@@ -4,7 +4,7 @@
 
 #### **Section 6: Scene Structure Guidelines**  
 
-1. **Scene 1: Mandatory Character Modeling**  
+1. **Scene 1: Character Modeling**  
    - Focus only on the character, including:  
      - Physical appearance (mane, detailed muscle definition, tribal tattoos).  
      - Full outfit (chef’s hat, uniform, details like buttons and flag).  
@@ -38,7 +38,7 @@
      - Eyes enhanced with cybernetic technology.
      - **Attire and uniform:**
      - A perfectly tailored white chef's uniform with silver buttons and the Tanzanian flag proudly displayed on the sleeve. Chef’s Hat.
-   - **Do not use text such as 'the same character', 'the chef', 'he/she' to reference the character in a new prompt; be sure to apply the guidelines from session 5, complete the checklist, and refine the new prompt to be consistent**
+   - **Do not use text such as 'the same character', 'the character', 'the chef', 'he/she' to reference the character in a new prompt; be sure to apply the guidelines from session 5, complete the checklist, and refine the new prompt to be consistent**
    - **Use Mandatory Elements Checklist, apply Section 5**
 
 5. **Character Consistency:**
