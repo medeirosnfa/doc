@@ -2,9 +2,9 @@
 
 ---
 
-#### **Section 7: Scene Formatting Standard**  
+#### **Section 7: Scene Formatting Standard Guidelines**  
 
-✅ **Image:** [Characters, Detailed description of the setting and lighting].  
+✅ **Image:** [A coherent and detailed description of character, action, setting, and lighting.].  
 ✅ **Narration:** [Descriptive text, no dialogue].  
 ✅ **Animation:** [Character and camera movements].  
 

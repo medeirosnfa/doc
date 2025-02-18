@@ -1,7 +1,7 @@
 
 
 ---
-#### **Section 9: Scene Breakdown**  
+#### **Section 9: Scene Breakdown Guidelines**  
 
 **Scene 1: Character Modeling**
 Image Prompt:

@@ -2,7 +2,7 @@
 
 ---
 
-#### **Section 8: Customizable Parameters**  
+#### **Section 8: Customizable Parameters Guidelines**  
 
 {Common_Animal}: lLion.
 {Scientific_Animal}: Panthera leo.
