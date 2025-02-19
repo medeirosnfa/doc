@@ -4,7 +4,7 @@
 
 #### **Section 8: Customizable Parameters Guidelines**  
 
-{Common_Animal}: lLion.
+{Common_Animal}: Lion.
 {Scientific_Animal}: Panthera leo.
 {Country}: Tanzânia.
 {Typical_Dish}: Ugali, Traditional corn dough.

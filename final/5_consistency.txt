@@ -5,8 +5,8 @@
 
 #### **Section 5: Consistency and Refinement Guidelines**  
 
-1. **Mandatory Elements Checklist:**
-   - Create a checklist to ensure that each character feature is included in every scene:
+- **Mandatory Character Feature Checklist:**
+   - Create a checklist to ensure that each character feature is included and coherent in each scene:
      - **Strong anthropomorphic hybrid warrior {Common_Animal} ({Scientific_Animal}) a menacing, form with shaped, muscular and defined body structure of an animal warrior, tall, very strong muscles, has tattoos by body**
      - **Chef’s Hat**
      - **{Common_Animal} ({Scientific_Animal})**
@@ -23,14 +23,11 @@
      - **shapes**
      - **Characteristics and details of the reference animal**
 
-1. **Detailed Comparison with Scene 1:** 
-   - Compare each scene with Scene 1 to ensure all mandatory character details are present:  
-     - Use a checklist to verify that every character feature appears in all scenes.
+- **Checklist for Cross-Review:** 
+   - Compare each scene with Scene 1 to ensure all Mandatory Character Feature are present.  
+   - Use a checklist to verify that every Mandatory Character Feature appears in all scenes.
 
-2. **Checklist for Cross-Review:**  
-   - Use a checklist to verify that every character feature appears in all scenes.  
-
-3. **Mandatory Attention to Technological and Cultural Details:**  
+- **Mandatory Attention to Technological and Cultural Details:**  
    - Maintain a balance of traditional and futuristic elements in every scene.  
    - Ensure seamless integration of cultural and technological aspects, with innovations that surprise.
 

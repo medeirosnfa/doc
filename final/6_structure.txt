@@ -4,18 +4,17 @@
 
 #### **Section 6: Scene Structure Guidelines**  
 
-
 - **Mandatory Character Details (Required for All Scenes):**
    - In all scenes, regardless of narrative focus (e.g. setting, action, or other elements), the character must be described with their **key attributes**, including:
      - **Physical appearance and build:**
-     - Muscular, well-defined body with tattoos and an imposing presence.
-     - Intimidating appearance.
+       - Muscular, well-defined body with tattoos and an imposing presence.
+       - Intimidating appearance.
      - **Technological features:**
-     - Bionic parts with glowing energy (red) and advanced joints.
-     - Cybernetic claws that function as advanced tools.
-     - Eyes enhanced with cybernetic technology.
+       - Bionic parts with glowing energy (red) and advanced joints.
+       - Cybernetic claws that function as advanced tools.
+       - Eyes enhanced with cybernetic technology.
      - **Attire and uniform:**
-     - A perfectly tailored white chef's uniform with silver buttons and the Tanzanian flag proudly displayed on the sleeve. Chef’s Hat.
+       - A perfectly tailored white chef's uniform with silver buttons and the Tanzanian flag proudly displayed on the sleeve. Chef’s Hat.
    - **Use Mandatory Elements Checklist, apply Section 5**
    - **Do not use text such as 'the same character', 'the character', 'the chef', 'he/she' to reference and reintroduce the character in a new prompt or scene; be sure to apply the guidelines from session 5, complete the checklist, and refine the new prompt so that it is coherent**
 
