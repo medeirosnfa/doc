@@ -1,57 +1,105 @@
 
-
 ---
 
 #### **Section 6: Scene Structure Guidelines**  
 
-- **Mandatory Character Details (Required for All Scenes):**
-   - In all scenes, regardless of narrative focus (e.g. setting, action, or other elements), the character must be described with their **key attributes**, including:
-     - **Physical appearance and build:**
-       - Muscular, well-defined body with tattoos and an imposing presence.
-       - Intimidating appearance.
-     - **Technological features:**
-       - Bionic parts with glowing energy (red) and advanced joints.
-       - Cybernetic claws that function as advanced tools.
-       - Eyes enhanced with cybernetic technology.
-     - **Attire and uniform:**
-       - A perfectly tailored white chef's uniform with silver buttons and the Tanzanian flag proudly displayed on the sleeve. Chef’s Hat.
-   - **Use Mandatory Elements Checklist, apply Section 5**
-   - **Do not use text such as 'the same character', 'the character', 'the chef', 'the head chef', 'he/she', do not use abbreviations or plain text, names, nicknames, shorthand, to reference or reintroduce the character in a new scene or prompt; be sure to refine, adjust, and apply the guidelines in Section 5 to the prompt and check the checklist to ensure that all Mandatory Character Traits are present is coherent across the adjusted prompts**
+### **1. Mandatory Character Details (Required for All Scenes)**  
+- In all scenes, regardless of the narrative focus (e.g., setting, action, or other elements), the character must be **fully described with all key attributes**.  
+- **Do not abbreviate or omit details**. Always provide the complete description in every scene.  
+- **Use the Mandatory Elements Checklist** (Section 5) to ensure consistency across all prompts.  
 
-- **Character Consistency:**
-   - The character should be described with **the same physical and technological details in every scene**, even if the main focus shifts to other elements (e.g., the environment or the action).
-   - Always include a brief mention of the **balance between brute force, futuristic technology, and cultural tradition**.
+#### **Character Attributes (Applied in Every Scene)**  
+1. **Physical Appearance and Build:**  
+   - **Muscular, well-defined** body with **tribal tattoos** and a **menacing, imposing stance**.  
+   - **Tall**, **strong**, and **intimidating presence**.  
 
-- **Mandatory Settings and Interactions:**
-   - Setting descriptions should complement the character, but never omit or minimize the character's essential characteristics.
-   - Whenever the character interacts with objects or the environment (e.g., plasma knives, utensils, pots, stoves, knives, cutlery, precision, fire, ingredients, or holograms), the description should emphasize how their physical and technological traits influence these interactions.
+2. **Technological Features:**  
+   - **Bionic parts** with **glowing red energy** and advanced, flexible joints.  
+   - **Cybernetic claws** that function as **precision tools and weapons**.  
+   - **Cybernetic eye** with futuristic enhancements.  
 
-- **Scene Transitions:**
-   - Replacing Parameters in Prompts.
-   - Reintroduce the character with the same details as Scene 1.
-   - When transitioning between scenes, make sure that **character details, Traits are coherent and conveyed**.
+3. **Attire and Uniform:**  
+   - **Tailored white chef's uniform** with **silver buttons** and the **Tanzanian flag on the sleeve**.  
+   - **Chef’s hat** positioned with precision.  
 
-- **Scene 1: Character Modeling**  
-    - Follow the guidelines in Section 6.  
-    - **No background, accessories, kitchen context, or environmental elements**.  
-    - Focus **only** on the character’s **physical appearance and technological details**. 
-   
-- **Scene 2: Introducing the Head Chef**  
-    - **Ensure complete character consistency** with Scene 1.  
-    - **Do not abbreviate the character’s description**; reintroduce with full physical and technological details.  
-    - **Maintain the correct sequence of information**:  
-        **1. Character (Physical appearance & attire)**  
-        **2. Action (What the character is doing, movement, expressions, interactions)**  
-        **3. Environment (Kitchen setting, tools, objects, atmosphere)**  
-        **4. Lighting (How the scene is illuminated, reflections, highlights)**  
-    - The **Checklist for Cross-Review** must be applied to verify all details.  
-    - Ensure **coherence between traditional and futuristic elements** in the environment.  
+### **2. Character Consistency**  
+- The **same physical, technological, and attire details** must appear in **every** scene, even when the focus is on the setting or actions.  
+- **Balance between brute force, futuristic technology, and cultural tradition** must be reinforced.  
+- **Do not use pronouns, nicknames, or abbreviations** to reference the character (e.g., "the chef", "he", "she", "they"). Always **reintroduce the character fully in each scene**.  
 
-- **Scene 3: Preparing the Ingredients**  
-    - Follow the structure in Section 9.  
-    - Maintain **perfect consistency of the character's details** from Scene 1.  
-    - Emphasize **how the technological traits influence interactions** with the ingredients and tools.  
-    - **Holographic projections, cybernetic scans, and advanced cooking techniques should be described with precision**.  
+### **3. Mandatory Settings and Interactions**  
+- The **setting must enhance** the character’s **presence**, but never replace or overshadow the key attributes.  
+- Whenever the character interacts with **objects, tools, or the environment**, the description must emphasize **how their physical and technological traits influence these interactions**.  
+- **Fusion of traditional and futuristic elements** must be evident in every scene.  
 
-     
+### **4. Scene Transitions**  
+- **Do not create new scenes**. Only replace parameters in prompts while maintaining structure.  
+- **Character details must be explicitly stated in every scene transition**.  
+- **Each scene must be cross-checked against Scene 1** to ensure perfect consistency.  
+
+---
+
+### **Scene 1: Character Modeling**  
+- **Focus exclusively on the character’s physical and technological attributes**.  
+- **No background, accessories, kitchen context, or environmental elements**.  
+
+**Structure:**  
+1. **Physical appearance** (muscular, tattoos, cybernetic details, menacing stance).  
+2. **Attire** (chef’s hat, uniform with Tanzanian flag, silver buttons).  
+3. **Technological features** (bionic parts, cybernetic claws, cybernetic eye).  
+
+---
+
+### **Scene 2: Introducing the Head Chef**  
+- **Ensure complete character consistency with Scene 1**.  
+- **Maintain the correct sequence of information** to **reinforce presence and impact**.  
+
+**Structure:**  
+1. **Character (Physical appearance & attire)**  
+   - Reintroduce **full details** of the character (do not use abbreviations or short references).  
+2. **Action (What the character is doing, movement, expressions, interactions)**  
+   - Ensure **cybernetic enhancements and bionic precision** are integrated naturally into the actions.  
+3. **Environment (Kitchen setting, tools, objects, atmosphere)**  
+   - Ensure the **kitchen reflects both cultural and futuristic elements**.  
+4. **Lighting (How the scene is illuminated, reflections, highlights)**  
+   - Use **dramatic lighting to emphasize metallic reflections**, **energy glow from bionic parts**, and **contrast between natural and artificial light sources**.  
+
+**Checklist for Scene 2:**  
+✅ **All physical, attire, and technological details match Scene 1**.  
+✅ **No shortcuts or references like "the character", "the chef", "he"** – full reintroduction only.  
+✅ **Cross-review applied to confirm that every character feature is present**.  
+
+---
+
+### **Scene 3: Preparing the Ingredients**  
+- **Follow the structure in Section 9**.  
+- **Character must remain fully described, with all technological and attire details intact**.  
+- **Emphasize how cybernetic elements enhance precision and efficiency in food preparation**.  
+
+**Structure:**  
+1. **Character description (physical, attire, technological traits)**.  
+2. **Action (precise movements, interaction with ingredients, cooking techniques)**.  
+3. **Environment (advanced kitchen tools, fire, steam, holograms, energy effects)**.  
+4. **Lighting (dramatic highlights, reflections on metal surfaces, ambient kitchen glow)**.  
+
+✅ **Holographic projections, cybernetic scans, and advanced cooking techniques should be described with precision**.  
+
+---
+
+### **5. Final Review and Consistency Checks**  
+- **Before finalizing any scene**, apply a **cross-review** to ensure all character details are accurate.  
+- **Verify the correct order of presentation**: **Character → Action → Environment → Lighting**.  
+- **Check that no elements were omitted or abbreviated**.  
+
+✅ **No abbreviations, shortcuts, or vague references**.  
+✅ **Each scene must fully reintroduce the character with all key attributes**.  
+✅ **All technological and cultural elements must be seamlessly integrated**.  
+
+---
+
+### **6. Strict Adherence to Scene Breakdown Rules**  
+- **Do not create new scenes**. Only adjust parameters within the provided structure.  
+- **Replace placeholders with refined descriptions** while keeping all character details consistent.  
+- **Scene transitions must not introduce inconsistencies**.  
+
 ---

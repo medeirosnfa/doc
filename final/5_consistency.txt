@@ -1,34 +1,43 @@
 
-
-
 ---
 
 #### **Section 5: Consistency and Refinement Guidelines**  
 
-- **Mandatory Character Feature Checklist:**
-   - Create a checklist to ensure that each character feature is included and coherent in each scene:
-     - **Strong anthropomorphic hybrid warrior {Common_Animal} ({Scientific_Animal}) a menacing, form with shaped, muscular and defined body structure of an animal warrior, tall, very strong muscles, has tattoos by body**
-     - **Chef’s Hat**
-     - **{Common_Animal} ({Scientific_Animal})**
-     - **Full Uniform (buttons, flag, fit)**
-     - **Tribal Tattoos**
-     - **Bionic parts (energy details, flexibility)**
-     - **Cybernetic Claws**
-     - **Cybernetic Eye**
-     - **Strong anthropomorphic hybrid warrior a menacing**
-     - **Tall**
-     - **Mane, posture, and menacing presence**
-     - **Detailed muscle definition**
-     - **Muscular and defined body structure**
-     - **shapes**
-     - **Characteristics and details of the reference animal**
+### **1. Mandatory Character Feature Checklist**  
+- **Every scene must strictly adhere to the following checklist** to maintain consistency in character design and attributes.  
+- **Do not abbreviate or omit any characteristic**. All elements must be fully described in every scene.  
 
-- **Checklist for Cross-Review:** 
-   - Compare each scene with Scene 1 to ensure all Mandatory Character Feature are present.  
-   - Use a checklist to verify that every Mandatory Character Feature appears in all scenes.
+#### **Character Attributes (Must Be Present in All Scenes)**  
+✅ **Physical Appearance:**  
+   - **Strong anthropomorphic hybrid warrior {Common_Animal} ({Scientific_Animal})**.  
+   - **Muscular, well-defined body**, tall, with **very strong muscles and an imposing stance**.  
+   - **Tribal tattoos** covering parts of the body.  
+   - **Mane, posture, and menacing presence**.  
+   - **Detailed muscle definition and anatomical structure of the reference animal**.  
 
-- **Mandatory Attention to Technological and Cultural Details:**  
-   - Maintain a balance of traditional and futuristic elements in every scene.  
-   - Ensure seamless integration of cultural and technological aspects, with innovations that surprise.
+✅ **Attire:**  
+   - **Perfectly tailored full chef’s uniform** with **silver buttons and the Tanzanian flag on the sleeve**.  
+   - **Chef’s hat** positioned with precision.  
+
+✅ **Technological Features:**  
+   - **Bionic parts** with **glowing red energy**, articulated with **flexibility and high precision**.  
+   - **Cybernetic claws** that function as **advanced tools and weapons**.  
+   - **Cybernetic eye** with enhanced vision and futuristic modifications.  
+
+### **2. Checklist for Cross-Review**  
+- **Each scene must be compared with Scene 1** to confirm that **all Mandatory Character Features** are present and fully described.  
+- **Apply a cross-check process before finalizing any scene** to detect and correct missing elements automatically.  
+- **Ensure that no attributes are omitted or abbreviated when transitioning between scenes**.  
+
+### **3. Mandatory Attention to Technological and Cultural Details**  
+- **Every scene must balance traditional and futuristic elements**, reinforcing the **cultural and technological contrast**.  
+- **Cybernetic elements must integrate naturally into the environment and actions**, enhancing interactions.  
+- **Innovative details must surprise the audience**, blending the character’s **strength, technology, and cultural background seamlessly**.  
+
+### **4. Refinement and Strict Consistency Rules**  
+✅ **Do not reference the character using vague terms** such as **"the character", "the chef", "he", "she"**. The **full detailed description must be reintroduced in each scene**.  
+✅ **Scene descriptions must follow a strict order**: **Character → Action → Environment → Lighting**.  
+✅ **Before finalizing, verify that each scene strictly follows the Mandatory Character Feature Checklist**.  
+✅ **Scene transitions must not introduce inconsistencies** or alter established attributes.  
 
 ---

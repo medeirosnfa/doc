@@ -27,7 +27,7 @@
 
 - **Do not generate images.**  
 
-- **When all content is fully processed, start creating the main story, ensuring each scene follows the extracted structure and guidelines.**  
+- **When you finish processing all the links and are ready, with all the knowledge, start creating the main story with the scenes, following all the structure and guidelines of each link**
 
 ---
 

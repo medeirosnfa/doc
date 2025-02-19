@@ -4,14 +4,6 @@
 
 #### **Section 9: Scene Breakdown Guidelines**  
 
-- **Before finalizing any scene**, apply a **cross-review** to ensure all character features are maintained and that the order (character → action → environment → lighting) is correct.  
-
-- **Do not use abbreviations, shortcuts, or references like "the same character", "the chef", "he/she"**. Always fully reintroduce the character with detailed attributes in every scene.  
-
-- **Do not create new scenes**. Only replace parameters in prompts as per the extracted structure.  
-
-- **Do not generate images.**  
-
 - **Scene 1: Character Modeling**
 Image Prompt:
     {Character}.
