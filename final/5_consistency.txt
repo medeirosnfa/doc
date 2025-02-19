@@ -1,7 +1,7 @@
 
 ---
 
-#### **Section 5: Consistency and Refinement Guidelines**  
+#### **Section 5: Consistency and Refinement Guidelines (Adjusted)**  
 
 ### **1. Mandatory Character Feature Checklist**  
 - **Every scene must strictly adhere to the following checklist** to maintain consistency in character design and attributes.  
@@ -9,35 +9,88 @@
 
 #### **Character Attributes (Must Be Present in All Scenes)**  
 ✅ **Physical Appearance:**  
-   - **Strong anthropomorphic hybrid warrior {Common_Animal} ({Scientific_Animal})**.  
+   - A **strong anthropomorphic hybrid warrior {Common_Animal} ({Scientific_Animal})**, combining the physical traits of the reference animal with human-like musculature.  
    - **Muscular, well-defined body**, tall, with **very strong muscles and an imposing stance**.  
-   - **Tribal tattoos** covering parts of the body.  
-   - **Mane, posture, and menacing presence**.  
-   - **Detailed muscle definition and anatomical structure of the reference animal**.  
+   - **Tribal tattoos** intricately designed and covering parts of the body, emphasizing cultural significance.  
+   - A **golden mane** that moves naturally with the surroundings, highlighting the character’s strength and majesty.  
+   - **Detailed muscle definition and anatomical structure inspired by the reference animal**, with a **menacing and intimidating presence**.  
 
 ✅ **Attire:**  
-   - **Perfectly tailored full chef’s uniform** with **silver buttons and the Tanzanian flag on the sleeve**.  
-   - **Chef’s hat** positioned with precision.  
+   - A **perfectly tailored full chef’s uniform**, pristine white with **silver buttons** and the **Tanzanian flag proudly displayed on the sleeve**.  
+   - A **chef’s hat**, positioned with precision, complementing the character’s professional identity.  
 
 ✅ **Technological Features:**  
-   - **Bionic parts** with **glowing red energy**, articulated with **flexibility and high precision**.  
-   - **Cybernetic claws** that function as **advanced tools and weapons**.  
-   - **Cybernetic eye** with enhanced vision and futuristic modifications.  
+   - **Bionic parts** seamlessly integrated into the character’s body, glowing with **red energy**, articulated with **flexibility and high precision**.  
+   - **Cybernetic claws** functioning as **advanced tools and weapons**, glowing with pulsating energy.  
+   - A **cybernetic eye** with enhanced vision, futuristic modifications, and a golden glow.  
 
-### **2. Checklist for Cross-Review**  
+---
+
+### **2. Checklist for Cross-Review Between Scenes**  
 - **Each scene must be compared with Scene 1** to confirm that **all Mandatory Character Features** are present and fully described.  
 - **Apply a cross-check process before finalizing any scene** to detect and correct missing elements automatically.  
 - **Ensure that no attributes are omitted or abbreviated when transitioning between scenes**.  
+
+✅ **Scene 1 (Character Modeling):**  
+   - Focused exclusively on the character’s **physical, attire, and technological attributes**.  
+   - No background, accessories, or environmental elements were included.  
+   - **Full reintroduction of the character’s details** was provided:  
+     - **Physical Appearance**: Muscular, tribal tattoos, golden mane, intimidating stance.  
+     - **Attire**: Chef’s uniform, silver buttons, Tanzanian flag, chef’s hat.  
+     - **Technological Features**: Bionic parts, cybernetic claws, cybernetic eye.  
+
+✅ **Scene 2 (Introducing the Head Chef):**  
+   - **Cross-review applied** to ensure consistency with Scene 1.  
+   - **Full reintroduction of the character’s details** was provided:  
+     - **Physical Appearance**: Reiterated the muscular build, tribal tattoos, golden mane, and menacing stance.  
+     - **Attire**: Chef’s uniform, silver buttons, Tanzanian flag, chef’s hat.  
+     - **Technological Features**: Bionic parts glowing with red energy, cybernetic claws, and the golden-glowing cybernetic eye.  
+   - Additional elements introduced:  
+     - **Action**: The character was shown moving with precision, utilizing cybernetic claws to interact with the environment.  
+     - **Environment**: A futuristic kitchen with advanced tools and holographic projections, blending cultural and technological elements.  
+     - **Lighting**: Dramatic lighting emphasizing the metallic reflections of the bionic parts and the glow of the cybernetic enhancements.  
+
+---
 
 ### **3. Mandatory Attention to Technological and Cultural Details**  
 - **Every scene must balance traditional and futuristic elements**, reinforcing the **cultural and technological contrast**.  
 - **Cybernetic elements must integrate naturally into the environment and actions**, enhancing interactions.  
 - **Innovative details must surprise the audience**, blending the character’s **strength, technology, and cultural background seamlessly**.  
 
+✅ **Scene 1**: Focused on the character’s **physical and technological features**, establishing a strong cultural and futuristic identity.  
+✅ **Scene 2**: Expanded on this foundation, showing the character’s **interaction with the environment**, emphasizing the **fusion of tradition and technology** in the kitchen setting.  
+
+---
+
 ### **4. Refinement and Strict Consistency Rules**  
-✅ **Do not reference the character using vague terms** such as **"the character", "the chef", "he", "she"**. The **full detailed description must be reintroduced in each scene**.  
+✅ **Do not reference the character using vague terms** such as **"the character," "the chef," "he," "she"**. The **full detailed description must be reintroduced in each scene**.  
 ✅ **Scene descriptions must follow a strict order**: **Character → Action → Environment → Lighting**.  
 ✅ **Before finalizing, verify that each scene strictly follows the Mandatory Character Feature Checklist**.  
 ✅ **Scene transitions must not introduce inconsistencies** or alter established attributes.  
+
+---
+
+### **5. Additional Notes for Scene Transitions**  
+- When transitioning between scenes, always reintroduce the character with the **same level of detail as Scene 1**.  
+- **Do not omit or abbreviate any attribute**, even if the focus of the scene changes.  
+- Ensure that the **fusion of traditional and futuristic elements remains consistent** across all scenes.  
+
+---
+
+### **6. Final Review and Consistency Checks**  
+- **Before finalizing any scene**, apply a **cross-review** to ensure all character details are accurate.  
+- **Verify the correct order of presentation**: **Character → Action → Environment → Lighting**.  
+- **Check that no elements were omitted or abbreviated**.  
+
+✅ **No abbreviations, shortcuts, or vague references**.  
+✅ **Each scene must fully reintroduce the character with all key attributes**.  
+✅ **All technological and cultural elements must be seamlessly integrated**.  
+
+---
+
+### **7. Strict Adherence to Scene Breakdown Rules**  
+- **Do not create new scenes**. Only adjust parameters within the provided structure.  
+- **Replace placeholders with refined descriptions** while keeping all character details consistent.  
+- **Scene transitions must not introduce inconsistencies**.  
 
 ---

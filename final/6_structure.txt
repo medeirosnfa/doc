@@ -1,7 +1,7 @@
 
 ---
 
-#### **Section 6: Scene Structure Guidelines**  
+#### **Section 6: Scene Structure Guidelines (Aligned with Section 8)**  
 
 ### **1. Mandatory Character Details (Required for All Scenes)**  
 - In all scenes, regardless of the narrative focus (e.g., setting, action, or other elements), the character must be **fully described with all key attributes**.  
@@ -10,96 +10,76 @@
 
 #### **Character Attributes (Applied in Every Scene)**  
 1. **Physical Appearance and Build:**  
-   - **Muscular, well-defined** body with **tribal tattoos** and a **menacing, imposing stance**.  
-   - **Tall**, **strong**, and **intimidating presence**.  
+   - {Animal_Details}: A strong anthropomorphic hybrid warrior {Common_Animal} ({Scientific_Animal}), with a **muscular, well-defined body**, **tribal tattoos** covering parts of the body, and a **menacing, imposing stance**.  
+   - **Golden mane** that moves naturally with the surroundings, emphasizing the character’s strength and majesty.  
+   - A **tall, strong, and intimidating presence**.  
 
 2. **Technological Features:**  
-   - **Bionic parts** with **glowing red energy** and advanced, flexible joints.  
-   - **Cybernetic claws** that function as **precision tools and weapons**.  
-   - **Cybernetic eye** with futuristic enhancements.  
+   - **Bionic parts** glowing with **red energy**, seamlessly integrated into the character’s body, providing flexibility and precision.  
+   - **Cybernetic claws** that function as **advanced tools and weapons**, glowing with pulsating energy.  
+   - A **cybernetic eye** with enhanced vision and futuristic modifications, glowing in a golden hue.  
 
 3. **Attire and Uniform:**  
-   - **Tailored white chef's uniform** with **silver buttons** and the **Tanzanian flag on the sleeve**.  
-   - **Chef’s hat** positioned with precision.  
-
-### **2. Character Consistency**  
-- The **same physical, technological, and attire details** must appear in **every** scene, even when the focus is on the setting or actions.  
-- **Balance between brute force, futuristic technology, and cultural tradition** must be reinforced.  
-- **Do not use pronouns, nicknames, or abbreviations** to reference the character (e.g., "the chef", "he", "she", "they"). Always **reintroduce the character fully in each scene**.  
-
-### **3. Mandatory Settings and Interactions**  
-- The **setting must enhance** the character’s **presence**, but never replace or overshadow the key attributes.  
-- Whenever the character interacts with **objects, tools, or the environment**, the description must emphasize **how their physical and technological traits influence these interactions**.  
-- **Fusion of traditional and futuristic elements** must be evident in every scene.  
-
-### **4. Scene Transitions**  
-- **Do not create new scenes**. Only replace parameters in prompts while maintaining structure.  
-- **Character details must be explicitly stated in every scene transition**.  
-- **Each scene must be cross-checked against Scene 1** to ensure perfect consistency.  
+   - {Clothing}: A **perfectly tailored white chef’s uniform**, double-breasted and fitted to his muscles, with **silver buttons** and the **{Country} flag proudly sewn on the sleeve**.  
+   - A **chef’s hat** positioned with precision, complementing the character’s professional and cultural identity.  
 
 ---
 
-### **Scene 1: Character Modeling**  
-- **Focus exclusively on the character’s physical and technological attributes**.  
-- **No background, accessories, kitchen context, or environmental elements**.  
+### **2. Scene 3: The Precision of a Master Chef**  
 
-**Structure:**  
-1. **Physical appearance** (muscular, tattoos, cybernetic details, menacing stance).  
-2. **Attire** (chef’s hat, uniform with Tanzanian flag, silver buttons).  
-3. **Technological features** (bionic parts, cybernetic claws, cybernetic eye).  
+#### **Dynamic Scene Instructions:**  
+- Use the following description to dynamically create the scene:  
+  - **In an ultra-wide shot**, the character is intensely focused as he chops vibrant vegetables with pinpoint precision on a weathered wooden countertop.  
+  - The **{Kitchen}** is fully visible, blending traditional and futuristic elements:  
+    - Intricately carved wooden shelves with vibrant ingredients.  
+    - Pots and pans hanging in the background.  
+    - Magical fire flickering below the enchanted stove, casting warm light.  
+  - His advanced **bionic arm** scans each ingredient with pinpoint precision, projecting **futuristic holographic data** that illuminates his workspace.  
+  - Subtle **steam and smoke effects** emphasize the warmth of the kitchen, while reflective surfaces enhance the interplay between **traditional décor and advanced technology**.  
+  - The scene captures the perfect balance between the chef’s **cultural roots** and his mastery of **futuristic tools**, blending magic and technology seamlessly.  
 
 ---
 
-### **Scene 2: Introducing the Head Chef**  
-- **Ensure complete character consistency with Scene 1**.  
-- **Maintain the correct sequence of information** to **reinforce presence and impact**.  
-
-**Structure:**  
+#### **Structure for Scene 3:**  
 1. **Character (Physical appearance & attire)**  
-   - Reintroduce **full details** of the character (do not use abbreviations or short references).  
-2. **Action (What the character is doing, movement, expressions, interactions)**  
-   - Ensure **cybernetic enhancements and bionic precision** are integrated naturally into the actions.  
-3. **Environment (Kitchen setting, tools, objects, atmosphere)**  
-   - Ensure the **kitchen reflects both cultural and futuristic elements**.  
-4. **Lighting (How the scene is illuminated, reflections, highlights)**  
-   - Use **dramatic lighting to emphasize metallic reflections**, **energy glow from bionic parts**, and **contrast between natural and artificial light sources**.  
+   - Reintroduce **full details** of the character using {Character}.  
+   - Highlight the **bionic arm** as it scans ingredients and projects holographic data, showcasing advanced technology.  
 
-**Checklist for Scene 2:**  
-✅ **All physical, attire, and technological details match Scene 1**.  
-✅ **No shortcuts or references like "the character", "the chef", "he"** – full reintroduction only.  
+2. **Action (What the character is doing, movement, expressions, interactions)**  
+   - The character chops vibrant vegetables with **pinpoint precision** on a weathered wooden countertop.  
+   - His **intense focus** reflects his mastery and professionalism, blending cultural tradition with futuristic precision.  
+
+3. **Environment (Kitchen setting, tools, objects, atmosphere)**  
+   - A {Kitchen} that reflects a mix of traditional and advanced elements:  
+     - Intricately carved wooden shelves containing vibrant ingredients.  
+     - Pots and pans hanging in the background.  
+     - An enchanted stove with magical fire flickering below, casting warm light.  
+   - The interplay of **steam, smoke, and reflective surfaces** adds depth and warmth to the scene.  
+
+4. **Lighting (How the scene is illuminated, reflections, highlights)**  
+   - The workspace is illuminated by **holographic projections** from the bionic arm, creating a futuristic glow.  
+   - Warm light from the magical fire enhances the traditional elements, while reflective surfaces highlight the interplay of **magic and technology**.  
+
+---
+
+#### **Checklist for Scene 3:**  
+✅ **All physical, attire, and technological details match Scene 1 and Scene 2**.  
+✅ **The bionic arm’s scanning and holographic projection are included as key technological features**.  
+✅ **The character’s actions reflect precision, focus, and professionalism**.  
+✅ **The kitchen setting incorporates both traditional and futuristic elements, aligned with {Kitchen}**.  
+✅ **Lighting enhances the interplay of traditional warmth and futuristic glow**.  
+✅ **No shortcuts or references like "the character," "the chef," "he"** – full reintroduction only.  
 ✅ **Cross-review applied to confirm that every character feature is present**.  
 
 ---
 
-### **Scene 3: Preparing the Ingredients**  
-- **Follow the structure in Section 9**.  
-- **Character must remain fully described, with all technological and attire details intact**.  
-- **Emphasize how cybernetic elements enhance precision and efficiency in food preparation**.  
-
-**Structure:**  
-1. **Character description (physical, attire, technological traits)**.  
-2. **Action (precise movements, interaction with ingredients, cooking techniques)**.  
-3. **Environment (advanced kitchen tools, fire, steam, holograms, energy effects)**.  
-4. **Lighting (dramatic highlights, reflections on metal surfaces, ambient kitchen glow)**.  
-
-✅ **Holographic projections, cybernetic scans, and advanced cooking techniques should be described with precision**.  
-
----
-
-### **5. Final Review and Consistency Checks**  
-- **Before finalizing any scene**, apply a **cross-review** to ensure all character details are accurate.  
+### **3. Final Review and Consistency Checks**  
+- **Before finalizing Scene 3**, apply a **cross-review** to ensure all character details are accurate and consistent with Scene 1 and Scene 2.  
 - **Verify the correct order of presentation**: **Character → Action → Environment → Lighting**.  
 - **Check that no elements were omitted or abbreviated**.  
 
 ✅ **No abbreviations, shortcuts, or vague references**.  
 ✅ **Each scene must fully reintroduce the character with all key attributes**.  
 ✅ **All technological and cultural elements must be seamlessly integrated**.  
-
----
-
-### **6. Strict Adherence to Scene Breakdown Rules**  
-- **Do not create new scenes**. Only adjust parameters within the provided structure.  
-- **Replace placeholders with refined descriptions** while keeping all character details consistent.  
-- **Scene transitions must not introduce inconsistencies**.  
 
 ---
