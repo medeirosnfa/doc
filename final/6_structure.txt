@@ -16,7 +16,7 @@
      - **Attire and uniform:**
        - A perfectly tailored white chef's uniform with silver buttons and the Tanzanian flag proudly displayed on the sleeve. Chef’s Hat.
    - **Use Mandatory Elements Checklist, apply Section 5**
-   - **Do not use text such as 'the same character', 'the character', 'the chef', 'he/she' to reference and reintroduce the character in a new prompt or scene; be sure to apply the guidelines from session 5, complete the checklist, and refine the new prompt so that it is coherent**
+   - **Do not use text such as 'the same character', 'the character', 'the chef', 'the head chef', 'he/she', do not use abbreviations or plain text, names, nicknames, shorthand, to reference or reintroduce the character in a new scene or prompt; be sure to refine, adjust, and apply the guidelines in Section 5 to the prompt and check the checklist to ensure that all Mandatory Character Traits are present is coherent across the adjusted prompts**
 
 - **Character Consistency:**
    - The character should be described with **the same physical and technological details in every scene**, even if the main focus shifts to other elements (e.g., the environment or the action).
@@ -27,8 +27,10 @@
    - Whenever the character interacts with objects or the environment (e.g., plasma knives, utensils, pots, stoves, knives, cutlery, precision, fire, ingredients, or holograms), the description should emphasize how their physical and technological traits influence these interactions.
 
 - **Scene Transitions:**
-   - When transitioning between scenes, make sure that **character details are consistent and conveyed**.
-
+   - Replacing Parameters in Prompts.
+   - Reintroduce the character with the same details as Scene 1.
+   - When transitioning between scenes, make sure that **character details, Traits are coherent and conveyed**.
+   
 - **Scene 1: Character Modeling**  
    - Focus only on the character, including:  
      - Physical appearance (mane, detailed muscle definition, tribal tattoos).  
@@ -40,18 +42,14 @@
    - **Should only present the character, without accessories or kitchen context, without environmental context, without objects, focusing exclusively on their physical appearance and main characteristics**  
 
 - **Scene 2: Introducing the Head Chef**  
-   - Reintroduce the character with the same details as Scene 1.  
    - Add:  
      - Kitchen accessories (utensils, high-tech surfaces).  
      - Facial expressions and body language.  
      - Detailed environmental descriptions (kitchen setting, lighting, ambiance).  
-   - **Do not use text such as 'the same character', 'the character', 'the chef', 'he/she' to reference and reintroduce the character in a new prompt or scene; be sure to apply the guidelines from session 5, complete the checklist, and refine the new prompt so that it is coherent**
 
 - **Scene 3: Prepare the ingredients**  
-   - Reintroduce the character with the same details as Scene 1.  
    - Focus on the main action, such as:  
      - Preparing food using advanced technology.  
      - Techniques and agility (dynamic movements, animated fire, interactive holograms).  
-   - **Do not use text such as 'the same character', 'the character', 'the chef', 'he/she' to reference and reintroduce the character in a new prompt or scene; be sure to apply the guidelines from session 5, complete the checklist, and refine the new prompt so that it is coherent**
      
 ---

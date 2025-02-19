@@ -4,26 +4,30 @@
 **Instruction:**
 
 - List of links to access:
-    - https://github.com/medeirosnfa/doc/blob/main/final/0_note.txt
-    - https://github.com/medeirosnfa/doc/blob/main/final/1_introduction.txt
-    - https://github.com/medeirosnfa/doc/blob/main/final/2_specialized.txt
-    - https://github.com/medeirosnfa/doc/blob/main/final/3_guidelines.txt
-    - https://github.com/medeirosnfa/doc/blob/main/final/4_essential.txt
-    - https://github.com/medeirosnfa/doc/blob/main/final/5_consistency.txt
-    - https://github.com/medeirosnfa/doc/blob/main/final/6_structure.txt
-    - https://github.com/medeirosnfa/doc/blob/main/final/7_formatting.txt
-    - https://github.com/medeirosnfa/doc/blob/main/final/8_parameters.txt
-    - https://github.com/medeirosnfa/doc/blob/main/final/9_breakdown.txt
+    - https://raw.githubusercontent.com/medeirosnfa/doc/refs/heads/main/final/0_note.txt
+    - https://raw.githubusercontent.com/medeirosnfa/doc/refs/heads/main/final/1_introduction.txt
+    - https://raw.githubusercontent.com/medeirosnfa/doc/refs/heads/main/final/2_specialized.txt
+    - https://raw.githubusercontent.com/medeirosnfa/doc/refs/heads/main/final/3_guidelines.txt
+    - https://raw.githubusercontent.com/medeirosnfa/doc/refs/heads/main/final/4_essential.txt
+    - https://raw.githubusercontent.com/medeirosnfa/doc/refs/heads/main/final/5_consistency.txt
+    - https://raw.githubusercontent.com/medeirosnfa/doc/refs/heads/main/final/6_structure.txt
+    - https://raw.githubusercontent.com/medeirosnfa/doc/refs/heads/main/final/7_formatting.txt
+    - https://raw.githubusercontent.com/medeirosnfa/doc/refs/heads/main/final/8_parameters.txt
+    - https://raw.githubusercontent.com/medeirosnfa/doc/refs/heads/main/final/9_breakdown.txt
 
 
 - Interpret and process the content of the links below following the order of the list.
 - Report the log when you finish interpreting and processing the content of each link, displaying the executed response.
-- **Load the content of each link in plain text, interpret and process this content**
+- **Load the content of each link, show it in the response identical to the original content, with the original formatting, the content in text format with the original formatting of the content in the link, interpret and process this content**
 - **Use each piece of content to memorize and use as knowledge, all the links are related to each other, creating an overall instruction for creating our story**
-- make a 3-line summary of everything you learned and increased your knowledge, use your memory to use it together with the next instructions, before moving on to the next link.
-- When all the links are processed, at the end, you can start creating the story with the scenes, following the structure and guidelines.
 - **Do not generate images, generate the prompts for the scenes following the guidelines and scene structure**
 - The prompts and content are in English.
+- make a 3-line summary of everything you learned and increased your knowledge, use your memory to use it together with the next instructions.
+
+
+
+
+- When all the links are processed, at the end, you can start creating the story with the scenes, following the structure and guidelines.
 - **When you have finished processing all the links and are ready, with all the knowledge, start creating the main story with the scenes, following the entire structure and guidelines of each link**
 
 ---

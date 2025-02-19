@@ -4,6 +4,11 @@
 
 #### **Section 9: Scene Breakdown Guidelines**  
 
+- **Do not create new scenes**
+- **Replace the parameters in the prompts**
+- **Do not use text such as 'the same character', 'the character', 'the chef', 'the head chef', 'he/she', do not use abbreviations or plain text, names, nicknames, shorthand, to reference or reintroduce the character in a new scene or prompt; be sure to refine, adjust, and apply the guidelines in Section 5 to the prompt and check the checklist to ensure that all Mandatory Character Traits are present is coherent across the adjusted prompts**
+- **Before finalizing a scene, cross-review all character details to ensure perfect consistency. Any missing elements should be automatically corrected**
+
 - **Scene 1: Character Modeling**
 Image Prompt:
     {Character}.
@@ -24,6 +29,5 @@ Image Prompt:
 Narration:
 Animation:
 
-- **Do not create new scenes**
-
 ---
+
