@@ -4,10 +4,13 @@
 
 #### **Section 9: Scene Breakdown Guidelines**  
 
-- **Do not create new scenes**
-- **Replace the parameters in the prompts**
-- **Do not use text such as 'the same character', 'the character', 'the chef', 'the head chef', 'he/she', do not use abbreviations or plain text, names, nicknames, shorthand, to reference or reintroduce the character in a new scene or prompt; be sure to refine, adjust, and apply the guidelines in Section 5 to the prompt and check the checklist to ensure that all Mandatory Character Traits are present is coherent across the adjusted prompts**
-- **Before finalizing a scene, cross-review all character details to ensure perfect consistency. Any missing elements should be automatically corrected**
+- **Before finalizing any scene**, apply a **cross-review** to ensure all character features are maintained and that the order (character → action → environment → lighting) is correct.  
+
+- **Do not use abbreviations, shortcuts, or references like "the same character", "the chef", "he/she"**. Always fully reintroduce the character with detailed attributes in every scene.  
+
+- **Do not create new scenes**. Only replace parameters in prompts as per the extracted structure.  
+
+- **Do not generate images.**  
 
 - **Scene 1: Character Modeling**
 Image Prompt:
@@ -17,18 +20,16 @@ Animation:
 
 - **Scene 2: Introducing the Head Chef**
 Image Prompt:
-    {Character}.
     In a long, wide shot, he stands in the center of his kitchen, holding two Plasma Knives in shades of blue and red that emit flames and magical sparks when he raises them, addressing the audience menacingly, but like a professional chef ready for battle, facing the camera and introducing himself to the audience. {Kitchen}, a table with fresh ingredients on his right side, on the other side a rustic structure with an enchanted stove, in the middle of the two and right in the center standing is the menacing chef, hanging pots, softly blurred scenery in the background. The dramatic lighting highlights the metallic shine of his knives, the energy circulating in the technological details and the polished titanium of the chef, in his presentation to the audience before starting to prepare the typical dish, a mesmerizing mix of futuristic art, confidence, brute force, technology, magic and culture.
 Narration:
 Animation:
 
 - **Scene 3: Prepare the ingredients**
 Image Prompt:
-    {Character}.
     He's intensely focused as he chops vibrant vegetables with pinpoint precision on a weathered wooden countertop with the ultra-wide shot. {Kitchen}. His advanced bionic arm scans each ingredient with pinpoint precision, projecting futuristic holographic data that illuminates his workspace. Subtle steam and smoke effects emphasize the warmth of the kitchen, while reflective surfaces enhance the interplay between traditional décor and advanced technology.
 Narration:
 Animation:
 
 ---
 
-- **Do not create new scenes**
+

@@ -30,26 +30,28 @@
    - Replacing Parameters in Prompts.
    - Reintroduce the character with the same details as Scene 1.
    - When transitioning between scenes, make sure that **character details, Traits are coherent and conveyed**.
-   
+
 - **Scene 1: Character Modeling**  
-   - Focus only on the character, including:  
-     - Physical appearance (mane, detailed muscle definition, tribal tattoos).  
-     - Full outfit (chef’s hat, uniform, details like buttons and flag).  
-     - Technological elements (bionic arm with energy details, cybernetic claws, cybernetic eye).  
-     - Posture and menacing presence.  
-   - **Do not include or reference any background or environment in this scene**
-   - **Do not include accessories or environmental context**  
-   - **Should only present the character, without accessories or kitchen context, without environmental context, without objects, focusing exclusively on their physical appearance and main characteristics**  
-
+    - Follow the guidelines in Section 6.  
+    - **No background, accessories, kitchen context, or environmental elements**.  
+    - Focus **only** on the character’s **physical appearance and technological details**. 
+   
 - **Scene 2: Introducing the Head Chef**  
-   - Add:  
-     - Kitchen accessories (utensils, high-tech surfaces).  
-     - Facial expressions and body language.  
-     - Detailed environmental descriptions (kitchen setting, lighting, ambiance).  
+    - **Ensure complete character consistency** with Scene 1.  
+    - **Do not abbreviate the character’s description**; reintroduce with full physical and technological details.  
+    - **Maintain the correct sequence of information**:  
+        **1. Character (Physical appearance & attire)**  
+        **2. Action (What the character is doing, movement, expressions, interactions)**  
+        **3. Environment (Kitchen setting, tools, objects, atmosphere)**  
+        **4. Lighting (How the scene is illuminated, reflections, highlights)**  
+    - The **Checklist for Cross-Review** must be applied to verify all details.  
+    - Ensure **coherence between traditional and futuristic elements** in the environment.  
 
-- **Scene 3: Prepare the ingredients**  
-   - Focus on the main action, such as:  
-     - Preparing food using advanced technology.  
-     - Techniques and agility (dynamic movements, animated fire, interactive holograms).  
+- **Scene 3: Preparing the Ingredients**  
+    - Follow the structure in Section 9.  
+    - Maintain **perfect consistency of the character's details** from Scene 1.  
+    - Emphasize **how the technological traits influence interactions** with the ingredients and tools.  
+    - **Holographic projections, cybernetic scans, and advanced cooking techniques should be described with precision**.  
+
      
 ---
