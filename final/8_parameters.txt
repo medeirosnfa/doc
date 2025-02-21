@@ -18,3 +18,65 @@
 {Character}: {Animal_Details}, featuring {Facial_Features}, dressed in {Clothing}.
 
 ---
+
+
+
+
+
+
+
+
+
+Segue os parametros de 2 animais para ser criada pelo prompt, 2 historias com 3 cenas:
+
+"
+---
+#### **Animal brasileiro**  
+
+{Common_Animal}: Onça-Pintada.
+{Scientific_Animal}: Panthera onca.
+{Country}: Brasil.
+{Typical_Dish}: Chipa: Pão de queijo tradicional sul-mato-grossense.
+{Kitchen}: The rustic, woodland-style outdoor kitchen is stocked with pots and pans, {Country}-inspired items and objects, {Country} flag colors on some walls, an enchanted antique stove, and carved wooden shelves with traditional utensils and vibrant ingredients. It is illuminated by natural light and the magical, flickering fire below the stove, with steam rising in elegant, undulating tendrils.
+{Clothing}: He wears a white chef's uniform, double-breasted and fitted to his muscles, with silver buttons, the {Country} flag sewn on the sleeve. With a chef's hat accessory that fits perfectly on his head. Usa chef's hat.
+{Facial_Features}: 
+- **His two state-of-the-art cybernetic hands and anti-arm, with each finger meticulously designed to enhance dexterity and control, sharp titanium blades that resemble animal claws extend from his fingertips, each designed to assist the chef using futuristic technology. He has claws that can be used as knives to assist in some preparations in the kitchen**.
+- **His anti-arm circulates bright neon energy in the bionic part, advanced devices wrapped in a sleek layer of neon black metal, very futuristic technology**.
+{Animal_Details}: Strong anthropomorphic hybrid warrior chef {Common_Animal} ({Scientific_Animal}) a threatening form, with a molded, muscular and defined body structure of an animal warrior, tall, very strong muscles, has tattoos all over his body, gold chains, gold bracelet, with a gangster and threatening appearance.
+{Character}: {Animal_Details}, featuring {Facial_Features}, dressed in {Clothing}.
+
+---
+
+
+
+---
+#### **Animal adversario**  
+
+{Common_Animal}: Lion.
+{Scientific_Animal}: Panthera leo.
+{Country}: Tanzânia.
+{Typical_Dish}: Ugali, Traditional corn dough.
+{Kitchen}: The rustic kitchen filled with pots and pans, {Country}-inspired items and objects, {Country} flag colors on some walls, an enchanted antique stove, and intricately carved wooden shelves containing traditional utensils and vibrant ingredients, is illuminated by the magical, flickering fire below the stove, with steam rising in elegant, undulating tendrils.  
+{Clothing}: He wears a white chef's uniform, double-breasted and fitted to his muscles, with silver buttons, the {Country} flag sewn on the sleeve. With a chef's hat accessory that fits perfectly on his head. Usa chef's hat.
+{Facial_Features}: 
+    - His two state-of-the-art cybernetic hands, with each finger meticulously designed to enhance dexterity and control, sharp titanium blades that represent animal claws extend from the fingertips, each created to assist the chef using futuristic technology. He has claws that can be used as knives to assist in some preparations in the kitchen.
+    - His left shoulder and anti-arm circulate bright red energy in the bionic part, highly flexible with complex joints for advanced movements encased in an elegant layer of polished titanium, very futuristic technology.
+    - Piercing golden eyes, with a cybernetically enhanced eye suggesting embedded futuristic technology.
+{Animal_Details}: Head of cooking strong anthropomorphic hybrid warrior {Common_Animal} ({Scientific_Animal})  a menacing , form with shaped, muscular and defined body structure of an animal warrior, tall, very strong muscles, has tattoos by body and threatening appearance with golden hair. It is crowned by a thick and fluid juba that fits a clear, menacing face.
+{Character}: {Animal_Details}, featuring {Facial_Features}, dressed in {Clothing}.
+
+---
+"
+
+---
+
+**Instruction:**
+
+Analise, ajuste, melhore, personalize, adapte, aplique todas as suas sugestões de melhoria para que este prompt seja perfeito e passe para IA as instruções, diretrizes, na criação destas historias, não se preocupe com outras cenas ou interação entre as histórias, isso será tratado em outro momento, preciso que o foco seja sempre no animal, na consistencia entre as cenas, na reintrodução do personagem modelo em todas as cenas da historia, então para contextualizar, o foco é criar personagem unicos com riqueza de detalhes, com diferentes aprimoramentos bionicos e usando a tecnologia auxiliar no preparo dos pratos, o ambiente cozinhas diferentes paizes e rusticas, e principalmente nas cenas padronizadas mas geradas com diferentes angulos e iluminacoes, uma cena de modelo do personagem, uma cena com ambiente um pouco desfocado e o chef no centro angulo amplo onde ele se apresenta, sempre com facas ou algum utensilho de cozinha criando uma marca pessoal, se apresentado ao publico com tom ameaçador, uma cena onde ele está preparando os alimento utilizando os recursos tecnologicos que possui a seu favor.
+
+
+Prompt original:
+""
+
+Responda em portugues mas o prompt em ingles.
+Ao terminar, mostre o prompt refinado em formato de bloco de texto com as formatacoes.

@@ -31,5 +31,73 @@
 
 ---
 
-start creating
+- **Ao finalizar, instrução final: começe a criar a historia**
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+#### **Animal brasileiro**  
+
+{Common_Animal}: Onça-Pintada.
+{Scientific_Animal}: Panthera onca.
+{Country}: Brasil.
+{Typical_Dish}: Chipa: Pão de queijo tradicional sul-mato-grossense.
+{Kitchen}: The rustic, woodland-style outdoor kitchen is stocked with pots and pans, {Country}-inspired items and objects, {Country} flag colors on some walls, an enchanted antique stove, and carved wooden shelves with traditional utensils and vibrant ingredients. It is illuminated by natural light and the magical, flickering fire below the stove, with steam rising in elegant, undulating tendrils.
+{Clothing}: He wears a white chef's uniform, double-breasted and fitted to his muscles, with silver buttons, the {Country} flag sewn on the sleeve. With a chef's hat accessory that fits perfectly on his head. Usa chef's hat.
+{Facial_Features}: 
+- **His two state-of-the-art cybernetic hands and anti-arm, with each finger meticulously designed to enhance dexterity and control, sharp titanium blades that resemble animal claws extend from his fingertips, each designed to assist the chef using futuristic technology. He has claws that can be used as knives to assist in some preparations in the kitchen**.
+- **His anti-arm circulates bright neon energy in the bionic part, advanced devices wrapped in a sleek layer of neon black metal, very futuristic technology**.
+{Animal_Details}: Strong anthropomorphic hybrid warrior chef {Common_Animal} ({Scientific_Animal}) a threatening form, with a molded, muscular and defined body structure of an animal warrior, tall, very strong muscles, has tattoos all over his body, gold chains, gold bracelet, with a gangster and threatening appearance.
+{Character}: {Animal_Details}, featuring {Facial_Features}, dressed in {Clothing}.
+
+---
+
+- **Replace placeholders with refined descriptions**
+- **Before finalizing Scene**, apply a **cross-review** to ensure all character details are accurate and consistent with Scene 1.  
+- **Check that no elements were omitted or abbreviated**.  
+- **No abbreviations, shortcuts, or vague references**.  
+- **Each scene must fully reintroduce the character with all key attributes**.  
+
+---
+
+- **Make sure that in all scenes, the following are present:**
+    - **Physical appearance:** Anthropomorphic warrior, Muscular and defined body structure, Cybernetic enhancements.
+    - **Attire (Chef's Uniform):** Uniform, hat.
+    - **Technological features:** Cybernetic claws, Integrated bionic parts
+
+---
+
+- **Once all content has been processed, generate structured scene prompts** following the extracted instructions, parameters, and formatting guidelines.
+
+- **Do not generate images.**
+
+- **Once you are done processing and ready with all the knowledge, start creating the main story with the scenes, following all the structure and guidelines**
+
+
+Now, you can start creating the story.
