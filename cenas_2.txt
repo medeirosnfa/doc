@@ -1,0 +1,88 @@
+
+---
+#### **Section 4: Scene Breakdown Guidelines**  
+
+### **Scene 1: Character Modeling**
+- Focused exclusively on the Character.
+- **Image Prompt:**  
+    - **Character:** 
+      {Animal_Details}, featuring {Facial_Features}, dressed in {Attire}.
+    - **Action:**  
+      - **Not included**
+    - **Environment:**  
+      - **Not included**
+    - **Lighting:**
+      - **Not included**
+   
+
+### **Scene 2: Introducing the Head Chef**
+- **Image Prompt:**  
+    - **Character:** 
+      In a long, wide shot, {Animal_Details}, featuring {Facial_Features}, dressed in {Attire}, stands in the center of his scenario. 
+    - **Action:**  
+      He holds two plasma knives—one glowing blue, the other red—that emit magical flames and sparks. His posture is powerful and professional, posing for a photo op, addressing the audience with a menacing yet composed demeanor while holding the knives. **{Facial_Features}**. The shot captures his fluid movements as he dramatically raises the plasma knives, introducing himself as the head chef.
+    - **Environment:**  
+      {Scenario_Details}. As the background remains **softly blurred with magical effects swirling around him**. The setting reflects the balance between tradition and innovation, creating an atmosphere of both warmth and awe.
+    - **Lighting:**  
+      The lighting is high-contrast and cinematic, with dramatic shadows emphasizing the interplay of traditional and futuristic elements. Reflective surfaces amplify the glow of the plasma knives and the subtle pulsation of the chef’s cybernetic enhancements. Warm, golden light bathes the scene, creating a sense of depth and immersion, while the magical and technological elements add vibrant highlights to the composition.
+
+
+### **Scene 3: Preparing the Ingredients**
+- **Image Prompt:**  
+    - **Character:** 
+      {Animal_Details}, featuring {Facial_Features}, dressed in {Attire}.
+    - **Action:** 
+      fully focused, precisely chops vibrant ingredients using **his cybernetic claws**, while his **bionic arm scans and projects holographic data**. **The close-up shot emphasizes precision**, showcasing **organized ingredients and fluid hand movements**. Steam and smoke rise in controlled swirls, reflecting the interplay of **traditional cooking and high-tech enhancements**.
+    - **Environment:**  
+      The {Kitchen} is alive with activity. Vibrant ingredients are organized meticulously on the counter, while steam and smoke rise in controlled swirls. Magical particles float subtly in the air, interacting with the holographic projections. The rustic wooden counters and stone walls are juxtaposed with advanced technological tools, creating a harmonious blend of tradition and futurism.
+    - **Lighting:**  
+      A warm, golden light bathes the scene, accentuating the vibrant colors of the ingredients and the metallic sheen of the chef’s cybernetic enhancements. Depth-of-field effects focus on the chef’s precise hand movements, while the background remains softly blurred, emphasizing the interplay of light and shadow.
+
+
+### **Scene 4: Cooking the Dish**
+- **Image Prompt:**  
+    - **Character:** 
+      {Animal_Details}, featuring {Facial_Features}, dressed in {Attire}.
+    - **Action:** 
+      Full focus, several pots on the stove and a large pot in the center of {Typical_Dish} bubbling stove, as he stirs its contents swirling with a mystical golden glow. His **cybernetic enhancements** pulse with waves of blue energy, synchronizing with the enchanted fire below. **The close-up emphasizes craftsmanship**, reflecting the interplay of **traditional cooking and high-tech enhancements**.
+    - **Environment:**  
+      The {Kitchen} is abuzz with activity. Several pots on the stove. Rustic wooden counters and stone walls are juxtaposed with advanced technological tools, creating a harmonious blend of tradition and futurism.
+    - **Lighting:**  
+      Warm, golden light bathes the scene, accentuating the stove and the metallic sheen of the chef’s cybernetic enhancements. Depth-of-field effects focus on the chef cooking, while the background remains softly blurred, emphasizing the interplay of light and shadow.
+
+### **Scene 5: Finish the Dish**
+- **Image Prompt:**  
+    - **Character:** 
+      {Animal_Details}, featuring {Facial_Features}, dressed in {Attire}.
+    - **Action:** 
+      Totally focused, his cybernetic clawed hands move fluidly, their glowing circuits pulsing gently as he places the final garnishes with delicate care over the finished dish. **The chef’s intense focus and deliberate movements convey the weight of the moment, the medium focus shot of the chef and the dish capturing their beauty, and the chef’s unique blend of technology, magic and culinary mastery**.
+    - **Environment:**  
+      The {Kitchen} Subtle fantasy elements enhance the fairytale setting: glowing steam gently rises from the dish, swirling as if alive, while faint sparks of magical fire flicker in the background.
+    - **Lighting:**  
+      The scene feels alive, full of charm and a touch of wonder.
+
+### **Scene 6: Presenting the dish**
+- **Image Prompt:**  
+    - **Character:** 
+      In a long, wide shot, {Animal_Details}, featuring {Facial_Features}, dressed in {Attire} **is in the slightly out-of-focus background, with his arms crossed proudly, away from the main table** with his chef hat.
+    - **Action:** 
+      Main focus the finished dish of **{Typical_Dish}** with the chef in the slightly out-of-focus background, placed on a rustic wooden table, the dish is ready to be served, along with a decoration to be presented. As decoration in the kitchen, a white embroidered tablecloth with embossed details embroidered with the Brazilian flag in subtle shades of gold is spread over the table. Also next to the dish is a wine glass, a bottle of wine, cutlery arranged, fresh ingredients in different corners of the table, a smaller glass served with ice water, all arranged on the table completing the presentation and highlighting this scene. Highlighting the pride of the chef with his chef hat who is **standing in the background slightly out-of-focus, with his arms proudly crossed, away from the main table**, **highlighting his prepared dish, in this presentation being served**.
+    - **Environment:**  
+      The background reveals a cozy {Scenario_Details}.
+    - **Lighting:**  
+      The scene seems to show the chef with his chef hat, slightly out-of-focus, arms crossed, in the background out-of-focus, but very proud of his dish being presented. A magical atmosphere is created by the glowing steam that gently rises from the plate as the main focus, swirling as if they were living, ethereal sparks floating in the air.
+
+
+
+### **Scene 6: Presenting the dish**
+- **Image Prompt:**  
+    - **Character:** 
+      In a medium full shot, {Animal_Details}, featuring {Facial_Features}, dressed in {Attire} **is in the slightly out-of-focus background, with his arms crossed proudly, away from the main table** with his chef hat.
+    - **Action:** 
+      Highlighting the finished dish of **{Typical_Dish}** with the chef in the background slightly blurred, **the dish placed on a rustic wooden table, the dish is ready to be served, along with a decoration to be presented**. As decoration in the kitchen, a white embroidered tablecloth with embossed details embroidered with the Brazilian flag in subtle shades of gold is spread over the table. Also next to the dish is **a glass of red wine**, **two bottles of red wine**, **cutlery arranged, fresh ingredients in different corners of the table**, a smaller glass served with ice cold water, **all arranged on the table completing the presentation and highlighting this scene**.
+    - **Environment:**  
+      The background reveals a cozy {Scenario_Details}.
+    - **Lighting:**  
+      The lighting is high contrast and cinematic, with dramatic shadows **the chef in his chef's hat standing away from the table, but very proudly**, **highlighting his dish being presented and served as the main focus of this scene**. A magical atmosphere is created by the **glowing steam rising from the finished dish, swirling as if they were living, ethereal sparks floating in the air**.
+
+---

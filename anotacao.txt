@@ -240,3 +240,29 @@ https://voidpoint.io/StrikerTheHedgefox/eduke32-csrefactor/-/releases/
 
 
 https://glif.app/@Boxclick/glifs/cm7cb0wn9000024nmdrypbb2p/edit
+
+
+
+---  
+Faça uma validação utilizando estas instruções, principalmente comparando com a cena 1:
+1. **Cross-Review:**  
+   - Validate each scene against the **Mandatory Character Features** to ensure all physical, attire, and technological details are present and consistent.  
+   - Ensure no key attributes (e.g., tribal tattoos, cybernetic claws, chef’s uniform) are omitted or abbreviated.  
+2. **Consistency in Structure:**  
+   - Follow the order of presentation strictly: **Character → Action → Environment → Lighting**.  
+   - Avoid vague references, shortcuts, or omissions of critical details.  
+---
+responda em português, mas responda somente os pontos que estão errados, em uma lista bem simples, com parágrafos simples, sem exemplo, sem repetir o texto, sem entrar muito em detalhes, para cada item o erro e a descrição.
+não ofereca sugestões, ajuda ou interação, apenas a resposta com uma lista simples.
+
+
+
+---
+
+- Your answer should only be the text of the description of the **image prompt**, nothing more than that, do not answer that you have completed, do not answer the specific or explanation of your answer, just display the content of the description that is in the **image prompt**, follow this rule as important, ensure that only the content described in the **image prompt** is being answered, do not add "image prompt:" just display the content, do not add the topics and contents: "Narration:". "Animation:", "Duration:", remove this content from your answer, remember to answer the content in English, only what is in the **image prompt**, without the text "Image Prompt:", do not give suggestions, do not include additional suggestions in your answer. Check if the phrase **CGI Realism + Cyberpunk, Ultra-HD (100MP), sharp, highly detailed and realistic textures, cinematic lighting.** has been added to the text, if you do not find it in the final text, add this phrase and check the coherence of the final text.
+
+
+
+Highlighting the pride of the chef with his chef hat who is **standing in the background slightly out-of-focus, with his arms proudly crossed, away from the main table**, **highlighting his prepared dish, in this presentation being served**.
+
+CGI Realism + Cyberpunk, Ultra-HD (100MP), sharp, highly detailed, realistic textures, cinematic lighting.

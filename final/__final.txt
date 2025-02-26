@@ -1,10 +1,10 @@
 
+#### **Instruction:**
+
+Clear your memory, cache, and old information about these instructions so that there is no conflict. Now save the new information and instructions, guidelines, below in your memory. You will use the following important instructions as an expert.
 
 ---
 #### **Section 1: Introduction to the Role of the AI**
-
-
-Clear your memory, cache, and old information about these instructions so that there is no conflict. Now save the new information and instructions, guidelines, below in your memory. You will use the following important instructions as an expert.
 
 Study, research on the internet, analyze the data and answers, have all the necessary knowledge with the instructions that I will give you, respect the guidelines, follow the guidelines with great care, professionalism, meticulousness, and expertise.
 
@@ -43,9 +43,9 @@ If you are unable to access the content, or the content is unavailable, stop res
 
 1. **Image Prompt Structure and Quality**
    - Use the **Magic Prompt** feature to refine visual details.
-   - Prompts should be a **single paragraph** (coherent and structured).
-   - Have at least **800 characters (including spaces)**.
-   - Do not exceed **1400 characters (including spaces)**.
+   - Prompts should be a **new line and single paragraph with coherent text** (coherent and structured).
+   - Have at least **1000 characters (including spaces)**.
+   - Do not exceed **1500 characters (including spaces)**.
    - Finish sentences even if slightly exceeding the limit.
 
 2. **Allowed and Prohibited Content**
@@ -53,10 +53,13 @@ If you are unable to access the content, or the content is unavailable, stop res
    - Replace sensitive expressions with neutral alternatives while retaining the description's essence.
 
 3. **Mandatory Components for Each Scene**
-   - Each scene should be written as a **single paragraph** with the following elements:
-     - **Image Prompt:** A detailed description of the **Character → Action → Environment → Lighting**.
-     - **Narration:** Descriptive text (no dialogue).
-     - **Animation:** Character and camera movements.
+   - Each scene should be written as a **new line and single paragraph with coherent text** with the following elements:
+     - **Image Prompt:** 
+     A detailed description of the **Character → Action → Environment → Lighting**.
+     - **Narration:** 
+     Descriptive text (no dialogue).
+     - **Animation:** 
+     Character and camera movements.
      - **Duration:** 10 seconds.
 
 ---
@@ -69,9 +72,12 @@ If you are unable to access the content, or the content is unavailable, stop res
 ---
 #### **Section 3: Scene Formatting Standard Guidelines**  
 - **Replace placeholders with refined descriptions**
-- **Image Prompt:** [A coherent and detailed description of **Character → Action → Environment → Lighting**].  
-- **Narration:** [Descriptive text, no dialogue].  
-- **Animation:** [Character and camera movements].  
+- **Image Prompt:** 
+[A coherent and detailed description of **Character → Action → Environment → Lighting**].  
+- **Narration:** 
+[Descriptive text, no dialogue].  
+- **Animation:** 
+[Character and camera movements].  
 
 ---
 
@@ -87,35 +93,28 @@ If you are unable to access the content, or the content is unavailable, stop res
 - Focused exclusively on the Character.
 - **Image Prompt:**  
     - **Character:** 
-      {Animal_Details}, featuring {Facial_Features}, dressed in {Clothing}.
+      {Animal_Details}, featuring {Facial_Features}, dressed in {Attire}.
     - **Action:**  
       - **Not included**
     - **Environment:**  
       - **Not included**
     - **Lighting:**
       - **Not included**
-     
+   
+
 ### **Scene 2: Introducing the Head Chef**
 - **Image Prompt:**  
     - **Character:** 
-      In a long, wide shot, {Animal_Details}, featuring {Facial_Features}, dressed in {Clothing} stands in the center of his kitchen. 
+      In a full wide shot (from knees to head), **{Animal_Details}, featuring {Facial_Features}, dressed in {Attire}, stands in the center of his kitchen**. The composition ensures that he is centrally framed, with a small amount of space above him to balance the shot.
     - **Action:**  
-      He holds two plasma knives—one glowing blue, the other red—that emit magical flames and sparks. His posture is powerful and professional, posing for a photo op, addressing the audience with a menacing yet composed demeanor while holding the knives. **His titanium shoulders and forearms** glow with energy as he moves, and **his glowing red cybernetic eye scans the environment, heightening his dominance and readiness for battle**. The shot captures his fluid movements as he dramatically raises the plasma knives, introducing himself as the head chef.
+      **He holds two plasma knives** — glowing blue with slight yellow undertones — that **emit magical flames and sparks**. His posture is powerful and professional, posing for a photo shoot, **approaching the audience with a threatening yet composed demeanor while holding the knives**. The scene captures his fluid movements as he **dramatically raises the plasma knives, intimidating the audience and introducing himself as the chef**.
     - **Environment:**  
-      As the background remains **softly blurred with magical effects swirling around him**. The {Kitchen}, such **as holographic projections, robotic arms**, and glowing magical effects. Steam rises softly around the chef, and magical sparks swirl in the air, **interacting with the holographic displays**. The setting reflects the balance between tradition and innovation, creating an atmosphere of both warmth and awe.
+      {Scenario_Details}. As the background **remains softly blurred with magical particle effects, light smoke swirls around it**. The scene focused on the chef with the stove next to him and the table on the other side reflects the balance of threat and anticipation in his presentation, creating an atmosphere of warmth and wonder.
     - **Lighting:**  
-      The lighting is high-contrast and cinematic, with dramatic shadows emphasizing the interplay of traditional and futuristic elements. Reflective surfaces amplify the glow of the plasma knives and the subtle pulsation of the chef’s cybernetic enhancements. Warm, golden light bathes the scene, creating a sense of depth and immersion, while the magical and technological elements add vibrant highlights to the composition.
+      The lighting is high contrast and cinematic, with dramatic shadows highlighting the interplay of traditional and futuristic elements, such as his uniform and hat. Reflective surfaces amplify the **glow of the plasma knives** and the subtle pulse of the chef’s cybernetic enhancements. **Warm, golden light bathes the scene, creating a sense of depth and immersion, while magical and technological elements add vibrant highlights to the composition.**
+      
 
-### **Scene 3: Preparing the Ingredients**
-- **Image Prompt:**  
-    - **Character:** 
-      {Animal_Details}, featuring {Facial_Features}, dressed in {Clothing}
-    - **Action:** 
-      fully focused, precisely chops vibrant ingredients using **his cybernetic claws**, while his **bionic arm scans and projects holographic data**. **The close-up shot emphasizes precision**, showcasing **organized ingredients and fluid hand movements**. Steam and smoke rise in controlled swirls, reflecting the interplay of **traditional cooking and high-tech enhancements**.
-    - **Environment:**  
-      The {Kitchen} is alive with activity. Vibrant ingredients are organized meticulously on the counter, while steam and smoke rise in controlled swirls. Magical particles float subtly in the air, interacting with the holographic projections. The rustic wooden counters and stone walls are juxtaposed with advanced technological tools, creating a harmonious blend of tradition and futurism.
-    - **Lighting:**  
-      A warm, golden light bathes the scene, accentuating the vibrant colors of the ingredients and the metallic sheen of the chef’s cybernetic enhancements. Depth-of-field effects focus on the chef’s precise hand movements, while the background remains softly blurred, emphasizing the interplay of light and shadow.
+
 
 ---
 
@@ -126,7 +125,7 @@ If you are unable to access the content, or the content is unavailable, stop res
 
 - **Do not refer to the character using vague terms** such as **"the character", "the same", "name creation", "the warrior", "the chef", "he", "she"**. The **full detailed description should be reintroduced in each prompt**. 
 
-- **Scene descriptions must follow a strict order**: **Character → Action → Environment → Lighting**.  
+- **Image Prompt a detailed descriptions must follow a strict order**: **Character → Action → Environment → Lighting**.  
 
 - **Before finalizing, verify that each scene strictly follows the Mandatory Character Feature Checklist**. 
 
@@ -146,9 +145,9 @@ If you are unable to access the content, or the content is unavailable, stop res
 
 ### **Final Review and Consistency Checks**  
 
-- **Before finalizing any scene**, apply a **cross-review** to ensure all character details are accurate. 
+- **Before finalizing any scene**, apply a **cross-review** to ensure all character are accurate. 
 
-- **Verify the correct order of presentation**: **Character → Action → Environment → Lighting**.  
+- **Verify the correct order of Image Prompt**: **Character → Action → Environment → Lighting**.  
 
 - **Check that no elements were omitted or abbreviated**.  
 
@@ -164,7 +163,7 @@ If you are unable to access the content, or the content is unavailable, stop res
 
 - **Do not create new scenes**. Only adjust parameters within the provided structure.  
 
-- **Replace placeholders with refined descriptions** while keeping all character details consistent.  
+- **Replace placeholders with refined descriptions** while keeping all character consistent.  
 
 - **Scene transitions must not introduce inconsistencies**.  
 
@@ -177,7 +176,7 @@ If you are unable to access the content, or the content is unavailable, stop res
 #### **Section 5: Essential Guidelines**
 
 - **Cultural and Environmental Authenticity:**
-  - Ensure each kitchen setting is thematically accurate and regionally inspired.
+  - Ensure each scenario setting is thematically accurate and regionally inspired.
   - Integrate magic effects like steam, glowing embers, and flickering fire to enhance warmth and atmosphere.
 
 - **Lighting and Cinematic Depth:**
@@ -202,10 +201,8 @@ If you are unable to access the content, or the content is unavailable, stop res
   - Add atmospheric descriptions (weather, lighting, ambiance) to enrich emotional depth.  
 
 - **Visual Style and Artistic Mediums:**  
-
-  - **Preferred style:** CGI Realism + Cyberpunk, inspired by high-definition animations (Pixar, Unreal Engine, Cinematic VFX).  
-
-  - The image must be **Ultra-HD (108MP), sharpy, highly detailed**, with **realistic textures and cinematic lighting**.  
+  - **Preferred style:** Inspired by high-definition animations (Pixar, Unreal Engine, Cinematic VFX).  
+  - The image must be **CGI Realism + Cyberpunk, Ultra-HD (108MP), sharpy, highly detailed, with realistic textures and cinematic lighting**.  
 
 ---
 
@@ -223,29 +220,29 @@ If you are unable to access the content, or the content is unavailable, stop res
    - A **tall, strong, and intimidating presence**.  
    - **Cybernetic Enhancements:** Polished bionic parts seamlessly integrated into the body, glowing subtly with pulsating energy.
 
-  **2. Attire (Chef’s Uniform):**  
-    - A **tailored, double-breasted chef’s uniform**, perfectly fitted to the character’s muscular frame. The uniform is predominantly in the colors of {Country}'s flag, adorned with **silver buttons** and the **{Country} flag sewn onto the sleeve**.  
-    - A **chef’s hat**, positioned with precision, as a signature element of the character. Chef’s hat.  
+  **2. Attire (Chef’s Uniform, chef’s hat):**  
+    - A **tailored, double-breasted chef’s uniform**, perfectly fitted to the character’s muscular frame. Adorned with **silver buttons** and the **{Country} flag sewn onto the sleeve**.  
+    - A **chef’s hat**, as a signature element of the character. Wear a chef's hat.
 
   **3. Technological Features:**  
-    - **Cybernetic Claws:** Hands enhanced with sharp, titanium blades resembling animal claws. Each finger is meticulously designed for maximum dexterity and control.  
-    - **Integrated Bionic Parts:** Advanced enhancements that blend functionality and elegance, glowing subtly with energy.  
+    - **Cybernetic Claws:** His two state-of-the-art cybernetic hands and bionic anti-arms, medium-sized nails and claws made of titanium blades resembling those of animals extend from the fingertips. Designed to increase dexterity and control.  
+    - **Integrated Bionic Parts:** Advanced enhancements that mix functionality and elegance, with internal glow or subtly with energy in his complex joints.
 
   **4. Action Continuity:**  
     - Ensure the character maintains their **imposing posture** and **expressions consistent with their personality** in every scene.  
 
   **5. Environmental Consistency:**  
-    - The kitchen should be **rustic**, but with **magical effects interacting with the character's advanced bionic technology**, creating an atmosphere that reflects the balance between the muscular animal warrior and futuristic elements in the preparation of dishes.  
+    - The scenario should be **rustic**, but with **magical effects interacting with the character's advanced bionic technology**, creating an atmosphere that reflects the balance between the muscular animal warrior and futuristic elements in the preparation of dishes.  
 
 - ### **Validation Instructions**  
 
-  1. **Check each scene:** Confirm that all necessary assets (physical appearance, costume, technological details) are present and consistent.
+  1. **Check each scene:** Confirm that all necessary assets (physical appearance, costume, nails and claws, technological features, bionic parts, attire, uniform, hat) are present and consistent.
 
-  2. **Focus on the details:** Ensure that elements such as defined muscles, tribal tattoos, bionic parts, chef's hat, and chef's uniform are accurately portrayed in each scene.
+  2. **Focus on the details:** Ensure that elements such as defined muscles, tribal tattoos, cybernetic claws, nails and claws, technological features, bionic parts, cybernetic enhancements, attire, chef's hat, and chef's uniform are accurately portrayed in each scene.
 
-  3. **Continuity in tone:** Ensure that the character's imposing personality and his role as an anthropomorphic warrior animal chef, tall, menacing, built with defined muscles, are communicated consistently.
+  3. **Continuity in tone:** Ensure that the character's imposing personality and his role as an anthropomorphic warrior animal, tall, menacing, built with defined muscles, are communicated consistently.
 
-  4. **Environmental alignment:** Validate that the kitchen combines rustic style with magical and technological elements that reflect the character's theme.
+  4. **Environmental alignment:** Validate that the scenario combines rustic style with magical and technological elements that reflect the character's theme.
 
 ---
 
@@ -261,13 +258,20 @@ If you are unable to access the content, or the content is unavailable, stop res
 #### **Section 7: Scene Structure Guidelines**  
 
 - **Applied in Every Scene:**
-Each scene must follow this structure:  
-1. **Character:** 
-     - **Cross-review applied** to ensure consistency with Scene 1.
-     - **Full reintroduction of the character’s details** was provided **Mandatory Character Features**.  
-2. **Action:** Describe movements, interactions, and expressions.  
-3. **Environment:** Detailed setting description.  
-4. **Lighting:** Describe the illumination, reflections, and mood.  
+  - Each scene should be written as a **new line and single paragraph with coherent text** with the following elements this structure:
+     - **Image Prompt:** 
+     Descriptive text:
+      1. **Character:** 
+          - **Cross-review applied** to ensure consistency with Scene 1.
+          - **Full reintroduction of the character’s details** was provided **Mandatory Character Features**.  
+      2. **Action:** Describe movements, interactions, and expressions.  
+      3. **Environment:** Detailed setting description.  
+      4. **Lighting:** Describe the illumination, reflections, and mood.  
+     - **Narration:** 
+     Descriptive text (no dialogue).
+     - **Animation:** 
+     Character and camera movements.
+     - **Duration:** 10 seconds.
 
 ---
 
@@ -275,18 +279,18 @@ Each scene must follow this structure:
 
 1. **Cross-Review:**  
    - Validate each scene against the **Mandatory Character Features** to ensure all physical, attire, and technological details are present and consistent.  
-   - Ensure no key attributes (e.g., tribal tattoos, cybernetic claws, chef’s uniform) are omitted or abbreviated.  
+   - Ensure no key attributes (e.g., tribal tattoos, cybernetic claws, technological details, bionic parts, cybernetic enhancements, attire, chef’s uniform, chef’s hat) are omitted or abbreviated.  
 
 2. **Consistency in Structure:**  
-   - Follow the order of presentation strictly: **Character → Action → Environment → Lighting**.  
+   - Follow the order of Image Prompt strictly: **Character → Action → Environment → Lighting**.  
    - Avoid vague references, shortcuts, or omissions of critical details.  
 
 3. **Continuity in Tone and Theme:**  
-   - Ensure the character’s imposing personality and role as a warrior-chef are communicated consistently.  
+   - Ensure the character’s imposing personality and role as a warrior are communicated consistently.  
    - Balance futuristic elements with cultural authenticity.  
 
 4. **Scene Transitions:**  
-   - Validate that transitions between scenes do not introduce inconsistencies in character appearance, attire, or environment.  
+   - Validate that transitions between scenes do not introduce inconsistencies in character appearance, attire, hat, or environment.  
 
 5. **Lighting and Mood:**  
    - Match the lighting to the narrative tone and emotional depth of each scene, ensuring it enhances the character’s presence.  
@@ -302,7 +306,7 @@ Each scene must follow this structure:
    - All technological, cultural, and environmental elements must be integrated cohesively.  
 
 3. **Refinement of Placeholders:**  
-   - Replace placeholders ({Animal_Details}, {Facial_Features}, etc.) with refined descriptions while maintaining consistency.  
+   - Replace placeholders ({Animal_Details}, {Facial_Features}, {Attire}, etc.) with refined descriptions while maintaining consistency.  
 
 4. **No New Scenes:**  
    - Only adjust parameters within the provided structure.  
@@ -311,7 +315,7 @@ Each scene must follow this structure:
    - Ensure detailed, structured, and immersive descriptions in every scene.  
 
 6. **Final Validation:**  
-   - Before finalizing any scene, apply a **cross-review** to ensure all character details, actions, environment, and lighting are accurate and consistent.  
+   - Before finalizing any scene, apply a **cross-review** to ensure all character, actions, environment, and lighting are accurate and consistent.  
 
 ---
 
@@ -331,17 +335,14 @@ Each scene must follow this structure:
 
 
 
----
 
 
-- **Once all content has been processed, generate structured scene prompts** following the extracted instructions, parameters, and formatting guidelines.
-
-- **Do not generate images.**
-
-- **Once you are done processing and ready with all the knowledge, start creating the main story with the scenes, following all the structure and guidelines**
 
 
----
+
+
+
+
 
 
 
@@ -356,27 +357,56 @@ Each scene must follow this structure:
 
 
 ---
-#### **Animal brasileiro**  
+#### **Section 8: Customizable Parameters Guidelines**  
 
-{Common_Animal}: Onça-Pintada.
+### **Parameters:**
+
+{Common_Animal}: Jaguar.
+
 {Scientific_Animal}: Panthera onca.
-{Country}: Brasil.
-{Typical_Dish}: Chipa: Pão de queijo tradicional sul-mato-grossense.
-{Kitchen}: The rustic, woodland-style outdoor kitchen is stocked with pots and pans, {Country}-inspired items and objects, {Country} flag colors on some walls, an enchanted antique stove, and carved wooden shelves with traditional utensils and vibrant ingredients. It is illuminated by natural light and the magical, flickering fire below the stove, with steam rising in elegant, undulating tendrils.
-{Clothing}: He wears a white chef's uniform, double-breasted and fitted to his muscles, with silver buttons, the {Country} flag sewn on the sleeve. With a chef's hat accessory that fits perfectly on his head. Usa chef's hat.
+
+{Country}: Brazil.
+
+{Typical_Dish}: **Chipa: Traditional cheese bread from Mato Grosso do Sul**.
+
+{Scenario_Details}:The **professional rustic kitchen** in a forest setting is stocked with pots, pans and utensils hanging neatly, some items and objects as decoration inspired by the {Country}, **the colors of the {Country} flag are on some walls or pillars**, there is also in the scene **a large antique enchanted stove**, there is also in the scene **a carved wooden shelf filled with traditional utensils and fresh vibrant ingredients**. It is lit by natural light and a magical fire from the stove, with steam rising in elegant and undulating tendrils floating in the air.
+
+{Attire}: He wears a chef's uniform, light gray double-breasted with silver buttons and fitted to his muscles, the {Country} flag sewn on the sleeve. Wear a chef's hat.
+
 {Facial_Features}: 
-- **His two state-of-the-art cybernetic hands and anti-arm, with each finger meticulously designed to enhance dexterity and control, sharp titanium blades that resemble animal claws extend from his fingertips, each designed to assist the chef using futuristic technology. He has claws that can be used as knives to assist in some preparations in the kitchen**.
-- **His anti-arm circulates bright neon energy in the bionic part, advanced devices wrapped in a sleek layer of neon black metal, very futuristic technology**.
-{Animal_Details}: Strong anthropomorphic hybrid warrior chef {Common_Animal} ({Scientific_Animal}) a threatening form, with a molded, muscular and defined body structure of an animal warrior, tall, very strong muscles, has tattoos all over his body, gold chains, gold bracelet, with a gangster and threatening appearance.
-{Character}: {Animal_Details}, featuring {Facial_Features}, dressed in {Clothing}.
+- **His two state-of-the-art cybernetic hands and bionic anti-arms, with each finger meticulously designed to enhance dexterity and control, medium-sized nails and claws made of titanium blades resembling those of animals extend from the fingertips, each designed to assist the chef using futuristic technology. Used as knives to aid in some preparations**
+- **HCovering his entire bionic anti-arm circulates bright pulsating neon energy, advanced devices wrapped in an elegant layer of polished metal and transparent black visor with internal neon circuits, very futuristic technology**
+
+{Animal_Details}: Strong anthropomorphic hybrid warrior {Common_Animal} ({Scientific_Animal}) a threatening form, with a molded, muscular and defined body structure of an animal warrior, tall, very strong proportional muscles, has tattoos all over the body, gold chains, gold bracelet, with a gangster and menacing appearance, golden fur with black spots.
+
+{Character}: {Animal_Details}, featuring {Facial_Features}, dressed in {Attire}.
+
+---
+
+
+
+
+
+
+
+
+---
+
+#### **Final Instruction:**
 
 ---
 
 - **Do not refer to the character using vague terms** such as **"the character", "the same", "name creation", "the warrior", "the chef", "he", "she"**. The **full detailed description should be reintroduced in each prompt**. 
 
+---
+
 - **Replace placeholders with refined descriptions**
 
-- **Before finalizing Scene**, apply a **cross-review** to ensure all character details are accurate and consistent with Scene 1.  
+---
+
+- The image must be **CGI Realism + Cyberpunk, Ultra-HD (108MP), sharpy, highly detailed, with realistic textures and cinematic lighting**. 
+
+- **Before finalizing Scene**, apply a **cross-review** to ensure all character are accurate and consistent with Scene 1.  
 
 - **Check that no elements were omitted or abbreviated**.  
 
@@ -388,10 +418,21 @@ Each scene must follow this structure:
 
 - **Make sure that in all scenes, the following are present:**
     - **Physical appearance:** Anthropomorphic warrior, Muscular and defined body structure, Cybernetic enhancements.
-    - **Attire (Chef's Uniform):** Uniform, hat.
-    - **Technological features:** Cybernetic claws, Integrated bionic parts
+    - **Attire (Chef's Uniform, chef’s hat):** Uniform, Hat.
+    - **Technological features:** Cybernetic claws, Integrated bionic parts.
 
 ---
+
+- **Ensure coherent prompts, correct redundancy, repeated phrases, maintaining all context**
+
+- Ensure **Image Prompt:** do not exceed **1500 characters (including spaces)**
+
+- **Ensure Image Prompt:**
+  - Use the **Magic Prompt** feature to refine visual details.
+  - Prompts should be a **new line and single paragraph with coherent text** (coherent and structured).
+  - Have at least **1000 characters (including spaces)**.
+  - Do not exceed **1500 characters (including spaces)**.
+  - Finish sentences even if you go slightly over the limit.
 
 - **Once all content has been processed, generate structured scene prompts** following the extracted instructions, parameters, and formatting guidelines.
 
@@ -399,6 +440,19 @@ Each scene must follow this structure:
 
 - **Once you are done processing and ready with all the knowledge, start creating the main story with the scenes, following all the structure and guidelines**
 
+- Only in scene 1: do not add the topics and contents: "Narration:". "Animation:", "Duration:", in scene 1 there is only the topic and contents: "Image Prompt:".
+
+- Verify that the phrase **CGI Realism + Cyberpunk, Ultra-HD (100MP), crisp, highly detailed and realistic textures, cinematic lighting.** has been added to the topic text **Image Prompt:**, if you don't see it in the final text of each scene, add this phrase and check the coherence of the final text of each scene.
+
 ---
 
-Now, you can start creating the story.
+- I am writing a long story and I want you to maintain coherence between the scenes. To do this, at the end of each section, summarize the main events, use the summary from **Scene 1** to be used in all sections, continue creating the summary of the main events of the other scenes and use this summary to continue the next section, continue the story by maintaining the tone, characters and events coherent in each scene.
+
+- Here are the details of my story: 
+  Main characters and their motivations, Location where the story takes place: [**all descriptions and parameterized information can be found in (Section 8: Customizable Parameter Guidelines)**]
+  Write following these guidelines and ensuring coherence with what has been established.
+
+- **Don't ask if it's to "Continue with the next scenes", "Would you like me to create", the answer is yes, start creating and show the complete story, always continue creating all the scenes that were requested in the text, all the scenes in the description must be generated, in the same answer, without pausing, generate a complete final answer following what is being requested in the document.**
+
+- **I want you to start creating this story as described in the document, without asking me if it's to create, read all the sections, start with Section 1, Section 2, and so on, follow the document step-by-step, be an expert, review everything you learn, read, analyze, study, and with professionalism and knowledge stored in the memory of each session you visited, creating your knowledge base to create the prompts and scenes of this story, reinforcing you can start creating the scene prompts according to the instructions and guidelines provided in the document. You can create detailed and consistent prompts for all Scenes, follow all instructions and guidelines as outlined in the document.**
+
